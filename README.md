@@ -21,9 +21,9 @@ You can download a map to test the pack out [here](https://raw.githubusercontent
 You can find the most recent version of DF Tweaks for your Minecraft version here:
 <br>
 
-[1.21.0+](https://github.com/p12h4/DF-Tweaks/releases/download/4.5.0/Discontinued.Feature.Tweaks.1.21.mcpack)<br>
-[1.18.10 - 1.20.81](https://github.com/p12h4/DF-Tweaks/releases/download/4.5.0/Discontinued.Feature.Tweaks.1.18.10.mcpack)<br>
-[1.16.40 - 1.18.2](https://github.com/p12h4/DF-Tweaks/releases/download/4.5.0/Discontinued.Feature.Tweaks.1.16.40.mcpack)<br><br>
+[1.21.0+](https://github.com/p12h4/DF-Tweaks/releases/download/4.5.1/Discontinued.Feature.Tweaks.1.21.mcpack)<br>
+[1.18.10 - 1.20.81](https://github.com/p12h4/DF-Tweaks/releases/download/4.5.1/Discontinued.Feature.Tweaks.1.18.10.mcpack)<br>
+[1.16.40 - 1.18.2](https://github.com/p12h4/DF-Tweaks/releases/download/4.5.1/Discontinued.Feature.Tweaks.1.16.40.mcpack)<br><br>
 
 
 ## Installation
