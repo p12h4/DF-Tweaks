@@ -2,7 +2,7 @@
   "format_version": "1.10.0",
   "minecraft:attachable": {
     "description": {
-      "identifier": "tweaks:diamond_boots.fox",
+      "identifier": "dftweaks:diamond_boots.fox",
       "item": {
         "minecraft:diamond_boots": "q.is_owner_identifier_any('minecraft:fox') == 1.0"
       },

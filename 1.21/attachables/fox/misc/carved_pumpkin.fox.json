@@ -2,7 +2,7 @@
   "format_version": "1.10.0",
   "minecraft:attachable": {
     "description": {
-      "identifier": "tweaks:carved_pumpkin.fox",
+      "identifier": "dftweaks:carved_pumpkin.fox",
       "item": {
         "minecraft:carved_pumpkin": "q.is_owner_identifier_any('minecraft:fox') == 1.0"
       },

@@ -518,22 +518,6 @@
   "movingBlock": {
     "textures": "moving_block"
   },
-  "mysterious_frame": {
-    "sound": "netherite",
-    "textures": {
-      "down": "mysterious_frame_bottom",
-      "side": "mysterious_frame_side",
-      "up": "mysterious_frame_top"
-    }
-  },
-  "mysterious_frame_slot": {
-    "sound": "netherite",
-    "textures": {
-      "down": "mysterious_frame_bottom",
-      "side": "mysterious_frame_side",
-      "up": "mysterious_frame_top"
-    }
-  },
   "nether_sprouts": {
     "sound": "nether_sprouts",
     "carried_textures": "nether_sprouts_carried",

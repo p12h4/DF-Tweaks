@@ -242,5 +242,8 @@
   "textures/entity/tadpole/tadpole_pale",
   "textures/entity/vindicator/vindicator_captain",
   "textures/items/tipped_arrow",
-  "textures/misc/invisible_top"
+  "textures/misc/invisible_top",
+  "textures/models/armor/block/carved_pumpkin",
+  "textures/models/armor/block/pumpkin",
+  "textures/models/armor/fox/elytra"
 ]

@@ -2,7 +2,7 @@
   "format_version": "1.10.0",
   "minecraft:attachable": {
     "description": {
-      "identifier": "tweaks:elytra.fox",
+      "identifier": "dftweaks:elytra.fox",
       "item": {
         "minecraft:elytra": "q.is_owner_identifier_any('minecraft:fox') == 1.0"
       },

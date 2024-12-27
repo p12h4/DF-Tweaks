@@ -2,7 +2,7 @@
   "format_version": "1.10.0",
   "minecraft:attachable": {
     "description": {
-      "identifier": "tweaks:glowstone_worn.witch",
+      "identifier": "dftweaks:glowstone_worn.witch",
       "item": {
         "minecraft:glowstone": "q.is_owner_identifier_any('minecraft:witch') == 1.0"
       },

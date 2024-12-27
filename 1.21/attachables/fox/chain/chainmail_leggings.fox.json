@@ -2,7 +2,7 @@
   "format_version": "1.10.0",
   "minecraft:attachable": {
     "description": {
-      "identifier": "tweaks:chainmail_leggings.fox",
+      "identifier": "dftweaks:chainmail_leggings.fox",
       "item": {
         "minecraft:chainmail_leggings": "q.is_owner_identifier_any('minecraft:fox') == 1.0"
       },

@@ -2,7 +2,7 @@
   "format_version": "1.10.0",
   "minecraft:attachable": {
     "description": {
-      "identifier": "tweaks:golden_chestplate.fox",
+      "identifier": "dftweaks:golden_chestplate.fox",
       "item": {
         "minecraft:golden_chestplate": "q.is_owner_identifier_any('minecraft:fox') == 1.0"
       },

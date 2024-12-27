@@ -2,7 +2,7 @@
   "format_version": "1.10.0",
   "minecraft:attachable": {
     "description": {
-      "identifier": "tweaks:netherite_boots.fox",
+      "identifier": "dftweaks:netherite_boots.fox",
       "item": {
         "minecraft:netherite_boots": "q.is_owner_identifier_any('minecraft:fox') == 1.0"
       },

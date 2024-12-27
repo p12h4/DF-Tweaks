@@ -2,7 +2,7 @@
   "format_version": "1.10.0",
   "minecraft:attachable": {
     "description": {
-      "identifier": "tweaks:diamond_leggings.fox",
+      "identifier": "dftweaks:diamond_leggings.fox",
       "item": {
         "minecraft:diamond_leggings": "q.is_owner_identifier_any('minecraft:fox') == 1.0"
       },

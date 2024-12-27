@@ -1,3 +1,11 @@
+4.5.1:
+- 1.21+:
+  - all types of mob heads can now be seen on foxes
+  - fixed texture warnings by removing "mysterious_frame" and "mysterious_frame_slot" from "blocks.json"
+  - made pumpkins visible on armor stands
+- fixed a bug where glowstone would render on your head and in your first person view when holding it
+
+
 4.5.0:
 - added a "1.21+" variant of the pack
   - mobs once again show pumpkins on their head

@@ -2,7 +2,7 @@
   "format_version": "1.10.0",
   "minecraft:attachable": {
     "description": {
-      "identifier": "tweaks:turtle_helmet.fox",
+      "identifier": "dftweaks:turtle_helmet.fox",
       "item": {
         "minecraft:turtle_helmet": "q.is_owner_identifier_any('minecraft:fox') == 1.0"
       },

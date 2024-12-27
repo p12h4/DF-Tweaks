@@ -2,7 +2,7 @@
   "format_version": "1.10.0",
   "minecraft:attachable": {
     "description": {
-      "identifier": "tweaks:glowstone_worn.entity",
+      "identifier": "dftweaks:glowstone_worn.entity",
       "item": {
         "minecraft:glowstone": "q.is_owner_identifier_any('minecraft:armor_stand','minecraft:drowned','minecraft:evocation_illager','minecraft:husk','minecraft:piglin','minecraft:piglin_brute','minecraft:pillager','minecraft:player','minecraft:skeleton','minecraft:stray','minecraft:vindicator','minecraft:wither_skeleton','minecraft:zombie','minecraft:zombie_pigman','minecraft:zombie_villager_v2') == 1.0"
       },

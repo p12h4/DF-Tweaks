@@ -2,7 +2,7 @@
   "format_version": "1.10.0",
   "minecraft:attachable": {
     "description": {
-      "identifier": "tweaks:chainmail_chestplate.fox",
+      "identifier": "dftweaks:chainmail_chestplate.fox",
       "item": {
         "minecraft:chainmail_chestplate": "q.is_owner_identifier_any('minecraft:fox') == 1.0"
       },

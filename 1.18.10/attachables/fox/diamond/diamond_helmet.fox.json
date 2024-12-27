@@ -2,7 +2,7 @@
   "format_version": "1.10.0",
   "minecraft:attachable": {
     "description": {
-      "identifier": "tweaks:diamond_helmet.fox",
+      "identifier": "dftweaks:diamond_helmet.fox",
       "item": {
         "minecraft:diamond_helmet": "q.is_owner_identifier_any('minecraft:fox') == 1.0"
       },

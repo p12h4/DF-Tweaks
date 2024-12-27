@@ -2,7 +2,7 @@
   "format_version": "1.10.0",
   "minecraft:attachable": {
     "description": {
-      "identifier": "tweaks:skull.fox",
+      "identifier": "dftweaks:skull.fox",
       "item": {
         "minecraft:skull": "q.is_owner_identifier_any('minecraft:fox') == 1.0"
       },
