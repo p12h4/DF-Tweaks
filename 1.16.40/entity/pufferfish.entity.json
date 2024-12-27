@@ -1,0 +1,48 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:pufferfish",
+      "min_engine_version": "1.8.0",
+      "materials": {
+        "default": "pufferfish"
+      },
+      "textures": {
+        "default": "textures/entity/fish/pufferfish",
+        "skeleton": "textures/entity/fish/pufferfish_skeleton"
+      },
+      "geometry": {
+        "default": "geometry.pufferfish.small.v1.8",
+        "mid": "geometry.pufferfish.mid.v1.8",
+        "large": "geometry.pufferfish.large.v1.8"
+      },
+      "scripts": {
+        "pre_animation": [
+          "v.ZRot = !q.is_in_water ? Math.cos(q.time_stamp * 14.32) * 90 : 0.0;",
+          "v.AnimationAmountBlend = Math.lerp(v.AnimationAmountPrev, v.AnimationAmount, q.frame_alpha);"
+        ],
+        "animate": ["general"]
+      },
+      "animations": {
+        "flop": "animation.pufferfish.flop",
+        "swim": "animation.pufferfish.swim",
+        "general": "controller.animation.fish.general"
+      },
+      "render_controllers": [
+        {
+          "controller.render.pufferfish.small": "q.variant == 0"
+        },
+        {
+          "controller.render.pufferfish.medium": "q.variant == 1"
+        },
+        {
+          "controller.render.pufferfish.large": "q.variant == 2"
+        }
+      ],
+      "spawn_egg": {
+        "texture": "spawn_egg",
+        "texture_index": 46
+      }
+    }
+  }
+}

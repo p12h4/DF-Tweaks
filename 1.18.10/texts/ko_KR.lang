@@ -1,0 +1,375 @@
+### Items
+## Regular Items
+item.copper_horn.name=구리 나팔 
+item.spawn_egg.name=생성
+
+
+## Education Edition Items
+item.glow_stick.black.name=검정색 야광봉 
+
+
+
+
+
+
+### Tiles
+## Doors
+tile.wooden_door.name=참나무 문
+tile.spruce_door.name=가문비나무 문
+tile.birch_door.name=자작나무 문
+tile.jungle_door.name=정글나무 문
+tile.acacia_door.name=아카시아나무 문
+tile.dark_oak_door.name=짙은 참나무 문
+tile.mangrove_door.name=맹그로브나무 문
+
+
+## Signs
+tile.wall_sign.name=참나무 벽 표지판
+tile.spruce_wall_sign.name=가문비나무 벽 표지판
+tile.birch_wall_sign.name=자작나무 벽 표지판
+tile.jungle_wall_sign.name=정글나무 벽 표지판
+tile.acacia_wall_sign.name=아카시아나무 벽 표지판
+tile.darkoak_wall_sign.name=짙은 참나무 벽 표지판
+tile.mangrove_standing_sign.name=맹그로브나무 표지판
+tile.mangrove_wall_sign.name=맹그로브 나무 벽 표지판
+tile.bamboo_standing_sign.name=대나무 표지판
+tile.bamboo_wall_sign.name=대나무 벽 표지판
+tile.cherry_standing_sign.name=벚나무 표지판
+tile.cherry_wall_sign.name=벚나무 벽 표지판
+tile.crimson_wall_sign.name=진홍빛 벽 표지판
+tile.warped_wall_sign.name=뒤틀린 벽 표지판
+
+
+## Double Slabs
+tile.double_wooden_slab.oak.name=참나무 이중 반 블록
+tile.double_wooden_slab.spruce.name=가문비나무 이중 반 블록
+tile.double_wooden_slab.birch.name=자작나무 이중 반 블록
+tile.double_wooden_slab.jungle.name=정글나무 이중 반 블록
+tile.double_wooden_slab.acacia.name=아카시아나무 이중 반 블록
+tile.double_wooden_slab.big_oak.name=짙은 참나무 이중 반 블록
+tile.mangrove_double_slab.name=맹그로브나무 이중 반 블록
+tile.bamboo_double_slab.name=대나무 이중 반 블록
+tile.bamboo_mosaic_double_slab.name=대나무 모자이크 이중 반 블록
+tile.crimson_double_slab.name=진홍빛 이중 반 블록
+tile.warped_double_slab.name=뒤틀린 이중 반 블록
+tile.double_stone_slab.wood.name=규화된 참나무 이중 반 블록
+tile.double_stone_slab2.mossy_cobblestone.name=이끼 낀 조약돌 이중 반 블록
+tile.double_stone_slab4.stone.name=돌 이중 반 블록
+tile.double_stone_slab3.andesite.name=안산암 이중 반 블록
+tile.double_stone_slab3.andesite.smooth.name=윤나는 안산암 이중 반 블록
+tile.double_stone_slab3.diorite.name=섬록암 이중 반 블록
+tile.double_stone_slab3.diorite.smooth.name=윤나는 섬록암 이중 반 블록
+tile.double_stone_slab3.granite.name=화강암 이중 반 블록
+tile.double_stone_slab3.granite.smooth.name=윤나는 화강암 이중 반 블록
+tile.double_stone_slab4.mossy_stone_brick.name=이끼 낀 석재 벽돌 이중 반 블록
+tile.double_stone_slab4.cut_sandstone.name=조각된 사암 이중 반 블록
+tile.double_stone_slab2.sandstone.smooth.name=매끄러운 사암 이중 반 블록
+tile.double_stone_slab4.cut_red_sandstone.name=조각된 붉은 사암 이중 반 블록
+tile.double_stone_slab3.red_sandstone.smooth.name=매끄러운 붉은 사암 이중 반 블록
+tile.mud_brick_double_slab.name=진흙 벽돌 이중 반 블록
+tile.polished_tuff_double_slab.name=윤나는 응회암 이중 반 블록
+tile.tuff_brick_double_slab.name=응회암 벽돌 이중 반 블록
+tile.tuff_double_slab.name=응회암 이중 반 블록
+tile.double_cut_copper_slab.name=깎인 구리 이중 반 블록
+tile.exposed_double_cut_copper_slab.name=약간 녹슨 깎인 구리 이중 반 블록
+tile.oxidized_double_cut_copper_slab.name=산화된 깎인 구리 이중 반 블록
+tile.waxed_double_cut_copper_slab.name=밀랍칠한 깎인 구리 이중 반 블록
+tile.waxed_exposed_double_cut_copper_slab.name=밀랍칠한 약간 녹슨 깎인 구리 이중 반 블록
+tile.waxed_oxidized_double_cut_copper_slab.name=밀랍칠한 산화된 깎인 구리 이중 반 블록
+tile.waxed_weathered_double_cut_copper_slab.name=밀랍칠한 녹슨 깎인 구리 이중 반 블록
+tile.weathered_double_cut_copper_slab.name=녹슨 깎인 구리 이중 반 블록
+tile.double_stone_slab2.prismarine.rough.name=프리즈머린 이중 반 블록
+tile.double_stone_slab2.prismarine.bricks.name=프리즈머린 벽돌 이중 반 블록
+tile.double_stone_slab2.prismarine.dark.name=짙은 프리즈머린 이중 반 블록
+tile.double_stone_slab4.smooth_quartz.name=매끄러운 석영 이중 반 블록
+tile.blackstone_double_slab.name=흑암 이중 반 블록
+tile.polished_blackstone_brick_double_slab.name=윤나는 흑암 벽돌 이중 반 블록
+tile.polished_blackstone_double_slab.name=윤나는 흑암 이중 반 블록
+tile.double_stone_slab2.red_nether_brick.name=붉은 네더 벽돌 이중 반 블록
+tile.double_stone_slab3.end_brick.name=엔드 석재 벽돌 이중 반 블록
+tile.double_stone_slab2.purpur.name=퍼퍼 이중 반 블록
+
+
+## Cut Copper Blocks
+tile.cut_copper_block.exposed.name=약간 녹슨 깎인 구리 블록 
+tile.cut_copper_block.exposed.waxed.name=밀랍칠한 약간 녹슨 깎인 구리 블록 
+tile.cut_copper_block.name=깎인 구리 블록 
+tile.cut_copper_block.oxidized.name=산화된 깎인 구리 블록 
+tile.cut_copper_block.waxed.name=밀랍칠한 깎인 구리 블록 
+tile.cut_copper_block.weathered.name=녹슨 깎인 구리 블록 
+tile.cut_copper_block.weathered.waxed.name=밀랍칠한 녹슨 깎인 구리 블록 
+
+
+## Nature
+tile.bamboo_sapling.name=죽순
+tile.bamboo_sapling.oak.name=참나무 죽순
+tile.bamboo_sapling.spruce.name=가문비나무 죽순
+tile.bamboo_sapling.birch.name=자작나무 죽순
+tile.bamboo_sapling.jungle.name=정글나무 죽순
+tile.bamboo_sapling.acacia.name=아카시아나무 죽순
+tile.bamboo_sapling.big_oak.name=짙은 참나무 죽순
+tile.chorus_plant.name=후렴초
+tile.melon_stem.name=멜론 줄기
+tile.pitcher_crop.name=벌레잡이풀
+tile.torchflower_crop.name=횃불꽃
+tile.mangrove_propagule_hanging.name=매달린 맹그로브나무 주아 
+tile.kelp.name=켈프
+
+
+## Liquids
+tile.flowing_lava.name=흐르는 용암
+tile.flowing_water.name=흐르는 물
+tile.lava.name=정적인 용암
+tile.water.name=정적인 물
+
+
+## Redstone Blocks
+tile.daylight_detector_inverted.name=반전된 햇빛 감지기
+tile.lit_redstone_lamp.name=불켜진 레스스톤 조명
+tile.lit_redstone_ore.name=빛나는 심층암 레드스톤 광석
+tile.lit_deepslate_redstone_ore.name=빛나는 레드스톤
+tile.pistonarmcollision.name=피스톤 머리
+tile.piston_arm_collision.name=피스톤 머리
+tile.stickypistonarmcollision.name=끈끈이 피스톤 머리
+tile.sticky_piston_arm_collision.name=끈끈이 피스톤 머리
+tile.unpowered_repeater.name=불꺼진 레드스톤 중계기
+tile.unpowered_comparator.name=불꺼진 레드스톤 비교기
+tile.powered_repeater.name=불켜진 레드스톤 중계기
+tile.powered_comparator.name=불켜진 레드스톤 비교기
+
+
+## Light Sources
+tile.lit_furnace.name=불켜진 화로
+tile.lit_blast_furnace.name=불켜진 용광로
+tile.lit_smoker.name=불켜진 훈연기
+
+
+## Decorative Blocks
+tile.flower_pot.name=화분
+tile.frame.name=아이템 액자
+tile.glow_frame.name=빛나는 아이템 액자
+tile.wall_banner.name=벽 현수막
+tile.stone_slab.wood.name=규화된 참나무 반 블록
+tile.purpur_block.smooth.name=매끄러운 퍼퍼 블록
+tile.deprecated_purpur_block_2.name=매끄러운 퍼퍼 블록
+tile.skull.name=벽 해골
+
+
+## Functional Blocks
+tile.allow.name=허용
+tile.border_block.name=경계
+tile.bubble_column.name=거품 기둥
+tile.deny.name=거부
+tile.end_gateway.name=엔드 관문 블록
+tile.end_portal.name=엔드 차원문
+tile.end_portal_frame.name=엔드 차원문 틀
+tile.lava_cauldron.name=용암이 든 가마솥
+tile.powder_snow.name=가루눈이 든 가마솥
+
+
+## Miscellaneous Blocks
+tile.client_request_placeholder_block.name=클라이언트 리퀘스트 플레이스홀더 블록
+tile.glowingobsidian.name=빛나는 흑요석
+tile.reserved6.name=예비 6번
+tile.info_update.name=업데이트 블록1
+tile.info_update2.name=업데이트 블록2
+tile.movingBlock.name=이동 블록
+tile.moving_block.name=이동 블록
+
+
+## Education Edition Blocks
+tile.chemical_heat.name=열 블록 
+tile.colored_torch.blue.name=파란색 횃불 
+tile.colored_torch.green.name=초록색 횃불 
+tile.colored_torch.purple.name=보라색 횃불 
+tile.colored_torch.red.name=빨간색 횃불 
+tile.compoundcreator.name=화합물 생성기 
+tile.element.ac.name=악티늄 
+tile.element.ag.name=은 
+tile.element.al.name=알루미늄 
+tile.element.am.name=아메리슘 
+tile.element.ar.name=아르곤 
+tile.element.as.name=비소 
+tile.element.at.name=아스타틴 
+tile.element.au.name=금 
+tile.element.b.name=붕소 
+tile.element.ba.name=바륨 
+tile.element.be.name=베릴륨 
+tile.element.bh.name=보륨 
+tile.element.bi.name=비스무트 
+tile.element.bk.name=버클륨 
+tile.element.br.name=브로민 
+tile.element.c.name=탄소 
+tile.element.ca.name=칼슘 
+tile.element.cd.name=카드뮴 
+tile.element.ce.name=세륨 
+tile.element.cf.name=캘리포늄 
+tile.element.cl.name=염소 
+tile.element.cm.name=퀴륨 
+tile.element.cn.name=코페르니슘 
+tile.element.co.name=코발트 
+tile.element.cr.name=크로뮴 
+tile.element.cs.name=세슘 
+tile.element.cu.name=구리 
+tile.element.db.name=더브늄 
+tile.element.ds.name=다름슈타튬 
+tile.element.dy.name=디스프로슘 
+tile.element.er.name=어븀 
+tile.element.es.name=아인슈타이늄 
+tile.element.eu.name=유로퓸 
+tile.element.f.name=플루오린 
+tile.element.fe.name=철 
+tile.element.fl.name=플레로븀 
+tile.element.fm.name=페르뮴 
+tile.element.fr.name=프랑슘 
+tile.element.ga.name=갈륨 
+tile.element.gd.name=가돌리늄 
+tile.element.ge.name=저마늄 
+tile.element.h.name=수소 
+tile.element.he.name=헬륨 
+tile.element.hf.name=하프늄 
+tile.element.hg.name=수은 
+tile.element.ho.name=홀뮴 
+tile.element.hs.name=하슘 
+tile.element.i.name=아이오딘 
+tile.element.in.name=인듐 
+tile.element.ir.name=이리듐 
+tile.element.k.name=칼륨 
+tile.element.kr.name=크립톤 
+tile.element.la.name=란타넘 
+tile.element.li.name=리튬 
+tile.element.lr.name=로렌슘 
+tile.element.lu.name=루테튬 
+tile.element.lv.name=리버모륨 
+tile.element.mc.name=모스코븀 
+tile.element.md.name=멘델레븀 
+tile.element.mg.name=마그네슘 
+tile.element.mn.name=망가니즈 
+tile.element.mo.name=몰리브데넘 
+tile.element.mt.name=마이트너륨 
+tile.element.n.name=질소 
+tile.element.na.name=나트륨 
+tile.element.nb.name=나이오븀 
+tile.element.nd.name=네오디뮴 
+tile.element.ne.name=네온 
+tile.element.nh.name=니호늄 
+tile.element.ni.name=니켈 
+tile.element.no.name=노벨륨 
+tile.element.np.name=넵투늄 
+tile.element.o.name=산소 
+tile.element.og.name=오가네손 
+tile.element.os.name=오스뮴 
+tile.element.p.name=인 
+tile.element.pa.name=프로트악티늄 
+tile.element.pb.name=납 
+tile.element.pd.name=팔라듐 
+tile.element.pm.name=프로메튬 
+tile.element.po.name=폴로늄 
+tile.element.pr.name=프라세오디뮴 
+tile.element.pt.name=백금 
+tile.element.pu.name=플루토늄 
+tile.element.ra.name=라듐 
+tile.element.rb.name=루비듐 
+tile.element.re.name=레늄 
+tile.element.rf.name=러더포듐 
+tile.element.rg.name=뢴트게늄 
+tile.element.rh.name=로듐 
+tile.element.rn.name=라돈 
+tile.element.ru.name=루테늄 
+tile.element.s.name=황 
+tile.element.sb.name=안티모니 
+tile.element.sc.name=스칸듐 
+tile.element.se.name=셀레늄 
+tile.element.sg.name=시보귬 
+tile.element.si.name=규소 
+tile.element.sm.name=사마륨 
+tile.element.sn.name=주석 
+tile.element.sr.name=스트론튬 
+tile.element.ta.name=탄탈럼 
+tile.element.tb.name=터븀 
+tile.element.tc.name=테크네튬 
+tile.element.te.name=텔루륨 
+tile.element.th.name=토륨 
+tile.element.ti.name=티타늄 
+tile.element.tl.name=탈륨 
+tile.element.tm.name=툴륨 
+tile.element.ts.name=테네신 
+tile.element.u.name=우라늄 
+tile.element.unknown.name=알 수 없는 요소 
+tile.element.v.name=바나듐 
+tile.element.w.name=텅스텐 
+tile.element.xe.name=제논 
+tile.element.y.name=이트륨 
+tile.element.yb.name=이터븀 
+tile.element.zn.name=아연 
+tile.element.zr.name=지르코늄 
+tile.elementconstructor.name=원소 구성기 
+tile.hard_glass.name=강화 유리 
+tile.hard_glass_pane.name=강화 유리 판 
+tile.hard_stained_glass.black.name=검은색 강화 유리 
+tile.hard_stained_glass.blue.name=파란색 강화 색유리 
+tile.hard_stained_glass.brown.name=갈색 강화 색유리 
+tile.hard_stained_glass.cyan.name= 청록색 강화 색유리 
+tile.hard_stained_glass.gray.name=회색 강화 색유리 
+tile.hard_stained_glass.green.name=초록색 강화 색유리 
+tile.hard_stained_glass.light_blue.name=하늘색 강화 색유리 
+tile.hard_stained_glass.lime.name=연두색 강화 색유리 
+tile.hard_stained_glass.magenta.name=자홍색 강화 색유리 
+tile.hard_stained_glass.orange.name=주황색 강화 색유리 
+tile.hard_stained_glass.pink.name=분홍색 강화 색유리 
+tile.hard_stained_glass.purple.name=보라색 강화 색유리 
+tile.hard_stained_glass.red.name=빨간색 강화 색유리 
+tile.hard_stained_glass.silver.name=회백색 강화 색유리 
+tile.hard_stained_glass.white.name=하얀색 강화 색유리 
+tile.hard_stained_glass.yellow.name=노란색 강화 색유리 
+tile.hard_stained_glass_pane.black.name=검은색 강화 색유리 판 
+tile.hard_stained_glass_pane.blue.name=파란색 강화 색유리 판 
+tile.hard_stained_glass_pane.brown.name=갈색 강화 색유리 판 
+tile.hard_stained_glass_pane.cyan.name=청록색 강화 색유리 판 
+tile.hard_stained_glass_pane.gray.name=회색 강화 색유리 판 
+tile.hard_stained_glass_pane.green.name=초록색 강화 색유리 판 
+tile.hard_stained_glass_pane.light_blue.name=하늘색 강화 색유리 판 
+tile.hard_stained_glass_pane.lime.name=연두색 강화 색유리 판 
+tile.hard_stained_glass_pane.magenta.name=자홍색 강화 색유리 판 
+tile.hard_stained_glass_pane.orange.name=주황색 강화 색유리 판 
+tile.hard_stained_glass_pane.pink.name=분홍색 강화 색유리 판 
+tile.hard_stained_glass_pane.purple.name=보라색 강화 색유리 판 
+tile.hard_stained_glass_pane.red.name=빨간색 강화 색유리 판 
+tile.hard_stained_glass_pane.silver.name=회백색 강화 색유리 판 
+tile.hard_stained_glass_pane.white.name=하얀색 강화 색유리 판 
+tile.hard_stained_glass_pane.yellow.name=노란색 강화 색유리 판 
+tile.labtable.name=실험대 
+tile.materialreducer.name=물질 분해기 
+tile.underwater_tnt.name=수중 TNT 
+tile.underwater_torch.name=수중 횃불 
+
+
+
+
+
+
+### Miscellaneous
+item..name=공백
+item.banner.base.black=검은색 현수막 밑바탕
+item.banner.base.blue=파란색 현수막 밑바탕
+item.banner.base.brown=갈색 현수막 밑바탕
+item.banner.base.cyan=청록색 현수막 밑바탕
+item.banner.base.gray=회색 현수막 밑바탕
+item.banner.base.green=초록색 현수막 밑바탕
+item.banner.base.lightBlue=하늘색 현수막 밑바탕
+item.banner.base.lime=연두색 현수막 밑바탕
+item.banner.base.magenta=자홍색 현수막 밑바탕
+item.banner.base.orange=주황색 현수막 밑바탕
+item.banner.base.pink=분홍색 현수막 밑바탕
+item.banner.base.purple=보라색 현수막 밑바탕
+item.banner.base.red=빨간색 현수막 밑바탕
+item.banner.base.silver=회백색 현수막 밑바탕
+item.banner.base.white=하얀색 현수막 밑바탕
+item.banner.base.yellow=노란색 현수막 밑바탕
+item.minecraft.goat_horn.sound.8=비행 (구형)
+item.minecraft.goat_horn.sound.9=꿈결 (구형)
+tipped_arrow.effect.empty=제작 불가능한 뾰족한 화살
+tipped_arrow.effect.awkward=어색한 뾰족한 화살
+tipped_arrow.effect.mundane.extended=연장된 평범한 뾰족한 화살
+tipped_arrow.effect.mundane=연장된 뾰족한 화살
+tipped_arrow.effect.thick=진한 뾰족한 화살

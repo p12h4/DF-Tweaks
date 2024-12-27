@@ -1,0 +1,373 @@
+### Items
+## Regular Items
+item.copper_horn.name=Medený roh 
+item.spawn_egg.name=Spawn
+
+
+## Education Edition Items
+item.glow_stick.black.name=Black Glow Stick 
+
+
+
+
+
+### Tiles
+## Doors
+tile.wooden_door.name=Dubové dvere
+tile.spruce_door.name=Smrekové dvere
+tile.birch_door.name=Brezové dvere
+tile.jungle_door.name=Dvere džungle
+tile.acacia_door.name=Akáciové dvere
+tile.dark_oak_door.name=Dvere tmavý dub
+tile.mangrove_door.name=Mangrovové dvere
+
+
+## Signs
+tile.wall_sign.name=Nástenný nápis Dub
+tile.spruce_wall_sign.name=Nástenný nápis Smrek
+tile.birch_wall_sign.name=Nápis na stenu Breza
+tile.jungle_wall_sign.name=Nástenný znak džungle
+tile.acacia_wall_sign.name=Nástenný nápis Acacia
+tile.darkoak_wall_sign.name=Nástenný nápis tmavý dub
+tile.mangrove_standing_sign.name=Mangrovové znamenie
+tile.mangrove_wall_sign.name=Nástenné znamenie Mangrove
+tile.bamboo_standing_sign.name=Bambusové znamenie
+tile.bamboo_wall_sign.name=Nástenný bambusový nápis
+tile.cherry_standing_sign.name=Čerešňové znamenie
+tile.cherry_wall_sign.name=Nástenný znak čerešňa
+tile.crimson_wall_sign.name=Crimson Wall Sign
+tile.warped_wall_sign.name=Skrútený nástenný nápis
+
+
+## Double Slabs
+tile.double_wooden_slab.oak.name=Dubová dvojitá doska
+tile.double_wooden_slab.spruce.name=Smreková dvojitá doska
+tile.double_wooden_slab.birch.name=Brezová dvojitá doska
+tile.double_wooden_slab.jungle.name=Dvojitá doska z džungle
+tile.double_wooden_slab.acacia.name=Akáciová dvojitá doska
+tile.double_wooden_slab.big_oak.name=Tmavý dub dvojitá doska
+tile.mangrove_double_slab.name=Mangrove Double Doska
+tile.bamboo_double_slab.name=Bambusová dvojitá doska
+tile.bamboo_mosaic_double_slab.name=Mozaiková bambusová dvojitá doska
+tile.crimson_double_slab.name=Karmínová dvojitá doska
+tile.warped_double_slab.name=Deformovaná dvojitá doska
+tile.double_stone_slab.wood.name=Dvojitá doska zo skameneného dubu
+tile.double_stone_slab2.mossy_cobblestone.name=Mossy Cobblestone Double Doska
+tile.double_stone_slab4.stone.name=Kamenná dvojitá doska
+tile.double_stone_slab3.andesite.name=Andezitová dvojitá doska
+tile.double_stone_slab3.andesite.smooth.name=Hladká andezitová dvojitá doska
+tile.double_stone_slab3.diorite.name=Dvojitá doska Diorite
+tile.double_stone_slab3.diorite.smooth.name=Hladká dvojitá doska Diorite
+tile.double_stone_slab3.granite.name=Žulová dvojitá doska
+tile.double_stone_slab3.granite.smooth.name=Hladká žulová dvojitá doska
+tile.double_stone_slab4.mossy_stone_brick.name=Mossy Stone Brick Double Doska
+tile.double_stone_slab4.cut_sandstone.name=Rezaná pieskovcová dvojitá doska
+tile.double_stone_slab2.sandstone.smooth.name=Dvojitá doska z hladkého pieskovca
+tile.double_stone_slab4.cut_red_sandstone.name=Rezaná dvojitá doska z červeného pieskovca
+tile.double_stone_slab3.red_sandstone.smooth.name=Dvojitá doska z hladkého červeného pieskovca
+tile.mud_brick_double_slab.name=Dvojitá doska z bahenných tehál
+tile.polished_tuff_double_slab.name=Dvojitá doska z lešteného tufu
+tile.tuff_brick_double_slab.name=Dvojitá doska z tufových tehál
+tile.tuff_double_slab.name=Dvojitá doska z tufu
+tile.double_cut_copper_slab.name=Rezaná medená dvojitá doska
+tile.exposed_double_cut_copper_slab.name=Odkrytá rezaná medená dvojitá doska
+tile.oxidized_double_cut_copper_slab.name=Oxidovaná rezaná medená dvojitá doska
+tile.waxed_double_cut_copper_slab.name=Voskovaná rezaná medená dvojitá doska
+tile.waxed_exposed_double_cut_copper_slab.name=Voskovaná odkrytá rezaná medená dvojitá doska
+tile.waxed_oxidized_double_cut_copper_slab.name=Voskovaná oxidovaná rezaná medená dvojitá doska
+tile.waxed_weathered_double_cut_copper_slab.name=Voskovaná zvetraná rezaná medená dvojitá doska
+tile.weathered_double_cut_copper_slab.name=Zvetraná rezaná medená dvojitá doska
+tile.double_stone_slab2.prismarine.rough.name=Prismarine Double Doska
+tile.double_stone_slab2.prismarine.bricks.name=Prismarine Brick Double Doska
+tile.double_stone_slab2.prismarine.dark.name=Tmavá dvojitá doska Prismarine
+tile.double_stone_slab4.smooth_quartz.name=Hladká kremenná dvojitá doska
+tile.blackstone_double_slab.name=Blackstone Double Doska
+tile.polished_blackstone_brick_double_slab.name=Dvojitá doska z leštenej tehly Blackstone
+tile.polished_blackstone_double_slab.name=Dvojitá leštená doska Blackstone
+tile.double_stone_slab2.red_nether_brick.name=Dvojitá doska z červených netherských tehál
+tile.double_stone_slab3.end_brick.name=Koncová tehlová dvojitá doska
+tile.double_stone_slab2.purpur.name=Dvojitá doska Purpur
+
+
+## Cut Copper Blocks
+tile.cut_copper_block.exposed.name=Odkrytý rezaný medený blok 
+tile.cut_copper_block.exposed.waxed.name=Voskovaný exponovaný rezaný medený blok 
+tile.cut_copper_block.name=Odrežte medený blok 
+tile.cut_copper_block.oxidized.name=Oxidovaný rezaný medený blok 
+tile.cut_copper_block.waxed.name=Voskovaný rezaný medený blok 
+tile.cut_copper_block.weathered.name=Zvetraný rezaný medený blok 
+tile.cut_copper_block.weathered.waxed.name=Voskovaný zvetraný rezaný medený blok 
+
+
+## Nature
+tile.bamboo_sapling.name=Bambusový stromček
+tile.bamboo_sapling.oak.name=Dubový bambusový stromček
+tile.bamboo_sapling.spruce.name=Smrek bambusový stromček
+tile.bamboo_sapling.birch.name=Brezový bambusový stromček
+tile.bamboo_sapling.jungle.name=Bambusový stromček z džungle
+tile.bamboo_sapling.acacia.name=Akátový bambusový stromček
+tile.bamboo_sapling.big_oak.name=Tmavý dub bambusový stromček
+tile.chorus_plant.name=Chorus Stem
+tile.melon_stem.name=Melónová stopka
+tile.pitcher_crop.name=Džbán pod
+tile.torchflower_crop.name=Torchflower
+tile.mangrove_propagule_hanging.name=Závesná mangrovová propagácia 
+tile.kelp.name=Kelp
+
+
+## Liquids
+tile.flowing_lava.name=Tečúca láva
+tile.flowing_water.name=Tečúca voda
+tile.lava.name=Statická láva
+tile.water.name=Statická voda
+
+
+## Redstone Blocks
+tile.daylight_detector_inverted.name=Detektor obráteného denného svetla
+tile.lit_redstone_lamp.name=Rozsvietená lampa Redstone
+tile.lit_redstone_ore.name=Zapálená ruda Redstone
+tile.lit_deepslate_redstone_ore.name=Lit Deepslate Redstone Rude
+tile.pistonarmcollision.name=Kolízia piestového ramena
+tile.piston_arm_collision.name=Kolízia piestového ramena
+tile.stickypistonarmcollision.name=Kolízia priľnavého ramena piestu
+tile.sticky_piston_arm_collision.name=Kolízia priľnavého ramena piestu
+tile.unpowered_repeater.name=Nenapájaný opakovač
+tile.unpowered_comparator.name=Nenapájaný komparátor
+tile.powered_repeater.name=Poháňaný opakovač
+tile.powered_comparator.name=Poháňaný komparátor
+
+
+## Light Sources
+tile.lit_furnace.name=Zapálená pec
+tile.lit_blast_furnace.name=Zapálená vysoká pec
+tile.lit_smoker.name=Zapálený fajčiar
+
+
+## Decorative Blocks
+tile.flower_pot.name=Kvetináč
+tile.frame.name=Rám
+tile.glow_frame.name=Svetelný rám
+tile.wall_banner.name=Nástenný banner
+tile.stone_slab.wood.name=Skamenená dubová doska
+tile.purpur_block.smooth.name=Hladká purpurová
+tile.deprecated_purpur_block_2.name=Hladká purpurová
+tile.skull.name=Nástenná lebka
+
+
+## Functional Blocks
+tile.allow.name=Povoliť
+tile.border_block.name=Hranica
+tile.bubble_column.name=Bublinový stĺpec
+tile.deny.name=Odmietnuť
+tile.end_gateway.name=Ukončiť bránu
+tile.end_portal.name=Ukončiť dlaždicu portálu
+tile.end_portal_frame.name=Ukončiť rám portálu
+tile.lava_cauldron.name=Lávový kotol
+tile.powder_snow.name=Práškový snehový blok
+
+
+## Miscellaneous Blocks
+tile.client_request_placeholder_block.name=Blok zástupného symbolu požiadavky klienta
+tile.glowingobsidian.name=Žiarivý obsidián
+tile.reserved6.name=Rezervované 6
+tile.info_update.name=Aktualizovať blok
+tile.info_update2.name=Aktualizovať blok 2
+tile.movingBlock.name=Pohyblivý blok
+tile.moving_block.name=Pohyblivý blok
+
+
+## Education Edition Blocks
+tile.chemical_heat.name=Chemické teplo 
+tile.colored_torch.blue.name=Modrá pochodeň 
+tile.colored_torch.green.name=Zelená pochodeň 
+tile.colored_torch.purple.name=Fialová pochodeň 
+tile.colored_torch.red.name=Červená pochodeň 
+tile.compoundcreator.name=Compound Creator 
+tile.element.ac.name=Aktínium 
+tile.element.ag.name=Strieborná 
+tile.element.al.name=Hliník 
+tile.element.am.name=Americium 
+tile.element.ar.name=Argón 
+tile.element.as.name=Arzén 
+tile.element.at.name=Astatín 
+tile.element.au.name=Zlato 
+tile.element.b.name=Bór 
+tile.element.ba.name=Bárium 
+tile.element.be.name=Berýlium 
+tile.element.bh.name=Bohrium 
+tile.element.bi.name=Bizmut 
+tile.element.bk.name=Berkelium 
+tile.element.br.name=Bróm 
+tile.element.c.name=Uhlík 
+tile.element.ca.name=Vápnik 
+tile.element.cd.name=Kadmium 
+tile.element.ce.name=Cerium 
+tile.element.cf.name=Kalifornium 
+tile.element.cl.name=Chlór 
+tile.element.cm.name=Curium 
+tile.element.cn.name=Copernicium 
+tile.element.co.name=Kobalt 
+tile.element.cr.name=Chróm 
+tile.element.cs.name=Cézium 
+tile.element.cu.name=Meď 
+tile.element.db.name=Dubnium 
+tile.element.ds.name=Darmstadtium 
+tile.element.dy.name=Dysprosium 
+tile.element.er.name=Erbium 
+tile.element.es.name=Einsteinium 
+tile.element.eu.name=európium 
+tile.element.f.name=Fluór 
+tile.element.fe.name=Žehlička 
+tile.element.fl.name=Flerovium 
+tile.element.fm.name=Fermium 
+tile.element.fr.name=Francium 
+tile.element.ga.name=Gálium 
+tile.element.gd.name=Gadolínium 
+tile.element.ge.name=Germánium 
+tile.element.h.name=Vodík 
+tile.element.he.name=Hélium 
+tile.element.hf.name=Hafnium 
+tile.element.hg.name=Ortuť 
+tile.element.ho.name=Holmium 
+tile.element.hs.name=Hassium 
+tile.element.i.name=Jód 
+tile.element.in.name=Indium 
+tile.element.ir.name=Irídium 
+tile.element.k.name=Draslík 
+tile.element.kr.name=Kryptón 
+tile.element.la.name=Lantán 
+tile.element.li.name=Lítium 
+tile.element.lr.name=Lawrencium 
+tile.element.lu.name=Lutécium 
+tile.element.lv.name=Livermorium 
+tile.element.mc.name=Moskovium 
+tile.element.md.name=Mendelevium 
+tile.element.mg.name=Horčík 
+tile.element.mn.name=Mangán 
+tile.element.mo.name=Molybdén 
+tile.element.mt.name=Meitnerium 
+tile.element.n.name=Dusík 
+tile.element.na.name=Sodík 
+tile.element.nb.name=Niób 
+tile.element.nd.name=Neodym 
+tile.element.ne.name=Neónové 
+tile.element.nh.name=Nihonium 
+tile.element.ni.name=Nikel 
+tile.element.no.name=Nobelium 
+tile.element.np.name=Neptúnium 
+tile.element.o.name=Kyslík 
+tile.element.og.name=Oganesson 
+tile.element.os.name=Osmium 
+tile.element.p.name=Fosfor 
+tile.element.pa.name=Protaktínium 
+tile.element.pb.name=Olovo 
+tile.element.pd.name=Paládium 
+tile.element.pm.name=Promethium 
+tile.element.po.name=Polónium 
+tile.element.pr.name=Prazeodým 
+tile.element.pt.name=Platina 
+tile.element.pu.name=Plutónium 
+tile.element.ra.name=Rádium 
+tile.element.rb.name=Rubídium 
+tile.element.re.name=Rhenium 
+tile.element.rf.name=Rutherfordium 
+tile.element.rg.name=Roentgenium 
+tile.element.rh.name=Rhodium 
+tile.element.rn.name=Radón 
+tile.element.ru.name=Ruténium 
+tile.element.s.name=Síra 
+tile.element.sb.name=Antimón 
+tile.element.sc.name=Scandium 
+tile.element.se.name=Selén 
+tile.element.sg.name=Seaborgium 
+tile.element.si.name=Kremík 
+tile.element.sm.name=Samárium 
+tile.element.sn.name=Cín 
+tile.element.sr.name=Stroncium 
+tile.element.ta.name=Tantal 
+tile.element.tb.name=Terbium 
+tile.element.tc.name=Technécium 
+tile.element.te.name=Telúr 
+tile.element.th.name=Tórium 
+tile.element.ti.name=Titán 
+tile.element.tl.name=Tálium 
+tile.element.tm.name=Thulium 
+tile.element.ts.name=Tennessine 
+tile.element.u.name=Urán 
+tile.element.unknown.name=Neznámy prvok 
+tile.element.v.name=Vanád 
+tile.element.w.name=Volfrám 
+tile.element.xe.name=Xenón 
+tile.element.y.name=Ytrium 
+tile.element.yb.name=Ytterbium 
+tile.element.zn.name=Zinok 
+tile.element.zr.name=Zirkónium 
+tile.elementconstructor.name=Konštruktor prvkov 
+tile.hard_glass.name=Tvrdené sklo 
+tile.hard_glass_pane.name=Tabuľa z tvrdeného skla 
+tile.hard_stained_glass.black.name=Tvrdené čierne vitráže 
+tile.hard_stained_glass.blue.name=Tvrdené modré vitráže 
+tile.hard_stained_glass.brown.name=Tvrdené hnedé vitráže 
+tile.hard_stained_glass.cyan.name=Tvrdené azúrové farebné sklo 
+tile.hard_stained_glass.gray.name=Tvrdené šedé vitráže 
+tile.hard_stained_glass.green.name=Tvrdené zelené vitráže 
+tile.hard_stained_glass.light_blue.name=Tvrdené svetlomodré vitráže 
+tile.hard_stained_glass.lime.name=Tvrdené vápenné vitráže 
+tile.hard_stained_glass.magenta.name=Tvrdené purpurové vitráže 
+tile.hard_stained_glass.orange.name=Tvrdené oranžové vitráže 
+tile.hard_stained_glass.pink.name=Tvrdené ružové vitráže 
+tile.hard_stained_glass.purple.name=Tvrdené fialové vitráže 
+tile.hard_stained_glass.red.name=Tvrdené červené vitráže 
+tile.hard_stained_glass.silver.name=Tvrdené svetlosivé vitráže 
+tile.hard_stained_glass.white.name=Tvrdené biele vitráže 
+tile.hard_stained_glass.yellow.name=Tvrdené žlté vitráže 
+tile.hard_stained_glass_pane.black.name=Tvrdená čierna vitrážová tabuľa 
+tile.hard_stained_glass_pane.blue.name=Tvrdená modrá vitrážová tabuľa 
+tile.hard_stained_glass_pane.brown.name=Tvrdená hnedá vitrážová tabuľa 
+tile.hard_stained_glass_pane.cyan.name=Tvrdená azúrová vitrážová tabuľa 
+tile.hard_stained_glass_pane.gray.name=Tvrdená sivá vitrážová tabuľa 
+tile.hard_stained_glass_pane.green.name=Tvrdená zelená vitrážová tabuľa 
+tile.hard_stained_glass_pane.light_blue.name=Tvrdená svetlomodrá vitrážová tabuľa 
+tile.hard_stained_glass_pane.lime.name=Tabuľa z tvrdeného vápenného skla 
+tile.hard_stained_glass_pane.magenta.name=Tvrdená purpurová vitrážová tabuľa 
+tile.hard_stained_glass_pane.orange.name=Tvrdená oranžová vitrážová tabuľa 
+tile.hard_stained_glass_pane.pink.name=Tvrdená ružová vitrážová tabuľa 
+tile.hard_stained_glass_pane.purple.name=Tvrdená fialová vitrážová tabuľa 
+tile.hard_stained_glass_pane.red.name=Tvrdená červená vitrážová tabuľa 
+tile.hard_stained_glass_pane.silver.name=Tvrdená svetlosivá vitrážová tabuľa 
+tile.hard_stained_glass_pane.white.name=Tvrdená biela vitrážová tabuľa 
+tile.hard_stained_glass_pane.yellow.name=Tvrdená žltá vitrážová tabuľa 
+tile.labtable.name=Laboratórny stôl 
+tile.materialreducer.name=Materiál Reduktor 
+tile.underwater_tnt.name=Podvodné TNT 
+tile.underwater_torch.name=Podvodná baterka 
+
+
+
+
+
+### Miscellaneous
+item..name=Prázdne
+item.banner.base.black=Základ čierneho banneru
+item.banner.base.blue=Základňa modrého bannera
+item.banner.base.brown=Hnedá základňa banneru
+item.banner.base.cyan=Cyan Banner Base
+item.banner.base.gray=Základ sivého banneru
+item.banner.base.green=Základ zeleného bannera
+item.banner.base.lightBlue=Svetlomodrá základňa bannera
+item.banner.base.lime=Lime Banner Base
+item.banner.base.magenta=Purpurová základňa bannera
+item.banner.base.orange=Základňa oranžového bannera
+item.banner.base.pink=Ružový Banner Base
+item.banner.base.purple=Základňa fialového bannera
+item.banner.base.red=Základ červeného banneru
+item.banner.base.silver=Svetlosivá základňa bannera
+item.banner.base.white=Biely bannerový základ
+item.banner.base.yellow=Základ žltého bannera
+item.minecraft.goat_horn.sound.8=Fly (starý)
+item.minecraft.goat_horn.sound.9=Sen (starý)
+tipped_arrow.effect.empty=Nevyrobiteľný hrotový šíp
+tipped_arrow.effect.awkward=Nešikovný šíp s hrotom
+tipped_arrow.effect.mundane.extended=Rozšírený šíp s hrotom Mundane
+tipped_arrow.effect.mundane=Svetský šíp s hrotom
+tipped_arrow.effect.thick=Hrubá šípka s hrotom

@@ -1,0 +1,22 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.phantom_variant": {
+      "arrays": {
+        "materials": {
+          "Array.materials": ["Material.default", "Material.invisible"]
+        },
+        "textures": {
+          "Array.variants": ["Texture.default", "Texture.red"]
+        }
+      },
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Array.materials[q.is_invisible]"
+        }
+      ],
+      "textures": ["Array.variants[q.max_health == 10 ? 1 : 0 ]"]
+    }
+  }
+}

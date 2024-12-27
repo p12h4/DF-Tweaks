@@ -1,0 +1,373 @@
+### Items
+## Regular Items
+item.copper_horn.name=Χάλκινο Κέρατο 
+item.spawn_egg.name=Αυγά ψαριών
+
+
+## Education Edition Items
+item.glow_stick.black.name=Black Glow Stick 
+
+
+
+
+
+### Tiles
+## Doors
+tile.wooden_door.name=Δρυς Πόρτα
+tile.spruce_door.name=Spruce Door
+tile.birch_door.name=Birch Door
+tile.jungle_door.name=Πόρτα ζούγκλας
+tile.acacia_door.name=Acacia Door
+tile.dark_oak_door.name=Dark Oak Door
+tile.mangrove_door.name=Πόρτα Mangrove
+
+
+## Signs
+tile.wall_sign.name=Δρυς επιτοίχια πινακίδα
+tile.spruce_wall_sign.name=Ερυθρελάτη επιτοίχια πινακίδα
+tile.birch_wall_sign.name=Σημύδα τοίχου
+tile.jungle_wall_sign.name=Ζούγκλα τοίχο σημάδι
+tile.acacia_wall_sign.name=Πινακίδα τοίχου ακακίας
+tile.darkoak_wall_sign.name=Επιτοίχια επιγραφή Dark Oak
+tile.mangrove_standing_sign.name=Σημάδι Μαγκρόβιο
+tile.mangrove_wall_sign.name=Πινακίδα τοίχου Mangrove
+tile.bamboo_standing_sign.name=Σημάδι μπαμπού
+tile.bamboo_wall_sign.name=Επιγραφή τοίχου μπαμπού
+tile.cherry_standing_sign.name=Σημάδι κερασιού
+tile.cherry_wall_sign.name=Σήμα τοίχου κερασιών
+tile.crimson_wall_sign.name=Βυσσινί επιτοίχιο σημάδι
+tile.warped_wall_sign.name=Στρεβλωμένη επιγραφή
+
+
+## Double Slabs
+tile.double_wooden_slab.oak.name=Δρυς Διπλή Πλάκα
+tile.double_wooden_slab.spruce.name=Spruce Double Slab
+tile.double_wooden_slab.birch.name=Διπλή πλάκα Birch
+tile.double_wooden_slab.jungle.name=Διπλή πλάκα ζούγκλας
+tile.double_wooden_slab.acacia.name=Διπλή πλάκα ακακίας
+tile.double_wooden_slab.big_oak.name=Dark Oak Διπλή Πλάκα
+tile.mangrove_double_slab.name=Διπλή πλάκα Mangrove
+tile.bamboo_double_slab.name=Διπλή πλάκα μπαμπού
+tile.bamboo_mosaic_double_slab.name=Μωσαϊκό Μπαμπού Διπλή Πλάκα
+tile.crimson_double_slab.name=Κατακόκκινη Διπλή Πλάκα
+tile.warped_double_slab.name=Στρεβλωμένη διπλή πλάκα
+tile.double_stone_slab.wood.name=Απολιθωμένη Δρυς Διπλή Πλάκα
+tile.double_stone_slab2.mossy_cobblestone.name=Πορώδης Πλακόστρωτη Διπλή Πλάκα
+tile.double_stone_slab4.stone.name=Πέτρινη Διπλή Πλάκα
+tile.double_stone_slab3.andesite.name=Διπλή πλάκα Ανδεσίτης
+tile.double_stone_slab3.andesite.smooth.name=Λεία διπλή πλάκα Ανδεσίτης
+tile.double_stone_slab3.diorite.name=Διπλό Πλάκα Διορίτη
+tile.double_stone_slab3.diorite.smooth.name=Λεία Διπλή Πλάκα Διορίτη
+tile.double_stone_slab3.granite.name=Διπλή πλάκα γρανίτη
+tile.double_stone_slab3.granite.smooth.name=Λεία διπλή πλάκα γρανίτη
+tile.double_stone_slab4.mossy_stone_brick.name=Διπλή πλάκα από Mossy Stone Τούβλο
+tile.double_stone_slab4.cut_sandstone.name=Κοπή Ψαμμίτη Διπλή Πλάκα
+tile.double_stone_slab2.sandstone.smooth.name=Λεία Διπλή Πλάκα Ψαμμίτη
+tile.double_stone_slab4.cut_red_sandstone.name=Κόψτε Κόκκινη Διπλή Πλάκα Ψαμμίτη
+tile.double_stone_slab3.red_sandstone.smooth.name=Λεία κόκκινη διπλή πλάκα ψαμμίτη
+tile.mud_brick_double_slab.name=Διπλή πλάκα από τούβλα λάσπης
+tile.polished_tuff_double_slab.name=Διπλή πλάκα γυαλισμένη τούφ
+tile.tuff_brick_double_slab.name=Διπλή πλάκα τούβλο τούφας
+tile.tuff_double_slab.name=Τούφ Διπλή Πλάκα
+tile.double_cut_copper_slab.name=Κόψτε Χάλκινη Διπλή Πλάκα
+tile.exposed_double_cut_copper_slab.name=Εκτεθειμένη κομμένη διπλή πλάκα χαλκού
+tile.oxidized_double_cut_copper_slab.name=Διπλή πλάκα από οξειδωμένο χαλκό
+tile.waxed_double_cut_copper_slab.name=Κερωμένη Χάλκινη Διπλή Πλάκα
+tile.waxed_exposed_double_cut_copper_slab.name=Κερωμένο Εκτεθειμένο Χάλκινο Διπλή Πλάκα
+tile.waxed_oxidized_double_cut_copper_slab.name=Διπλή πλάκα από κερωμένο οξειδωμένο χαλκό
+tile.waxed_weathered_double_cut_copper_slab.name=Διπλή πλάκα από κερωμένο ξεπερασμένο χαλκό
+tile.weathered_double_cut_copper_slab.name=Ξεπερασμένη κομμένη Χάλκινη Διπλή Πλάκα
+tile.double_stone_slab2.prismarine.rough.name=Διπλή πλάκα Prismarine
+tile.double_stone_slab2.prismarine.bricks.name=Διπλή πλάκα από τούβλο Prismarine
+tile.double_stone_slab2.prismarine.dark.name=Dark Prismarine Double Slab
+tile.double_stone_slab4.smooth_quartz.name=Λεία διπλή πλάκα χαλαζία
+tile.blackstone_double_slab.name=Διπλή πλάκα Blackstone
+tile.polished_blackstone_brick_double_slab.name=Γυαλισμένη διπλή πλάκα από τούβλο Blackstone
+tile.polished_blackstone_double_slab.name=Γυαλισμένη διπλή πλάκα Blackstone
+tile.double_stone_slab2.red_nether_brick.name=Διπλή πλάκα κόκκινο κάτω από τούβλο
+tile.double_stone_slab3.end_brick.name=End Brick Διπλή Πλάκα
+tile.double_stone_slab2.purpur.name=Διπλή Πλάκα Purpur
+
+
+## Cut Copper Blocks
+tile.cut_copper_block.exposed.name=Εκτεθειμένο κομμένο χάλκινο μπλοκ 
+tile.cut_copper_block.exposed.waxed.name=Κερωμένο εκτεθειμένο τεμάχιο χαλκού 
+tile.cut_copper_block.name=Κόψτε το μπλοκ χαλκού 
+tile.cut_copper_block.oxidized.name=Οξειδωμένος κομμένος χάλκινος μπλοκ 
+tile.cut_copper_block.waxed.name=Κερωμένο Χάλκινο Μπλοκ 
+tile.cut_copper_block.weathered.name=Ξεπερασμένο κομμένο χάλκινο μπλοκ 
+tile.cut_copper_block.weathered.waxed.name=Κερωμένο ξεπερασμένο κομμένο χάλκινο μπλοκ 
+
+
+## Nature
+tile.bamboo_sapling.name=Δενδρύλλιο μπαμπού
+tile.bamboo_sapling.oak.name=Δενδρύλλιο μπαμπού βελανιδιάς
+tile.bamboo_sapling.spruce.name=Spruce Bamboo Spling
+tile.bamboo_sapling.birch.name=Δενδρύλλιο μπαμπού σημύδας
+tile.bamboo_sapling.jungle.name=Δενδρύλλιο μπαμπού ζούγκλας
+tile.bamboo_sapling.acacia.name=Δενδρύλλιο μπαμπού ακακίας
+tile.bamboo_sapling.big_oak.name=Σκοτεινό δενδρύλλιο μπαμπού βελανιδιάς
+tile.chorus_plant.name=Χορωδιακό Στέλεχος
+tile.melon_stem.name=Στέλεχος πεπονιού
+tile.pitcher_crop.name=Pitcher Pod
+tile.torchflower_crop.name=Λαμπαδηδρομία
+tile.mangrove_propagule_hanging.name=Κρεμαστό Mangrove Propagule 
+tile.kelp.name=Φαιοφύκη
+
+
+## Liquids
+tile.flowing_lava.name=Λάβα που ρέει
+tile.flowing_water.name=Τρεχούμενο νερό
+tile.lava.name=Στατική λάβα
+tile.water.name=Στατικό Νερό
+
+
+## Redstone Blocks
+tile.daylight_detector_inverted.name=Αντεστραμμένος ανιχνευτής φωτός ημέρας
+tile.lit_redstone_lamp.name=Αναμμένη λάμπα Redstone
+tile.lit_redstone_ore.name=Αναμμένο Redstone Ore
+tile.lit_deepslate_redstone_ore.name=Αναμμένο Deepslate Redstone Ore
+tile.pistonarmcollision.name=Σύγκρουση βραχίονα εμβόλου
+tile.piston_arm_collision.name=Σύγκρουση βραχίονα εμβόλου
+tile.stickypistonarmcollision.name=Σύγκρουση κολλώδους βραχίονα εμβόλου
+tile.sticky_piston_arm_collision.name=Σύγκρουση κολλώδους βραχίονα εμβόλου
+tile.unpowered_repeater.name=Μη τροφοδοτούμενος Repeater
+tile.unpowered_comparator.name=Μη τροφοδοτούμενος συγκριτής
+tile.powered_repeater.name=Powered Repeater
+tile.powered_comparator.name=Powered Comparator
+
+
+## Light Sources
+tile.lit_furnace.name=Αναμμένος Φούρνος
+tile.lit_blast_furnace.name=Αναμμένο υψικάμινο
+tile.lit_smoker.name=Αναμμένο καπνιστή
+
+
+## Decorative Blocks
+tile.flower_pot.name=Γλάστρα
+tile.frame.name=Πλαίσιο
+tile.glow_frame.name=Πλαίσιο λάμψης
+tile.wall_banner.name=Banner τοίχου
+tile.stone_slab.wood.name=Απολιθωμένη Δρυς Πλάκα
+tile.purpur_block.smooth.name=Smooth Purpur
+tile.deprecated_purpur_block_2.name=Smooth Purpur
+tile.skull.name=Κρανίο τοίχου
+
+
+## Functional Blocks
+tile.allow.name=Επιτρέπω
+tile.border_block.name=Σύνορο
+tile.bubble_column.name=Στήλη φούσκα
+tile.deny.name=Αρνούμαι
+tile.end_gateway.name=End Gateway
+tile.end_portal.name=Τελικό Πλακάκι Πύλης
+tile.end_portal_frame.name=Τελικό πλαίσιο πύλης
+tile.lava_cauldron.name=Καζάνι λάβας
+tile.powder_snow.name=Μπλοκ χιονιού σε σκόνη
+
+
+## Miscellaneous Blocks
+tile.client_request_placeholder_block.name=Αποκλεισμός κράτησης θέσης αιτήματος πελάτη
+tile.glowingobsidian.name=Λαμπερός Οψιδιανός
+tile.reserved6.name=Κράτηση 6
+tile.info_update.name=Ενημέρωση μπλοκ
+tile.info_update2.name=Ενημέρωση μπλοκ 2
+tile.movingBlock.name=Κινούμενο μπλοκ
+tile.moving_block.name=Κινούμενο μπλοκ
+
+
+## Education Edition Blocks
+tile.chemical_heat.name=Χημική Θερμότητα 
+tile.colored_torch.blue.name=Μπλε φακός 
+tile.colored_torch.green.name=Green Torch 
+tile.colored_torch.purple.name=Μωβ Πυρσός 
+tile.colored_torch.red.name=Κόκκινη Δάδα 
+tile.compoundcreator.name=Compound Creator 
+tile.element.ac.name=Ακτίνιο 
+tile.element.ag.name=Ασημί 
+tile.element.al.name=Αλουμίνιο 
+tile.element.am.name=Americium 
+tile.element.ar.name=Αργόν 
+tile.element.as.name=Αρσενικό 
+tile.element.at.name=Αστατίνη 
+tile.element.au.name=Χρυσός 
+tile.element.b.name=Βόριο 
+tile.element.ba.name=Βάριο 
+tile.element.be.name=Βηρύλλιο 
+tile.element.bh.name=Βόριο 
+tile.element.bi.name=Βισμούθιο 
+tile.element.bk.name=Βερκέλιο 
+tile.element.br.name=Βρώμιο 
+tile.element.c.name=Άνθρακα 
+tile.element.ca.name=Ασβέστιο 
+tile.element.cd.name=Κάδμιο 
+tile.element.ce.name=Δημήτριο 
+tile.element.cf.name=Καλιφόρνιο 
+tile.element.cl.name=Χλώριο 
+tile.element.cm.name=Κούριο 
+tile.element.cn.name=Κοπερνίκιο 
+tile.element.co.name=Κοβάλτιο 
+tile.element.cr.name=Χρώμιο 
+tile.element.cs.name=Καισίου 
+tile.element.cu.name=Χαλκός 
+tile.element.db.name=Dubnium 
+tile.element.ds.name=Darmstadtium 
+tile.element.dy.name=Δυσπρόσιο 
+tile.element.er.name=Έρβιο 
+tile.element.es.name=Αϊνστάιν 
+tile.element.eu.name=Europium 
+tile.element.f.name=Φθόριο 
+tile.element.fe.name=Σίδερο 
+tile.element.fl.name=Flerovium 
+tile.element.fm.name=Φέρμιο 
+tile.element.fr.name=Φράγκιο 
+tile.element.ga.name=Γάλλιο 
+tile.element.gd.name=Γαδολίνιο 
+tile.element.ge.name=γερμάνιο 
+tile.element.h.name=Υδρογόνο 
+tile.element.he.name=Ήλιο 
+tile.element.hf.name=Χάφνιο 
+tile.element.hg.name=Ερμής 
+tile.element.ho.name=Holmium 
+tile.element.hs.name=Χάσιο 
+tile.element.i.name=Ιώδιο 
+tile.element.in.name=Ίνδιο 
+tile.element.ir.name=Ιρίδιο 
+tile.element.k.name=Κάλιο 
+tile.element.kr.name=Κρύπτον 
+tile.element.la.name=Λανθάνιο 
+tile.element.li.name=Λίθιο 
+tile.element.lr.name=Lawrencium 
+tile.element.lu.name=Λουτέτιο 
+tile.element.lv.name=Livermorium 
+tile.element.mc.name=Μοσκόβιο 
+tile.element.md.name=Mendelevium 
+tile.element.mg.name=Μαγνήσιο 
+tile.element.mn.name=Μαγγάνιο 
+tile.element.mo.name=Μολυβδαίνιο 
+tile.element.mt.name=Meitnerium 
+tile.element.n.name=Άζωτο 
+tile.element.na.name=Νάτριο 
+tile.element.nb.name=Νιόβιο 
+tile.element.nd.name=Νεοδύμιο 
+tile.element.ne.name=Νέον 
+tile.element.nh.name=Νηχόνιο 
+tile.element.ni.name=Νικέλιο 
+tile.element.no.name=Nobelium 
+tile.element.np.name=Ποσειδώνιο 
+tile.element.o.name=Οξυγόνο 
+tile.element.og.name=Oganesson 
+tile.element.os.name=Όσμιο 
+tile.element.p.name=Φώσφορος 
+tile.element.pa.name=Πρωτακτίνιο 
+tile.element.pb.name=Μόλυβδος 
+tile.element.pd.name=Παλλάδιο 
+tile.element.pm.name=Προμέθιο 
+tile.element.po.name=Πολώνιο 
+tile.element.pr.name=Praseodymium 
+tile.element.pt.name=Πλατίνα 
+tile.element.pu.name=Πλουτώνιο 
+tile.element.ra.name=Ράδιο 
+tile.element.rb.name=Ρουβίδιο 
+tile.element.re.name=Ρήνιο 
+tile.element.rf.name=Rutherfordium 
+tile.element.rg.name=Roentgenium 
+tile.element.rh.name=Ρόδιο 
+tile.element.rn.name=Ραδόνιο 
+tile.element.ru.name=Ρουθήνιο 
+tile.element.s.name=Θείο 
+tile.element.sb.name=Αντιμόνιο 
+tile.element.sc.name=Σκάνδιο 
+tile.element.se.name=Σελήνιο 
+tile.element.sg.name=Seaborgium 
+tile.element.si.name=Πυρίτιο 
+tile.element.sm.name=Σαμάριο 
+tile.element.sn.name=Κασσίτερος 
+tile.element.sr.name=Στρόντιο 
+tile.element.ta.name=Ταντάλιο 
+tile.element.tb.name=Τέρβιο 
+tile.element.tc.name=Τεχνήτιο 
+tile.element.te.name=Τελλούριο 
+tile.element.th.name=Θόριο 
+tile.element.ti.name=Τιτάνιο 
+tile.element.tl.name=Θάλλιο 
+tile.element.tm.name=Θούλιο 
+tile.element.ts.name=Tennessine 
+tile.element.u.name=Ουράνιο 
+tile.element.unknown.name=Άγνωστο στοιχείο 
+tile.element.v.name=Βανάδιο 
+tile.element.w.name=Βολφράμιο 
+tile.element.xe.name=Xenon 
+tile.element.y.name=Ύττριο 
+tile.element.yb.name=Υτέρβιο 
+tile.element.zn.name=Ψευδάργυρος 
+tile.element.zr.name=Ζιρκόνιο 
+tile.elementconstructor.name=Κατασκευαστής στοιχείων 
+tile.hard_glass.name=Σκληρυμένο Γυαλί 
+tile.hard_glass_pane.name=Σκληρυμένο γυαλί 
+tile.hard_stained_glass.black.name=Σκληρυμένο μαύρο βιτρό 
+tile.hard_stained_glass.blue.name=Σκληρυμένο μπλε βιτρό 
+tile.hard_stained_glass.brown.name=Σκληρυμένο καφέ βιτρό 
+tile.hard_stained_glass.cyan.name=Σκληρυμένο κυανό βιτρό 
+tile.hard_stained_glass.gray.name=Σκληρυμένο γκρι βιτρό 
+tile.hard_stained_glass.green.name=Σκληρυμένο πράσινο βιτρό 
+tile.hard_stained_glass.light_blue.name=Βιτρώ σκληρυμένο ανοιχτό μπλε 
+tile.hard_stained_glass.lime.name=Βιτρώ από σκληρυμένο ασβέστη 
+tile.hard_stained_glass.magenta.name=Σκληρυμένο ματζέντα βιτρό 
+tile.hard_stained_glass.orange.name=Σκληρυμένο πορτοκαλί βιτρό 
+tile.hard_stained_glass.pink.name=Σκληρυμένο ροζ βιτρό 
+tile.hard_stained_glass.purple.name=Σκληρυμένο μωβ βιτρό 
+tile.hard_stained_glass.red.name=Σκληρυμένο κόκκινο βιτρό 
+tile.hard_stained_glass.silver.name=Βιτρώ σκληρυμένο ανοιχτό γκρι 
+tile.hard_stained_glass.white.name=Σκληρυμένο λευκό βιτρό 
+tile.hard_stained_glass.yellow.name=Σκληρυμένο κίτρινο βιτρό 
+tile.hard_stained_glass_pane.black.name=Σκληρυμένο μαύρο βιτρό 
+tile.hard_stained_glass_pane.blue.name=Σκληρυμένο μπλε υαλοπίνακα 
+tile.hard_stained_glass_pane.brown.name=Σκληρυμένο καφέ βιτρό 
+tile.hard_stained_glass_pane.cyan.name=Υαλοπίνακας από σκληρυμένο κυανό βιτρό 
+tile.hard_stained_glass_pane.gray.name=Βαμμένο γυαλί σκληρυμένο γκρι 
+tile.hard_stained_glass_pane.green.name=Σκληρυμένο πράσινο βιτρό 
+tile.hard_stained_glass_pane.light_blue.name=Σκληρυμένο ανοιχτό μπλε υαλοπίνακας 
+tile.hard_stained_glass_pane.lime.name=Βιτρώ από σκληρυμένο ασβέστη 
+tile.hard_stained_glass_pane.magenta.name=Σκληρυμένο υαλοπίνακας βιτρώ ματζέντα 
+tile.hard_stained_glass_pane.orange.name=Σκληρυμένο πορτοκαλί υαλοπίνακας 
+tile.hard_stained_glass_pane.pink.name=Σκληρυμένο ροζ βιτρό 
+tile.hard_stained_glass_pane.purple.name=Σκληρυμένο μωβ υαλοπίνακα 
+tile.hard_stained_glass_pane.red.name=Σκληρυμένο κόκκινο βιτρό 
+tile.hard_stained_glass_pane.silver.name=Βαμμένο γυαλί σκληρυμένο ανοιχτό γκρι 
+tile.hard_stained_glass_pane.white.name=Υαλοπίνακας από σκληρυμένο λευκό βιτρό 
+tile.hard_stained_glass_pane.yellow.name=Σκληρυμένο κίτρινο υαλοπίνακα 
+tile.labtable.name=Πίνακας εργαστηρίου 
+tile.materialreducer.name=Μειωτήρας υλικού 
+tile.underwater_tnt.name=Υποβρύχιο TNT 
+tile.underwater_torch.name=Υποβρύχιος πυρσός 
+
+
+
+
+
+### Miscellaneous
+item..name=Κενό
+item.banner.base.black=Μαύρη βάση πανό
+item.banner.base.blue=Μπλε βάση πανό
+item.banner.base.brown=Καφέ βάση πανό
+item.banner.base.cyan=Βάση κυανό πανό
+item.banner.base.gray=Γκρι βάση πανό
+item.banner.base.green=Πράσινη βάση πανό
+item.banner.base.lightBlue=Γαλάζια βάση πανό
+item.banner.base.lime=Βάση πανό Lime
+item.banner.base.magenta=Βάση Banner Magenta
+item.banner.base.orange=Πορτοκαλί βάση πανό
+item.banner.base.pink=Ροζ βάση πανό
+item.banner.base.purple=Μωβ βάση πανό
+item.banner.base.red=Βάση κόκκινου πανό
+item.banner.base.silver=Ανοιχτό γκρι βάση πανό
+item.banner.base.white=Λευκή βάση πανό
+item.banner.base.yellow=Κίτρινη βάση πανό
+item.minecraft.goat_horn.sound.8=Fly (παλιό)
+item.minecraft.goat_horn.sound.9=Όνειρο (παλιό)
+tipped_arrow.effect.empty=Uncraftable Tipped Arrow
+tipped_arrow.effect.awkward=Βέλος με άβολη άκρη
+tipped_arrow.effect.mundane.extended=Βέλος με μακρύ κοσμικό άκρο
+tipped_arrow.effect.mundane=Παγκόσμιο βέλος με αιχμή
+tipped_arrow.effect.thick=Βέλος με παχιά άκρη

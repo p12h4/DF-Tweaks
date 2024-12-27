@@ -1,0 +1,43 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.tropicalfish": {
+      "arrays": {
+        "materials": {
+          "Array.materials": ["Material.default", "Material.skeletonMaterial"]
+        },
+        "geometries": {
+          "Array.models": ["Geometry.typeA", "Geometry.typeB"]
+        },
+        "textures": {
+          "Array.types": ["Texture.typeA", "Texture.typeB", "Texture.skeleton"],
+          "Array.patterns": [
+            "Texture.aPattern1",
+            "Texture.aPattern2",
+            "Texture.aPattern3",
+            "Texture.aPattern4",
+            "Texture.aPattern5",
+            "Texture.aPattern6",
+            "Texture.bPattern1",
+            "Texture.bPattern2",
+            "Texture.bPattern3",
+            "Texture.bPattern4",
+            "Texture.bPattern5",
+            "Texture.bPattern6",
+            "Texture.SkeletonPattern"
+          ]
+        }
+      },
+      "geometry": "Array.models[q.max_health == 6 ? 0 : v.TropicalFish.Base]",
+      "materials": [
+        {
+          "*": "Array.materials[q.max_health == 6 ? 1 : 0]"
+        }
+      ],
+      "textures": [
+        "Array.types[q.max_health == 6 ? 2 : v.TropicalFish.Base]",
+        "Array.patterns[q.max_health == 6 ? 12 : v.TropicalFish.Pattern]"
+      ]
+    }
+  }
+}

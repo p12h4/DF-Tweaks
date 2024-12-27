@@ -1,0 +1,31 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:tadpole",
+      "materials": {
+        "default": "tadpole"
+      },
+      "textures": {
+        "default": "textures/entity/tadpole/tadpole",
+        "pale": "textures/entity/tadpole/tadpole_pale"
+      },
+      "geometry": {
+        "default": "geometry.tadpole"
+      },
+      "spawn_egg": {
+        "base_color": "#6D533D",
+        "overlay_color": "#160A00"
+      },
+      "animations": {
+        "swim": "animation.tadpole.swim"
+      },
+      "animation_controllers": [
+        {
+          "general": "controller.animation.tadpole.general"
+        }
+      ],
+      "render_controllers": ["controller.render.tadpole_variant"]
+    }
+  }
+}

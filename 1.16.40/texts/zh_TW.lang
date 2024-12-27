@@ -1,0 +1,373 @@
+### Items
+## Regular Items
+item.copper_horn.name=铜喇叭 
+item.spawn_egg.name=生成
+
+
+## Education Edition Items
+item.glow_stick.black.name=黑色荧光棒 
+
+
+
+
+
+### Tiles
+## Doors
+tile.wooden_door.name=橡木门
+tile.spruce_door.name=云杉门
+tile.birch_door.name=桦木门
+tile.jungle_door.name=丛林门
+tile.acacia_door.name=相思门
+tile.dark_oak_door.name=深色橡木门
+tile.mangrove_door.name=红树林门
+
+
+## Signs
+tile.wall_sign.name=橡木墙标志
+tile.spruce_wall_sign.name=云杉墙标牌
+tile.birch_wall_sign.name=桦木墙标志
+tile.jungle_wall_sign.name=丛林墙标志
+tile.acacia_wall_sign.name=相思墙标志
+tile.darkoak_wall_sign.name=深色橡木墙标
+tile.mangrove_standing_sign.name=红树林标志
+tile.mangrove_wall_sign.name=红树林墙标志
+tile.bamboo_standing_sign.name=竹签
+tile.bamboo_wall_sign.name=竹墙标志
+tile.cherry_standing_sign.name=樱桃标志
+tile.cherry_wall_sign.name=樱桃墙标志
+tile.crimson_wall_sign.name=深红色的墙牌
+tile.warped_wall_sign.name=扭曲的墙标志
+
+
+## Double Slabs
+tile.double_wooden_slab.oak.name=橡木双板
+tile.double_wooden_slab.spruce.name=云杉双板
+tile.double_wooden_slab.birch.name=桦木双板
+tile.double_wooden_slab.jungle.name=丛林双板
+tile.double_wooden_slab.acacia.name=相思双板
+tile.double_wooden_slab.big_oak.name=深色橡木双板
+tile.mangrove_double_slab.name=红树林双层板
+tile.bamboo_double_slab.name=竹双板
+tile.bamboo_mosaic_double_slab.name=马赛克竹双板
+tile.crimson_double_slab.name=深红色双石板
+tile.warped_double_slab.name=翘曲双板
+tile.double_stone_slab.wood.name=石化橡木双板
+tile.double_stone_slab2.mossy_cobblestone.name=长满青苔的鹅卵石双板
+tile.double_stone_slab4.stone.name=石材双层板
+tile.double_stone_slab3.andesite.name=安山岩双板
+tile.double_stone_slab3.andesite.smooth.name=光滑安山岩双板
+tile.double_stone_slab3.diorite.name=闪长岩双板
+tile.double_stone_slab3.diorite.smooth.name=光滑闪长岩双板
+tile.double_stone_slab3.granite.name=花岗岩双板
+tile.double_stone_slab3.granite.smooth.name=光滑花岗岩双板
+tile.double_stone_slab4.mossy_stone_brick.name=苔藓石砖双板
+tile.double_stone_slab4.cut_sandstone.name=切割砂岩双层板
+tile.double_stone_slab2.sandstone.smooth.name=光滑砂岩双板
+tile.double_stone_slab4.cut_red_sandstone.name=切割红砂岩双板
+tile.double_stone_slab3.red_sandstone.smooth.name=光滑红砂岩双板
+tile.mud_brick_double_slab.name=泥砖双板
+tile.polished_tuff_double_slab.name=抛光凝灰岩双层板
+tile.tuff_brick_double_slab.name=凝灰岩砖双层板
+tile.tuff_double_slab.name=凝灰岩双层板
+tile.double_cut_copper_slab.name=切割铜双板
+tile.exposed_double_cut_copper_slab.name=裸露切割铜双板
+tile.oxidized_double_cut_copper_slab.name=氧化切割铜双板
+tile.waxed_double_cut_copper_slab.name=打蜡切割铜双板
+tile.waxed_exposed_double_cut_copper_slab.name=打蜡外露切割铜双板
+tile.waxed_oxidized_double_cut_copper_slab.name=打蜡氧化切割铜双板
+tile.waxed_weathered_double_cut_copper_slab.name=打蜡风化切割铜双层板
+tile.weathered_double_cut_copper_slab.name=风化切割铜双层板
+tile.double_stone_slab2.prismarine.rough.name=海晶石双板
+tile.double_stone_slab2.prismarine.bricks.name=海晶砖双板
+tile.double_stone_slab2.prismarine.dark.name=暗海晶石双板
+tile.double_stone_slab4.smooth_quartz.name=光滑石英双层板
+tile.blackstone_double_slab.name=黑石双板
+tile.polished_blackstone_brick_double_slab.name=抛光黑石砖双板
+tile.polished_blackstone_double_slab.name=抛光黑石双板
+tile.double_stone_slab2.red_nether_brick.name=红色下界砖双板
+tile.double_stone_slab3.end_brick.name=端砖双板
+tile.double_stone_slab2.purpur.name=紫珀双板
+
+
+## Cut Copper Blocks
+tile.cut_copper_block.exposed.name=裸露切割铜块 
+tile.cut_copper_block.exposed.waxed.name=打蜡外露切割铜块 
+tile.cut_copper_block.name=切割铜块 
+tile.cut_copper_block.oxidized.name=氧化切割铜块 
+tile.cut_copper_block.waxed.name=打蜡切割铜块 
+tile.cut_copper_block.weathered.name=风化切割铜块 
+tile.cut_copper_block.weathered.waxed.name=打蜡风化切割铜块 
+
+
+## Nature
+tile.bamboo_sapling.name=竹树苗
+tile.bamboo_sapling.oak.name=橡竹树苗
+tile.bamboo_sapling.spruce.name=云杉竹树苗
+tile.bamboo_sapling.birch.name=桦竹树苗
+tile.bamboo_sapling.jungle.name=丛林竹树苗
+tile.bamboo_sapling.acacia.name=相思竹树苗
+tile.bamboo_sapling.big_oak.name=深色橡竹树苗
+tile.chorus_plant.name=合唱干
+tile.melon_stem.name=瓜茎
+tile.pitcher_crop.name=投手荚
+tile.torchflower_crop.name=火炬花
+tile.mangrove_propagule_hanging.name=悬挂的红树林繁殖体 
+tile.kelp.name=海带
+
+
+## Liquids
+tile.flowing_lava.name=流动的熔岩
+tile.flowing_water.name=流动的水
+tile.lava.name=静态熔岩
+tile.water.name=静水
+
+
+## Redstone Blocks
+tile.daylight_detector_inverted.name=倒置日光探测器
+tile.lit_redstone_lamp.name=点亮红石灯
+tile.lit_redstone_ore.name=点燃的红石矿石
+tile.lit_deepslate_redstone_ore.name=点燃的深板岩红石矿石
+tile.pistonarmcollision.name=活塞臂碰撞
+tile.piston_arm_collision.name=活塞臂碰撞
+tile.stickypistonarmcollision.name=粘性活塞臂碰撞
+tile.sticky_piston_arm_collision.name=粘性活塞臂碰撞
+tile.unpowered_repeater.name=无源中继器
+tile.unpowered_comparator.name=无源比较器
+tile.powered_repeater.name=有源中继器
+tile.powered_comparator.name=供电比较器
+
+
+## Light Sources
+tile.lit_furnace.name=点燃炉子
+tile.lit_blast_furnace.name=点燃高炉
+tile.lit_smoker.name=点燃的吸烟者
+
+
+## Decorative Blocks
+tile.flower_pot.name=花盆
+tile.frame.name=框架
+tile.glow_frame.name=发光框
+tile.wall_banner.name=墙横幅
+tile.stone_slab.wood.name=石化橡木板
+tile.purpur_block.smooth.name=光滑紫珀
+tile.deprecated_purpur_block_2.name=光滑紫珀
+tile.skull.name=墙头骨
+
+
+## Functional Blocks
+tile.allow.name=允许
+tile.border_block.name=边界
+tile.bubble_column.name=气泡柱
+tile.deny.name=否定
+tile.end_gateway.name=终端网关
+tile.end_portal.name=末地传送门瓦片
+tile.end_portal_frame.name=末端传送门框架
+tile.lava_cauldron.name=熔岩大锅
+tile.powder_snow.name=粉雪块
+
+
+## Miscellaneous Blocks
+tile.client_request_placeholder_block.name=客户端请求占位符块
+tile.glowingobsidian.name=发光黑曜石
+tile.reserved6.name=保留 6
+tile.info_update.name=更新块
+tile.info_update2.name=更新块 2
+tile.movingBlock.name=移动块
+tile.moving_block.name=移动块
+tile.chemical_heat.name=化学热
+tile.colored_torch.blue.name=蓝色火炬
+tile.colored_torch.green.name=绿色火炬
+
+
+## Education Edition Blocks
+tile.colored_torch.purple.name=紫色火把 
+tile.colored_torch.red.name=红色火炬 
+tile.compoundcreator.name=复合创建器 
+tile.element.ac.name=锕 
+tile.element.ag.name=银色 
+tile.element.al.name=铝 
+tile.element.am.name=镅 
+tile.element.ar.name=氩气 
+tile.element.as.name=砷 
+tile.element.at.name=砹 
+tile.element.au.name=黄金 
+tile.element.b.name=硼 
+tile.element.ba.name=钡 
+tile.element.be.name=铍 
+tile.element.bh.name=硼属 
+tile.element.bi.name=铋 
+tile.element.bk.name=锫 
+tile.element.br.name=溴 
+tile.element.c.name=碳 
+tile.element.ca.name=钙 
+tile.element.cd.name=镉 
+tile.element.ce.name=铈 
+tile.element.cf.name=锎 
+tile.element.cl.name=氯 
+tile.element.cm.name=锔 
+tile.element.cn.name=铍 
+tile.element.co.name=钴 
+tile.element.cr.name=铬 
+tile.element.cs.name=铯 
+tile.element.cu.name=铜 
+tile.element.db.name=铍 
+tile.element.ds.name=达姆体育场 
+tile.element.dy.name=镝 
+tile.element.er.name=铒 
+tile.element.es.name=锿 
+tile.element.eu.name=铕 
+tile.element.f.name=氟 
+tile.element.fe.name=熨斗 
+tile.element.fl.name=铍 
+tile.element.fm.name=镄 
+tile.element.fr.name=钫 
+tile.element.ga.name=镓 
+tile.element.gd.name=钆 
+tile.element.ge.name=锗 
+tile.element.h.name=氢气 
+tile.element.he.name=氦气 
+tile.element.hf.name=铪 
+tile.element.hg.name=水星 
+tile.element.ho.name=钬 
+tile.element.hs.name=哈西姆 
+tile.element.i.name=碘 
+tile.element.in.name=铟 
+tile.element.ir.name=铱 
+tile.element.k.name=钾 
+tile.element.kr.name=氪 
+tile.element.la.name=镧 
+tile.element.li.name=锂 
+tile.element.lr.name=劳伦西姆 
+tile.element.lu.name=镥 
+tile.element.lv.name=利弗莫里姆 
+tile.element.mc.name=莫斯科 
+tile.element.md.name=钔 
+tile.element.mg.name=镁 
+tile.element.mn.name=锰 
+tile.element.mo.name=钼 
+tile.element.mt.name=Meitnerium 
+tile.element.n.name=氮气 
+tile.element.na.name=钠 
+tile.element.nb.name=铌 
+tile.element.nd.name=钕 
+tile.element.ne.name=霓虹灯 
+tile.element.nh.name=锍 
+tile.element.ni.name=镍 
+tile.element.no.name=诺贝尔 
+tile.element.np.name=镎 
+tile.element.o.name=氧气 
+tile.element.og.name=奥加内松 
+tile.element.os.name=锇 
+tile.element.p.name=磷 
+tile.element.pa.name=镤 
+tile.element.pb.name=铅
+tile.element.pd.name=钯金 
+tile.element.pm.name=钷 
+tile.element.po.name=钋 
+tile.element.pr.name=镨 
+tile.element.pt.name=白金 
+tile.element.pu.name=钚 
+tile.element.ra.name=镭 
+tile.element.rb.name=铷 
+tile.element.re.name=铼 
+tile.element.rf.name=卢瑟福鎓 
+tile.element.rg.name=伦琴 
+tile.element.rh.name=铑 
+tile.element.rn.name=氡
+tile.element.ru.name=钌 
+tile.element.s.name=硫磺 
+tile.element.sb.name=锑 
+tile.element.sc.name=钪 
+tile.element.se.name=硒 
+tile.element.sg.name=海藻 
+tile.element.si.name=硅 
+tile.element.sm.name=钐 
+tile.element.sn.name=锡 
+tile.element.sr.name=锶 
+tile.element.ta.name=钽 
+tile.element.tb.name=铽 
+tile.element.tc.name=锝 
+tile.element.te.name=碲 
+tile.element.th.name=钍 
+tile.element.ti.name=钛 
+tile.element.tl.name=铊 
+tile.element.tm.name=铥 
+tile.element.ts.name=田纳西州 
+tile.element.u.name=铀 
+tile.element.unknown.name=未知元素 
+tile.element.v.name=钒 
+tile.element.w.name=钨 
+tile.element.xe.name=氙气 
+tile.element.y.name=钇 
+tile.element.yb.name=镱 
+tile.element.zn.name=锌 
+tile.element.zr.name=锆 
+tile.elementconstructor.name=元素构造器 
+tile.hard_glass.name=钢化玻璃 
+tile.hard_glass_pane.name=钢化玻璃板 
+tile.hard_stained_glass.black.name=强化黑色染色玻璃 
+tile.hard_stained_glass.blue.name=硬化蓝色染色玻璃 
+tile.hard_stained_glass.brown.name=强化棕色染色玻璃 
+tile.hard_stained_glass.cyan.name=青色硬化玻璃 
+tile.hard_stained_glass.gray.name=强化灰色染色玻璃 
+tile.hard_stained_glass.green.name=硬化绿色染色玻璃 
+tile.hard_stained_glass.light_blue.name=强化浅蓝色染色玻璃 
+tile.hard_stained_glass.lime.name=硬化石灰彩绘玻璃 
+tile.hard_stained_glass.magenta.name=硬化洋红色染色玻璃 
+tile.hard_stained_glass.orange.name=橙色强化玻璃 
+tile.hard_stained_glass.pink.name=粉色强化玻璃 
+tile.hard_stained_glass.purple.name=紫色强化玻璃 
+tile.hard_stained_glass.red.name=红色强化玻璃 
+tile.hard_stained_glass.silver.name=强化浅灰色染色玻璃 
+tile.hard_stained_glass.white.name=强化白色染色玻璃 
+tile.hard_stained_glass.yellow.name=硬化黄色染色玻璃 
+tile.hard_stained_glass_pane.black.name=硬化黑色染色玻璃板 
+tile.hard_stained_glass_pane.blue.name=硬化蓝色染色玻璃板 
+tile.hard_stained_glass_pane.brown.name=强化棕色染色玻璃板 
+tile.hard_stained_glass_pane.cyan.name=硬化青色染色玻璃板 
+tile.hard_stained_glass_pane.gray.name=硬化灰色染色玻璃板 
+tile.hard_stained_glass_pane.green.name=硬化绿色染色玻璃板 
+tile.hard_stained_glass_pane.light_blue.name=硬化浅蓝色染色玻璃板 
+tile.hard_stained_glass_pane.lime.name=硬化石灰染色玻璃板 
+tile.hard_stained_glass_pane.magenta.name=硬化洋红色染色玻璃板 
+tile.hard_stained_glass_pane.orange.name=硬化橙色染色玻璃板 
+tile.hard_stained_glass_pane.pink.name=硬化粉色染色玻璃板 
+tile.hard_stained_glass_pane.purple.name=硬化紫色染色玻璃板 
+tile.hard_stained_glass_pane.red.name=强化红色染色玻璃板 
+tile.hard_stained_glass_pane.silver.name=强化浅灰色染色玻璃板 
+tile.hard_stained_glass_pane.white.name=硬化白色染色玻璃板 
+tile.hard_stained_glass_pane.yellow.name=硬化黄色染色玻璃板 
+tile.labtable.name=实验台 
+tile.materialreducer.name=材料减速机 
+tile.underwater_tnt.name=水下TNT 
+tile.underwater_torch.name=水下手电筒 
+
+
+
+
+
+### Miscellaneous
+item..name=空白的
+item.banner.base.black=黑色横幅底座
+item.banner.base.blue=蓝色横幅底座
+item.banner.base.brown=棕色横幅底座
+item.banner.base.cyan=青色旗帜底座
+item.banner.base.gray=灰色横幅底座
+item.banner.base.green=绿色横幅底座
+item.banner.base.lightBlue=浅蓝色横幅底座
+item.banner.base.lime=石灰横幅底座
+item.banner.base.magenta=洋红色横幅底座
+item.banner.base.orange=橙色横幅底座
+item.banner.base.pink=粉色横幅底座
+item.banner.base.purple=紫色横幅底座
+item.banner.base.red=红旗底座
+item.banner.base.silver=浅灰色横幅底座
+item.banner.base.white=白色横幅底座
+item.banner.base.yellow=黄色横幅底座
+item.minecraft.goat_horn.sound.8=飞翔（旧）
+item.minecraft.goat_horn.sound.9=梦想（旧）
+tipped_arrow.effect.empty=无法制作的尖头箭头
+tipped_arrow.effect.awkward=尴尬的尖箭头
+tipped_arrow.effect.mundane.extended=延长的普通尖箭头
+tipped_arrow.effect.mundane=普通尖箭
+tipped_arrow.effect.thick=粗尖箭头

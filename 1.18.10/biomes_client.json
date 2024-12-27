@@ -1,0 +1,35 @@
+{
+  "biomes": {
+    "basalt_deltas": {
+      "fog_identifier": "minecraft:fog_basalt_deltas",
+      "fog_ids_to_merge": ["minecraft:fog_basalt_deltas"],
+      "inherit_from_prior_fog": false,
+      "water_surface_color": "#1F1F2E"
+    },
+    "crimson_forest": {
+      "fog_identifier": "minecraft:fog_crimson_forest",
+      "fog_ids_to_merge": ["minecraft:fog_crimson_forest"],
+      "inherit_from_prior_fog": false,
+      "water_surface_color": "#FF1A1A"
+    },
+    "deep_warm_ocean": {
+      "fog_identifier": "minecraft:fog_warm_ocean",
+      "fog_ids_to_merge": ["minecraft:fog_warm_ocean"],
+      "water_surface_transparency": 0.425,
+      "inherit_from_prior_fog": false,
+      "water_surface_color": "#9AFEF9"
+    },
+    "soulsand_valley": {
+      "fog_identifier": "minecraft:fog_soulsand_valley",
+      "fog_ids_to_merge": ["minecraft:fog_soulsand_valley"],
+      "inherit_from_prior_fog": false,
+      "water_surface_color": "#362519"
+    },
+    "warped_forest": {
+      "fog_identifier": "minecraft:fog_warped_forest",
+      "fog_ids_to_merge": ["minecraft:fog_warped_forest"],
+      "inherit_from_prior_fog": false,
+      "water_surface_color": "#1AFFFF"
+    }
+  }
+}

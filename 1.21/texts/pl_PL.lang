@@ -1,0 +1,373 @@
+### Items
+## Regular Items
+item.copper_horn.name=Róg miedziany 
+item.spawn_egg.name=Ikra
+
+
+## Education Edition Items
+item.glow_stick.black.name=Czarna pałeczka fluorescencyjna 
+
+
+
+
+
+### Tiles
+## Doors
+tile.wooden_door.name=Dębowe Drzwi
+tile.spruce_door.name=Drzwi świerkowe
+tile.birch_door.name=Drzwi brzozowe
+tile.jungle_door.name=Drzwi do dżungli
+tile.acacia_door.name=Drzwi Akacjowe
+tile.dark_oak_door.name=Drzwi z ciemnego dębu
+tile.mangrove_door.name=Drzwi Namorzynowe
+
+
+## Signs
+tile.wall_sign.name=Dębowy znak ścienny
+tile.spruce_wall_sign.name=Świerkowy znak ścienny
+tile.birch_wall_sign.name=Znak ścienny z brzozą
+tile.jungle_wall_sign.name=Znak ścienny w dżungli
+tile.acacia_wall_sign.name=Znak ścienny z akacji
+tile.darkoak_wall_sign.name=Znak ścienny z ciemnego dębu
+tile.mangrove_standing_sign.name=Znak namorzynowy
+tile.mangrove_wall_sign.name=Znak ścienny namorzynowy
+tile.bamboo_standing_sign.name=Znak bambusa
+tile.bamboo_wall_sign.name=Bambusowy znak ścienny
+tile.cherry_standing_sign.name=Znak Wiśni
+tile.cherry_wall_sign.name=Wiśniowy znak ścienny
+tile.crimson_wall_sign.name=Karmazynowy znak ścienny
+tile.warped_wall_sign.name=Wypaczony znak ścienny
+
+
+## Double Slabs
+tile.double_wooden_slab.oak.name=Podwójna płyta dębowa
+tile.double_wooden_slab.spruce.name=Podwójna płyta świerkowa
+tile.double_wooden_slab.birch.name=Podwójna płyta brzozowa
+tile.double_wooden_slab.jungle.name=Podwójna płyta w dżungli
+tile.double_wooden_slab.acacia.name=Podwójna płyta akacjowa
+tile.double_wooden_slab.big_oak.name=Podwójna płyta z ciemnego dębu
+tile.mangrove_double_slab.name=Podwójna płyta namorzynowa
+tile.bamboo_double_slab.name=Podwójna płyta bambusowa
+tile.bamboo_mosaic_double_slab.name=Podwójna płyta mozaikowa bambusowa
+tile.crimson_double_slab.name=Podwójna płyta w kolorze szkarłatnym
+tile.warped_double_slab.name=Wypaczona podwójna płyta
+tile.double_stone_slab.wood.name=Podwójna płyta ze skamieniałego dębu
+tile.double_stone_slab2.mossy_cobblestone.name=Podwójna płyta z omszałego bruku
+tile.double_stone_slab4.stone.name=Podwójna płyta kamienna
+tile.double_stone_slab3.andesite.name=Podwójna płyta andezytowa
+tile.double_stone_slab3.andesite.smooth.name=Gładka podwójna płyta andezytowa
+tile.double_stone_slab3.diorite.name=Podwójna płyta diorytu
+tile.double_stone_slab3.diorite.smooth.name=Gładka podwójna płyta diorytowa
+tile.double_stone_slab3.granite.name=Podwójna płyta granitowa
+tile.double_stone_slab3.granite.smooth.name=Gładka granitowa podwójna płyta
+tile.double_stone_slab4.mossy_stone_brick.name=Podwójna płyta z omszałej cegły kamiennej
+tile.double_stone_slab4.cut_sandstone.name=Cięta podwójna płyta z piaskowca
+tile.double_stone_slab2.sandstone.smooth.name=Podwójna płyta z gładkiego piaskowca
+tile.double_stone_slab4.cut_red_sandstone.name=Wytnij podwójną płytę z czerwonego piaskowca
+tile.double_stone_slab3.red_sandstone.smooth.name=Gładka podwójna płyta z czerwonego piaskowca
+tile.mud_brick_double_slab.name=Podwójna płyta z cegły mułowej
+tile.polished_tuff_double_slab.name=Podwójna płyta z polerowanego tufu
+tile.tuff_brick_double_slab.name=Podwójna płyta z cegły Tuff
+tile.tuff_double_slab.name=Podwójna płyta Tuff
+tile.double_cut_copper_slab.name=Cięcie podwójnej płyty miedzianej
+tile.exposed_double_cut_copper_slab.name=Odsłonięta podwójna płyta miedziana cięta
+tile.oxidized_double_cut_copper_slab.name=Podwójna płyta z oksydowanej miedzi
+tile.waxed_double_cut_copper_slab.name=Podwójna płyta z woskowanej miedzi ciętej
+tile.waxed_exposed_double_cut_copper_slab.name=Podwójna płyta miedziana woskowana, odsłonięta
+tile.waxed_oxidized_double_cut_copper_slab.name=Podwójna płyta z woskowanej oksydowanej miedzi ciętej
+tile.waxed_weathered_double_cut_copper_slab.name=Podwójna płyta z woskowanej, wyblakłej miedzi ciętej
+tile.weathered_double_cut_copper_slab.name=Podwójna płyta z wyblakłej miedzi ciętej
+tile.double_stone_slab2.prismarine.rough.name=Podwójna płyta Prismarine
+tile.double_stone_slab2.prismarine.bricks.name=Podwójna płyta z cegły pryzmowej
+tile.double_stone_slab2.prismarine.dark.name=Podwójna płyta w kolorze ciemnego pryzmatu
+tile.double_stone_slab4.smooth_quartz.name=Gładka podwójna płyta kwarcowa
+tile.blackstone_double_slab.name=Podwójna płyta Blackstone
+tile.polished_blackstone_brick_double_slab.name=Podwójna płyta z polerowanej cegły Blackstone
+tile.polished_blackstone_double_slab.name=Podwójna płyta z polerowanego czarnego kamienia
+tile.double_stone_slab2.red_nether_brick.name=Podwójna płyta z cegły czerwonej Netheru
+tile.double_stone_slab3.end_brick.name=Podwójna płyta końcowa z cegły
+tile.double_stone_slab2.purpur.name=Podwójna płyta Purpur
+
+
+## Cut Copper Blocks
+tile.cut_copper_block.exposed.name=Odsłonięty cięty blok miedziany 
+tile.cut_copper_block.exposed.waxed.name=Woskowany, odsłonięty blok miedziany 
+tile.cut_copper_block.name=Wytnij blok miedziany 
+tile.cut_copper_block.oxidized.name=Blok miedzi oksydowanej 
+tile.cut_copper_block.waxed.name=Blok miedziany woskowany 
+tile.cut_copper_block.weathered.name=Zwietrzały cięty blok miedziany 
+tile.cut_copper_block.weathered.waxed.name=Blok miedziany woskowany, zwietrzały 
+
+
+## Nature
+tile.bamboo_sapling.name=Sadzonka Bambusa
+tile.bamboo_sapling.oak.name=Drzewko Bambusa Dębowego
+tile.bamboo_sapling.spruce.name=Sadzonka Bambusa Świerk
+tile.bamboo_sapling.birch.name=Sadzonka bambusa brzozy
+tile.bamboo_sapling.jungle.name=Sadzonka bambusa w dżungli
+tile.bamboo_sapling.acacia.name=Sadzonka bambusa akacjowego
+tile.bamboo_sapling.big_oak.name=Sadzonka bambusa ciemnego dębu
+tile.chorus_plant.name=Trzon chóru
+tile.melon_stem.name=Łodyga Melona
+tile.pitcher_crop.name=Dzban Pod
+tile.torchflower_crop.name=Kwiat Pochodni
+tile.mangrove_propagule_hanging.name=Wisząca propagada namorzynowa 
+tile.kelp.name=Wodorosty morskie
+
+
+## Liquids
+tile.flowing_lava.name=Płynąca lawa
+tile.flowing_water.name=Płynąca woda
+tile.lava.name=Statyczna lawa
+tile.water.name=Woda statyczna
+
+
+## Redstone Blocks
+tile.daylight_detector_inverted.name=Detektor odwróconego światła dziennego
+tile.lit_redstone_lamp.name=Zapalona lampa Redstone
+tile.lit_redstone_ore.name=Zapalona ruda Redstone
+tile.lit_deepslate_redstone_ore.name=Oświetlona ruda Redstone Deepslate
+tile.pistonarmcollision.name=Zderzenie ramienia tłoka
+tile.piston_arm_collision.name=Zderzenie ramienia tłoka
+tile.stickypistonarmcollision.name=Zderzenie lepkiego ramienia tłoka
+tile.sticky_piston_arm_collision.name=Zderzenie lepkiego ramienia tłoka
+tile.unpowered_repeater.name=Niezasilany wzmacniacz
+tile.unpowered_comparator.name=Niezasilany komparator
+tile.powered_repeater.name=Zasilany wzmacniacz
+tile.powered_comparator.name=Zasilany komparator
+
+
+## Light Sources
+tile.lit_furnace.name=Zapalony Piec
+tile.lit_blast_furnace.name=Rozpalony wielki piec
+tile.lit_smoker.name=Zapalony palacz
+
+
+## Decorative Blocks
+tile.flower_pot.name=Doniczka
+tile.frame.name=Rama
+tile.glow_frame.name=Świecąca rama
+tile.wall_banner.name=Baner ścienny
+tile.stone_slab.wood.name=Skamieniała płyta dębowa
+tile.purpur_block.smooth.name=Gładka purpura
+tile.deprecated_purpur_block_2.name=Gładka purpura
+tile.skull.name=Ściana Czaszki
+
+
+## Functional Blocks
+tile.allow.name=Umożliwić
+tile.border_block.name=Granica
+tile.bubble_column.name=Kolumna bąbelkowa
+tile.deny.name=Zaprzeczyć
+tile.end_gateway.name=Brama końcowa
+tile.end_portal.name=Płytka Portalu Końca
+tile.end_portal_frame.name=Końcowa rama portalu
+tile.lava_cauldron.name=Kocioł lawowy
+tile.powder_snow.name=Blok śniegu w proszku
+
+
+## Miscellaneous Blocks
+tile.client_request_placeholder_block.name=Blok zastępczy żądania klienta
+tile.glowingobsidian.name=Świecący Obsydian
+tile.reserved6.name=Zarezerwowane 6
+tile.info_update.name=Aktualizuj blok
+tile.info_update2.name=Aktualizuj blok 2
+tile.movingBlock.name=Ruchomy blok
+tile.moving_block.name=Ruchomy blok
+
+
+## Education Edition Blocks
+tile.chemical_heat.name=Ciepło chemiczne 
+tile.colored_torch.blue.name=Niebieska pochodnia 
+tile.colored_torch.green.name=Zielona Pochodnia 
+tile.colored_torch.purple.name=Fioletowa pochodnia 
+tile.colored_torch.red.name=Czerwona Pochodnia 
+tile.compoundcreator.name=Twórca złożony 
+tile.element.ac.name=Aktyn 
+tile.element.ag.name=Srebro 
+tile.element.al.name=Aluminium 
+tile.element.am.name=Ameryka 
+tile.element.ar.name=Argon 
+tile.element.as.name=Arsen 
+tile.element.at.name=Astat 
+tile.element.au.name=Złoto 
+tile.element.b.name=Bor 
+tile.element.ba.name=Bar 
+tile.element.be.name=Beryl 
+tile.element.bh.name=Bohr 
+tile.element.bi.name=Bizmut 
+tile.element.bk.name=Berkelium 
+tile.element.br.name=Brom 
+tile.element.c.name=Węgiel 
+tile.element.ca.name=Wapń 
+tile.element.cd.name=Kadm 
+tile.element.ce.name=Cer 
+tile.element.cf.name=Kaliforn 
+tile.element.cl.name=Chlor 
+tile.element.cm.name=Kurium 
+tile.element.cn.name=Kopernik 
+tile.element.co.name=Kobalt 
+tile.element.cr.name=Chrom 
+tile.element.cs.name=Cez 
+tile.element.cu.name=Miedź 
+tile.element.db.name=Dubnium 
+tile.element.ds.name=Darmsztadt 
+tile.element.dy.name=Dysproz 
+tile.element.er.name=Erb 
+tile.element.es.name=Einsteinium 
+tile.element.eu.name=Europ 
+tile.element.f.name=Fluor 
+tile.element.fe.name=Żelazo 
+tile.element.fl.name=Flerow 
+tile.element.fm.name=Ferm 
+tile.element.fr.name=Frans 
+tile.element.ga.name=Gal 
+tile.element.gd.name=Gadolin 
+tile.element.ge.name=German 
+tile.element.h.name=Wodór 
+tile.element.he.name=Hel 
+tile.element.hf.name=Hafn 
+tile.element.hg.name=Merkury 
+tile.element.ho.name=Holm 
+tile.element.hs.name=Has 
+tile.element.i.name=Jod 
+tile.element.in.name=Ind 
+tile.element.ir.name=Iryd 
+tile.element.k.name=Potas 
+tile.element.kr.name=Krypton 
+tile.element.la.name=Lantan 
+tile.element.li.name=Lit 
+tile.element.lr.name=Lawrencjum 
+tile.element.lu.name=Lutet 
+tile.element.lv.name=Livermorium 
+tile.element.mc.name=Moscovium 
+tile.element.md.name=Mendelew 
+tile.element.mg.name=Magnez 
+tile.element.mn.name=Mangan 
+tile.element.mo.name=Molibden 
+tile.element.mt.name=Meitner 
+tile.element.n.name=Azot 
+tile.element.na.name=Sód 
+tile.element.nb.name=Niob 
+tile.element.nd.name=Neodym 
+tile.element.ne.name=Neon 
+tile.element.nh.name=Nihonium 
+tile.element.ni.name=Nikiel 
+tile.element.no.name=Nobel 
+tile.element.np.name=Neptun 
+tile.element.o.name=Tlen 
+tile.element.og.name=Oganesson 
+tile.element.os.name=Osm 
+tile.element.p.name=Fosfor 
+tile.element.pa.name=Protaktyn 
+tile.element.pb.name=Ołów 
+tile.element.pd.name=Pallad 
+tile.element.pm.name=Promet 
+tile.element.po.name=Polon 
+tile.element.pr.name=Prazeodym 
+tile.element.pt.name=Platyna 
+tile.element.pu.name=Pluton 
+tile.element.ra.name=Rad 
+tile.element.rb.name=Rubid 
+tile.element.re.name=Ren 
+tile.element.rf.name=Rutherford 
+tile.element.rg.name=Roentgen 
+tile.element.rh.name=Rod 
+tile.element.rn.name=Radon 
+tile.element.ru.name=Ruten 
+tile.element.s.name=Siarka 
+tile.element.sb.name=Antymon 
+tile.element.sc.name=Skand 
+tile.element.se.name=Selen 
+tile.element.sg.name=Seaborgium 
+tile.element.si.name=Silikon 
+tile.element.sm.name=Samar 
+tile.element.sn.name=Cyna 
+tile.element.sr.name=Stront 
+tile.element.ta.name=Tantal 
+tile.element.tb.name=Terb 
+tile.element.tc.name=Technet 
+tile.element.te.name=Tellur 
+tile.element.th.name=Tor 
+tile.element.ti.name=Tytan 
+tile.element.tl.name=Tal 
+tile.element.tm.name=Tul 
+tile.element.ts.name=Tennessine 
+tile.element.u.name=Uran 
+tile.element.unknown.name=Nieznany element 
+tile.element.v.name=Wanad 
+tile.element.w.name=Wolfram 
+tile.element.xe.name=Xenon 
+tile.element.y.name=Itr 
+tile.element.yb.name=Iterb 
+tile.element.zn.name=Cynk 
+tile.element.zr.name=Cyrkon 
+tile.elementconstructor.name=Konstruktor elementów 
+tile.hard_glass.name=Szkło hartowane 
+tile.hard_glass_pane.name=Szyba ze szkła hartowanego 
+tile.hard_stained_glass.black.name=Hartowane czarne szkło witrażowe 
+tile.hard_stained_glass.blue.name=Hartowane niebieskie szkło witrażowe 
+tile.hard_stained_glass.brown.name=Hartowane brązowe szkło witrażowe 
+tile.hard_stained_glass.cyan.name=Hartowane szkło witrażowe cyjan 
+tile.hard_stained_glass.gray.name=Hartowany szary witraż 
+tile.hard_stained_glass.green.name=Hartowany witraż zielony 
+tile.hard_stained_glass.light_blue.name=Hartowane jasnoniebieskie szkło witrażowe 
+tile.hard_stained_glass.lime.name=Hartowane witraże wapienne 
+tile.hard_stained_glass.magenta.name=Hartowane szkło witrażowe w kolorze magenta 
+tile.hard_stained_glass.orange.name=Hartowane szkło witrażowe pomarańczowe 
+tile.hard_stained_glass.pink.name=Hartowany różowy witraż 
+tile.hard_stained_glass.purple.name=Hartowane fioletowe szkło witrażowe 
+tile.hard_stained_glass.red.name=Hartowane szkło witrażowe 
+tile.hard_stained_glass.silver.name=Hartowane jasnoszare szkło witrażowe 
+tile.hard_stained_glass.white.name=Hartowany biały witraż 
+tile.hard_stained_glass.yellow.name=Hartowane żółte szkło witrażowe 
+tile.hard_stained_glass_pane.black.name=Hartowana czarna szyba witrażowa 
+tile.hard_stained_glass_pane.blue.name=Hartowana niebieska szyba witrażowa 
+tile.hard_stained_glass_pane.brown.name=Hartowana szyba witrażowa w kolorze brązowym 
+tile.hard_stained_glass_pane.cyan.name=Hartowana szyba witrażowa w kolorze cyjanowym 
+tile.hard_stained_glass_pane.gray.name=Hartowana szyba witrażowa w kolorze szarym 
+tile.hard_stained_glass_pane.green.name=Hartowana szyba witrażowa w kolorze zielonym 
+tile.hard_stained_glass_pane.light_blue.name=Hartowana jasnoniebieska szyba witrażowa 
+tile.hard_stained_glass_pane.lime.name=Hartowana szyba witrażowa wapna 
+tile.hard_stained_glass_pane.magenta.name=Hartowana szyba witrażowa w kolorze magenta 
+tile.hard_stained_glass_pane.orange.name=Hartowana szyba witrażowa pomarańczowa 
+tile.hard_stained_glass_pane.pink.name=Hartowana szyba witrażowa w kolorze różowym 
+tile.hard_stained_glass_pane.purple.name=Hartowana fioletowa szyba witrażowa 
+tile.hard_stained_glass_pane.red.name=Hartowana szyba witrażowa w kolorze czerwonym 
+tile.hard_stained_glass_pane.silver.name=Hartowana jasnoszara szyba witrażowa 
+tile.hard_stained_glass_pane.white.name=Hartowana biała szyba witrażowa 
+tile.hard_stained_glass_pane.yellow.name=Hartowana szyba witrażowa w kolorze żółtym 
+tile.labtable.name=Stół laboratoryjny 
+tile.materialreducer.name=Reduktor materiału 
+tile.underwater_tnt.name=Podwodny TNT 
+tile.underwater_torch.name=Podwodna latarka 
+
+
+
+
+
+### Miscellaneous
+item..name=Pusty
+item.banner.base.black=Baza Czarnego Sztandaru
+item.banner.base.blue=Baza Niebieskiego Sztandaru
+item.banner.base.brown=Baza brązowego sztandaru
+item.banner.base.cyan=Baza banera cyjanowego
+item.banner.base.gray=Baza szarego banera
+item.banner.base.green=Baza Zielonego Sztandaru
+item.banner.base.lightBlue=Jasnoniebieska podstawa banera
+item.banner.base.lime=Baza banera limonkowego
+item.banner.base.magenta=Baza banera w kolorze magenta
+item.banner.base.orange=Baza pomarańczowego banera
+item.banner.base.pink=Baza różowego banera
+item.banner.base.purple=Fioletowa podstawa banera
+item.banner.base.red=Baza Czerwonego Sztandaru
+item.banner.base.silver=Jasnoszara podstawa banera
+item.banner.base.white=Baza Białego Sztandaru
+item.banner.base.yellow=Baza żółtego banera
+item.minecraft.goat_horn.sound.8=Latać (stary)
+item.minecraft.goat_horn.sound.9=Sen (stary)
+tipped_arrow.effect.empty=Niemożliwa do stworzenia wykończona strzała
+tipped_arrow.effect.awkward=Niezręcznie wygięta strzałka
+tipped_arrow.effect.mundane.extended=Rozszerzona Przyziemna Strzała z Końcówką
+tipped_arrow.effect.mundane=Przyziemna strzała z końcówką
+tipped_arrow.effect.thick=Gruba strzałka z końcówką

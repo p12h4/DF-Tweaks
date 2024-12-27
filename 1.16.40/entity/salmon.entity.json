@@ -1,0 +1,38 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:salmon",
+      "materials": {
+        "default": "salmon"
+      },
+      "textures": {
+        "default": "textures/entity/fish/salmon",
+        "skeleton": "textures/entity/fish/salmon_skeleton"
+      },
+      "geometry": {
+        "default": "geometry.salmon"
+      },
+      "scripts": {
+        "pre_animation": [
+          "v.ZRot = !q.is_in_water ? Math.cos((q.time_stamp + q.frame_alpha) * 14.32) * 90 : 0.0;",
+          "v.AnimationAmountBlend = Math.lerp(v.AnimationAmountPrev, v.AnimationAmount, q.frame_alpha);"
+        ]
+      },
+      "animations": {
+        "flop": "animation.salmon.flop",
+        "swim": "animation.salmon.swim"
+      },
+      "animation_controllers": [
+        {
+          "general": "controller.animation.fish.general"
+        }
+      ],
+      "render_controllers": ["controller.render.salmon"],
+      "spawn_egg": {
+        "texture": "spawn_egg",
+        "texture_index": 47
+      }
+    }
+  }
+}

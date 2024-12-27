@@ -1,0 +1,373 @@
+### Items
+## Regular Items
+item.copper_horn.name=Koperhoorn 
+item.spawn_egg.name=Paaien
+
+
+## Education Edition Items
+item.glow_stick.black.name=Zwarte Glowstick 
+
+
+
+
+
+### Tiles
+## Doors
+tile.wooden_door.name=Eiken deur
+tile.spruce_door.name=Vuren deur
+tile.birch_door.name=Berken deur
+tile.jungle_door.name=Jungle Deur
+tile.acacia_door.name=Acacia deur
+tile.dark_oak_door.name=Donker eiken deur
+tile.mangrove_door.name=Mangrove Deur
+
+
+## Signs
+tile.wall_sign.name=Eiken muurbord
+tile.spruce_wall_sign.name=Vuren muurbord
+tile.birch_wall_sign.name=Berken muurbord
+tile.jungle_wall_sign.name=Jungle muurbord
+tile.acacia_wall_sign.name=Wandbord van acaciahout
+tile.darkoak_wall_sign.name=Donker eiken muurbord
+tile.mangrove_standing_sign.name=Mangrove teken
+tile.mangrove_wall_sign.name=Mangrove muurbord
+tile.bamboo_standing_sign.name=Bamboe teken
+tile.bamboo_wall_sign.name=Bamboe muurbord
+tile.cherry_standing_sign.name=Kersen teken
+tile.cherry_wall_sign.name=Kersen muurbord
+tile.crimson_wall_sign.name=Karmozijnrode muurteken
+tile.warped_wall_sign.name=Vervormd muurbord
+
+
+## Double Slabs
+tile.double_wooden_slab.oak.name=Eiken dubbele plaat
+tile.double_wooden_slab.spruce.name=Sparren dubbele plaat
+tile.double_wooden_slab.birch.name=Berken dubbele plaat
+tile.double_wooden_slab.jungle.name=Jungle dubbele plaat
+tile.double_wooden_slab.acacia.name=Dubbele acaciaplaat
+tile.double_wooden_slab.big_oak.name=Donker eiken dubbele plaat
+tile.mangrove_double_slab.name=Mangrove dubbele plaat
+tile.bamboo_double_slab.name=Bamboe dubbele plaat
+tile.bamboo_mosaic_double_slab.name=Mozaïek bamboe dubbele plaat
+tile.crimson_double_slab.name=Karmozijnrode dubbele plaat
+tile.warped_double_slab.name=Vervormde dubbele plaat
+tile.double_stone_slab.wood.name=Versteend eiken dubbele plaat
+tile.double_stone_slab2.mossy_cobblestone.name=Bemoste geplaveide dubbele plaat
+tile.double_stone_slab4.stone.name=Stenen dubbele plaat
+tile.double_stone_slab3.andesite.name=Andesiet dubbele plaat
+tile.double_stone_slab3.andesite.smooth.name=Gladde Andesiet dubbele plaat
+tile.double_stone_slab3.diorite.name=Dioriet dubbele plaat
+tile.double_stone_slab3.diorite.smooth.name=Gladde dubbele Diorietplaat
+tile.double_stone_slab3.granite.name=Granieten dubbele plaat
+tile.double_stone_slab3.granite.smooth.name=Gladde granieten dubbele plaat
+tile.double_stone_slab4.mossy_stone_brick.name=Bemoste stenen bakstenen dubbele plaat
+tile.double_stone_slab4.cut_sandstone.name=Gesneden zandstenen dubbele plaat
+tile.double_stone_slab2.sandstone.smooth.name=Gladde zandstenen dubbele plaat
+tile.double_stone_slab4.cut_red_sandstone.name=Gesneden dubbele plaat van rood zandsteen
+tile.double_stone_slab3.red_sandstone.smooth.name=Gladde dubbele plaat van rood zandsteen
+tile.mud_brick_double_slab.name=Dubbele plaat van moddersteen
+tile.polished_tuff_double_slab.name=Gepolijste Tuff dubbele plaat
+tile.tuff_brick_double_slab.name=Dubbele plaat van tufsteen
+tile.tuff_double_slab.name=Dubbele plaat van tufsteen
+tile.double_cut_copper_slab.name=Gesneden koperen dubbele plaat
+tile.exposed_double_cut_copper_slab.name=Blootgestelde gesneden koperen dubbele plaat
+tile.oxidized_double_cut_copper_slab.name=Geoxideerde gesneden koperen dubbele plaat
+tile.waxed_double_cut_copper_slab.name=Gewaxt gesneden koperen dubbele plaat
+tile.waxed_exposed_double_cut_copper_slab.name=Gewaxte blootgestelde gesneden koperen dubbele plaat
+tile.waxed_oxidized_double_cut_copper_slab.name=Gewaxte geoxideerde koperen dubbele plaat
+tile.waxed_weathered_double_cut_copper_slab.name=Gewaxte verweerde gesneden koperen dubbele plaat
+tile.weathered_double_cut_copper_slab.name=Verweerde gesneden koperen dubbele plaat
+tile.double_stone_slab2.prismarine.rough.name=Prismarine dubbele plaat
+tile.double_stone_slab2.prismarine.bricks.name=Prismarine bakstenen dubbele plaat
+tile.double_stone_slab2.prismarine.dark.name=Donkere Prismarine dubbele plaat
+tile.double_stone_slab4.smooth_quartz.name=Gladde kwarts dubbele plaat
+tile.blackstone_double_slab.name=Dubbele Blackstone-plaat
+tile.polished_blackstone_brick_double_slab.name=Gepolijste Blackstone baksteen dubbele plaat
+tile.polished_blackstone_double_slab.name=Gepolijste Blackstone dubbele plaat
+tile.double_stone_slab2.red_nether_brick.name=Rode Nether baksteen dubbele plaat
+tile.double_stone_slab3.end_brick.name=Eindsteen dubbele plaat
+tile.double_stone_slab2.purpur.name=Purpur dubbele plaat
+
+
+## Cut Copper Blocks
+tile.cut_copper_block.exposed.name=Blootgesteld gesneden koperen blok 
+tile.cut_copper_block.exposed.waxed.name=Gewaxt zichtbaar gesneden koperen blok 
+tile.cut_copper_block.name=Snijd koperen blok 
+tile.cut_copper_block.oxidized.name=Geoxideerd gesneden koperen blok 
+tile.cut_copper_block.waxed.name=Gewaxt gesneden koperen blok 
+tile.cut_copper_block.weathered.name=Verweerd geslepen koperen blok 
+tile.cut_copper_block.weathered.waxed.name=Gewaxt, verweerd gesneden koperen blok 
+
+
+## Nature
+tile.bamboo_sapling.name=Bamboe jong boompje
+tile.bamboo_sapling.oak.name=Eiken bamboe boompje
+tile.bamboo_sapling.spruce.name=Sparren Bamboe Boompje
+tile.bamboo_sapling.birch.name=Berken Bamboe Boompje
+tile.bamboo_sapling.jungle.name=Jungle Bamboe Boompje
+tile.bamboo_sapling.acacia.name=Acacia Bamboe Boompje
+tile.bamboo_sapling.big_oak.name=Donker eiken bamboe boompje
+tile.chorus_plant.name=Koorstam
+tile.melon_stem.name=Meloen stengel
+tile.pitcher_crop.name=Werper Pod
+tile.torchflower_crop.name=Fakkelbloem
+tile.mangrove_propagule_hanging.name=Hangende mangrovepropagule 
+tile.kelp.name=Kelp
+
+
+## Liquids
+tile.flowing_lava.name=Stromende lava
+tile.flowing_water.name=Stromend water
+tile.lava.name=Statische lava
+tile.water.name=Statisch water
+
+
+## Redstone Blocks
+tile.daylight_detector_inverted.name=Omgekeerde daglichtdetector
+tile.lit_redstone_lamp.name=Verlichte Redstone-lamp
+tile.lit_redstone_ore.name=Verlicht Redstone-erts
+tile.lit_deepslate_redstone_ore.name=Verlicht Deepslate Redstone-erts
+tile.pistonarmcollision.name=Botsing met zuigerarm
+tile.piston_arm_collision.name=Botsing met zuigerarm
+tile.stickypistonarmcollision.name=Kleverige botsing met zuigerarm
+tile.sticky_piston_arm_collision.name=Kleverige botsing met zuigerarm
+tile.unpowered_repeater.name=Onaangedreven repeater
+tile.unpowered_comparator.name=Onaangedreven vergelijker
+tile.powered_repeater.name=Aangedreven repeater
+tile.powered_comparator.name=Aangedreven vergelijker
+
+
+## Light Sources
+tile.lit_furnace.name=Verlichte oven
+tile.lit_blast_furnace.name=Aangestoken hoogoven
+tile.lit_smoker.name=Aangestoken roker
+
+
+## Decorative Blocks
+tile.flower_pot.name=Bloempot
+tile.frame.name=Kader
+tile.glow_frame.name=Gloeiframe
+tile.wall_banner.name=Muurbanner
+tile.stone_slab.wood.name=Versteende eiken plaat
+tile.purpur_block.smooth.name=Gladde Purper
+tile.deprecated_purpur_block_2.name=Gladde Purper
+tile.skull.name=Muur schedel
+
+
+## Functional Blocks
+tile.allow.name=Toestaan
+tile.border_block.name=Grens
+tile.bubble_column.name=Bellenkolom
+tile.deny.name=Ontkennen
+tile.end_gateway.name=Einde Gateway
+tile.end_portal.name=Eindportaaltegel
+tile.end_portal_frame.name=Eindportaalframe
+tile.lava_cauldron.name=Lava Ketel
+tile.powder_snow.name=Poedersneeuw blok
+
+
+## Miscellaneous Blocks
+tile.client_request_placeholder_block.name=Tijdelijk blok voor klantverzoek
+tile.glowingobsidian.name=Gloeiende Obsidiaan
+tile.reserved6.name=Gereserveerd 6
+tile.info_update.name=Blok bijwerken
+tile.info_update2.name=Updateblok 2
+tile.movingBlock.name=Bewegend blok
+tile.moving_block.name=Bewegend blok
+
+
+## Education Edition Blocks
+tile.chemical_heat.name=Chemische hitte 
+tile.colored_torch.blue.name=Blauwe fakkel 
+tile.colored_torch.green.name=Groene fakkel 
+tile.colored_torch.purple.name=Paarse fakkel 
+tile.colored_torch.red.name=Rode fakkel 
+tile.compoundcreator.name=Samengestelde maker 
+tile.element.ac.name=Actinium 
+tile.element.ag.name=Zilver 
+tile.element.al.name=Aluminium 
+tile.element.am.name=Americium 
+tile.element.ar.name=Argon
+tile.element.as.name=Arseen 
+tile.element.at.name=Astatijn 
+tile.element.au.name=Goud 
+tile.element.b.name=Borium 
+tile.element.ba.name=Barium 
+tile.element.be.name=Beryllium 
+tile.element.bh.name=Bohrium 
+tile.element.bi.name=Bismut 
+tile.element.bk.name=Berkelium 
+tile.element.br.name=Broom 
+tile.element.c.name=Koolstof 
+tile.element.ca.name=Calcium
+tile.element.cd.name=Cadmium 
+tile.element.ce.name=Cerium 
+tile.element.cf.name=Californium 
+tile.element.cl.name=Chloor 
+tile.element.cm.name=Curium
+tile.element.cn.name=Copernicium 
+tile.element.co.name=Kobalt 
+tile.element.cr.name=Chroom 
+tile.element.cs.name=Cesium 
+tile.element.cu.name=Koper 
+tile.element.db.name=Dubnium
+tile.element.ds.name=Darmstadtium 
+tile.element.dy.name=Dysprosium 
+tile.element.er.name=Erbium 
+tile.element.es.name=Einsteinium 
+tile.element.eu.name=Europium
+tile.element.f.name=Fluor 
+tile.element.fe.name=Ijzer 
+tile.element.fl.name=Flerovium 
+tile.element.fm.name=Fermium 
+tile.element.fr.name=Frankium 
+tile.element.ga.name=Gallium 
+tile.element.gd.name=Gadolinium 
+tile.element.ge.name=Germanium 
+tile.element.h.name=Waterstof 
+tile.element.he.name=Helium 
+tile.element.hf.name=Hafnium 
+tile.element.hg.name=Mercurius 
+tile.element.ho.name=Holmium 
+tile.element.hs.name=Hassium 
+tile.element.i.name=Jodium 
+tile.element.in.name=Indium
+tile.element.ir.name=Iridium 
+tile.element.k.name=Kalium 
+tile.element.kr.name=Krypton
+tile.element.la.name=Lanthaan 
+tile.element.li.name=Lithium 
+tile.element.lr.name=Lawrencenium 
+tile.element.lu.name=Lutetium 
+tile.element.lv.name=Livermorium 
+tile.element.mc.name=Moscovium
+tile.element.md.name=Mendelevium 
+tile.element.mg.name=Magnesium 
+tile.element.mn.name=Mangaan 
+tile.element.mo.name=Molybdeen 
+tile.element.mt.name=Meitnerium 
+tile.element.n.name=Stikstof 
+tile.element.na.name=Natrium 
+tile.element.nb.name=Niobium 
+tile.element.nd.name=Neodymium 
+tile.element.ne.name=Neon 
+tile.element.nh.name=Nihonium 
+tile.element.ni.name=Nikkel 
+tile.element.no.name=Nobelium 
+tile.element.np.name=Neptunium 
+tile.element.o.name=Zuurstof 
+tile.element.og.name=Oganesson 
+tile.element.os.name=Osmium 
+tile.element.p.name=Fosfor 
+tile.element.pa.name=Protactinium 
+tile.element.pb.name=Leid 
+tile.element.pd.name=Palladium 
+tile.element.pm.name=Promethium 
+tile.element.po.name=Polonium 
+tile.element.pr.name=Praseodymium 
+tile.element.pt.name=Platina 
+tile.element.pu.name=Plutonium 
+tile.element.ra.name=Radium 
+tile.element.rb.name=Rubidium 
+tile.element.re.name=Renium 
+tile.element.rf.name=Rutherfordium 
+tile.element.rg.name=Röntgenium 
+tile.element.rh.name=Rhodium 
+tile.element.rn.name=Radon 
+tile.element.ru.name=Ruthenium 
+tile.element.s.name=Zwavel 
+tile.element.sb.name=Antimoon 
+tile.element.sc.name=Scandium 
+tile.element.se.name=Selenium 
+tile.element.sg.name=Seaborgium 
+tile.element.si.name=Silicium 
+tile.element.sm.name=Samarium 
+tile.element.sn.name=Tin 
+tile.element.sr.name=Strontium 
+tile.element.ta.name=Tantaal 
+tile.element.tb.name=Terbium 
+tile.element.tc.name=Technetium 
+tile.element.te.name=Tellurium 
+tile.element.th.name=Thorium 
+tile.element.ti.name=Titaan 
+tile.element.tl.name=Thallium 
+tile.element.tm.name=Thulium 
+tile.element.ts.name=Tennessine 
+tile.element.u.name=Uranium 
+tile.element.unknown.name=Onbekend element 
+tile.element.v.name=Vanadium 
+tile.element.w.name=Wolfraam 
+tile.element.xe.name=Xenon 
+tile.element.y.name=Yttrium 
+tile.element.yb.name=Ytterbium 
+tile.element.zn.name=Zink 
+tile.element.zr.name=Zirkonium 
+tile.elementconstructor.name=Elementconstructeur 
+tile.hard_glass.name=Gehard glas 
+tile.hard_glass_pane.name=Geharde glasruit 
+tile.hard_stained_glass.black.name=Gehard zwart glas-in-lood 
+tile.hard_stained_glass.blue.name=Gehard blauw glas-in-lood 
+tile.hard_stained_glass.brown.name=Gehard bruin glas in lood 
+tile.hard_stained_glass.cyan.name=Gehard cyaan-gekleurd glas 
+tile.hard_stained_glass.gray.name=Gehard grijs glas-in-lood 
+tile.hard_stained_glass.green.name=Gehard groen glas-in-lood 
+tile.hard_stained_glass.light_blue.name=Gehard lichtblauw glas-in-lood 
+tile.hard_stained_glass.lime.name=Gehard kalk-in-loodglas 
+tile.hard_stained_glass.magenta.name=Gehard magenta glas-in-lood 
+tile.hard_stained_glass.orange.name=Gehard oranje glas-in-lood 
+tile.hard_stained_glass.pink.name=Gehard roze glas in lood 
+tile.hard_stained_glass.purple.name=Gehard paars glas-in-lood 
+tile.hard_stained_glass.red.name=Gehard rood glas-in-lood 
+tile.hard_stained_glass.silver.name=Gehard lichtgrijs glas-in-lood 
+tile.hard_stained_glass.white.name=Gehard wit glas in lood 
+tile.hard_stained_glass.yellow.name=Gehard geel glas in lood 
+tile.hard_stained_glass_pane.black.name=Geharde zwarte glas-in-loodruit 
+tile.hard_stained_glass_pane.blue.name=Geharde blauwe glas-in-loodruit 
+tile.hard_stained_glass_pane.brown.name=Gehard bruin glas in lood ruit 
+tile.hard_stained_glass_pane.cyan.name=Gehard cyaan glas-in-loodruit 
+tile.hard_stained_glass_pane.gray.name=Geharde grijze glas-in-loodruit 
+tile.hard_stained_glass_pane.green.name=Geharde groene glas-in-loodruit 
+tile.hard_stained_glass_pane.light_blue.name=Geharde lichtblauwe glas-in-loodruit 
+tile.hard_stained_glass_pane.lime.name=Gehard kalkglas in loodruit 
+tile.hard_stained_glass_pane.magenta.name=Geharde magenta glas-in-loodruit 
+tile.hard_stained_glass_pane.orange.name=Gehard oranje glas-in-loodruit 
+tile.hard_stained_glass_pane.pink.name=Gehard roze glas-in-loodruit 
+tile.hard_stained_glass_pane.purple.name=Geharde paarse glas-in-loodruit 
+tile.hard_stained_glass_pane.red.name=Geharde rode glas-in-loodruit 
+tile.hard_stained_glass_pane.silver.name=Geharde lichtgrijze glas-in-loodruit 
+tile.hard_stained_glass_pane.white.name=Geharde witte glas-in-loodruit 
+tile.hard_stained_glass_pane.yellow.name=Geharde gele glas-in-loodruit 
+tile.labtable.name=Laboratoriumtafel 
+tile.materialreducer.name=Materiaalreductiemiddel 
+tile.underwater_tnt.name=Onderwater TNT 
+tile.underwater_torch.name=Onderwaterfakkel 
+
+
+
+
+
+### Miscellaneous
+item..name=Blanco
+item.banner.base.black=Zwarte bannerbasis
+item.banner.base.blue=Blauwe bannerbasis
+item.banner.base.brown=Bruine bannerbasis
+item.banner.base.cyan=Cyaan bannerbasis
+item.banner.base.gray=Grijze bannerbasis
+item.banner.base.green=Groene bannerbasis
+item.banner.base.lightBlue=Lichtblauwe bannerbasis
+item.banner.base.lime=Lime bannerbasis
+item.banner.base.magenta=Magenta bannerbasis
+item.banner.base.orange=Oranje bannerbasis
+item.banner.base.pink=Roze bannerbasis
+item.banner.base.purple=Paarse bannerbasis
+item.banner.base.red=Rode bannerbasis
+item.banner.base.silver=Lichtgrijze bannerbasis
+item.banner.base.white=Witte bannerbasis
+item.banner.base.yellow=Gele bannerbasis
+item.minecraft.goat_horn.sound.8=Vlieg (oud)
+item.minecraft.goat_horn.sound.9=Droom (oud)
+tipped_arrow.effect.empty=Onvervaardigbare getipte pijl
+tipped_arrow.effect.awkward=Onhandig getipte pijl
+tipped_arrow.effect.mundane.extended=Uitgebreide alledaagse getipte pijl
+tipped_arrow.effect.mundane=Mondaine getipte pijl
+tipped_arrow.effect.thick=Dikke puntige pijl

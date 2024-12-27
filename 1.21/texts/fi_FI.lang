@@ -1,0 +1,373 @@
+### Items
+## Regular Items
+item.copper_horn.name=Kuparitorvi 
+item.spawn_egg.name=Saada aikaan
+
+
+## Education Edition Items
+item.glow_stick.black.name=Musta Glow Stick 
+
+
+
+
+
+### Tiles
+## Doors
+tile.wooden_door.name=Tammi ovi
+tile.spruce_door.name=Kuusen ovi
+tile.birch_door.name=Koivu ovi
+tile.jungle_door.name=Viidakon ovi
+tile.acacia_door.name=Akaasia ovi
+tile.dark_oak_door.name=Tumma tammi ovi
+tile.mangrove_door.name=Mangrove-ovi
+
+
+## Signs
+tile.wall_sign.name=Tammi seinäkyltti
+tile.spruce_wall_sign.name=Kuusi seinäkyltti
+tile.birch_wall_sign.name=Koivuinen seinäkyltti
+tile.jungle_wall_sign.name=Viidakon seinäkyltti
+tile.acacia_wall_sign.name=Akaasia seinäkyltti
+tile.darkoak_wall_sign.name=Tumma tammi seinäkyltti
+tile.mangrove_standing_sign.name=Mangrovekyltti
+tile.mangrove_wall_sign.name=Mangrove seinäkyltti
+tile.bamboo_standing_sign.name=Bambu merkki
+tile.bamboo_wall_sign.name=Bambu seinäkyltti
+tile.cherry_standing_sign.name=Kirsikka merkki
+tile.cherry_wall_sign.name=Kirsikka seinäkyltti
+tile.crimson_wall_sign.name=Crimson Wall kyltti
+tile.warped_wall_sign.name=Vääntynyt seinäkyltti
+
+
+## Double Slabs
+tile.double_wooden_slab.oak.name=Tammi kaksoislaatta
+tile.double_wooden_slab.spruce.name=Kuusen kaksoislaatta
+tile.double_wooden_slab.birch.name=Koivu kaksoislaatta
+tile.double_wooden_slab.jungle.name=Jungle Double Slab
+tile.double_wooden_slab.acacia.name=Akaasia kaksinkertainen laatta
+tile.double_wooden_slab.big_oak.name=Tumma tammi kaksoislaatta
+tile.mangrove_double_slab.name=Mangrove-kaksoislaatta
+tile.bamboo_double_slab.name=Bamboo Double Slab
+tile.bamboo_mosaic_double_slab.name=Mosaic Bamboo Double Slab
+tile.crimson_double_slab.name=Crimson Double Slab
+tile.warped_double_slab.name=Vääntynyt kaksoislaatta
+tile.double_stone_slab.wood.name=Kivettynyt tammi kaksoislaatta
+tile.double_stone_slab2.mossy_cobblestone.name=Mossy Cobblestone Double Slab
+tile.double_stone_slab4.stone.name=Kivi kaksoislaatta
+tile.double_stone_slab3.andesite.name=Andesiitti kaksoislaatta
+tile.double_stone_slab3.andesite.smooth.name=Sileä andesiittikaksoislaatta
+tile.double_stone_slab3.diorite.name=Dioriitti kaksoislaatta
+tile.double_stone_slab3.diorite.smooth.name=Sileä dioriitti kaksoislaatta
+tile.double_stone_slab3.granite.name=Graniitti kaksoislaatta
+tile.double_stone_slab3.granite.smooth.name=Sileä graniitti kaksoislaatta
+tile.double_stone_slab4.mossy_stone_brick.name=Mossy Stone Brick Double Slab
+tile.double_stone_slab4.cut_sandstone.name=Leikkaa hiekkakivi kaksoislaatta
+tile.double_stone_slab2.sandstone.smooth.name=Sileä hiekkakivi kaksoislaatta
+tile.double_stone_slab4.cut_red_sandstone.name=Leikkaa punaisen hiekkakiven kaksoislaatta
+tile.double_stone_slab3.red_sandstone.smooth.name=Sileä punainen hiekkakivi kaksoislaatta
+tile.mud_brick_double_slab.name=Mutatiili kaksoislaatta
+tile.polished_tuff_double_slab.name=Kiillotettu Tuff Double Slab
+tile.tuff_brick_double_slab.name=Tuff Brick Double Slab
+tile.tuff_double_slab.name=Tuff Double Slab
+tile.double_cut_copper_slab.name=Leikkaa kupari kaksoislaatta
+tile.exposed_double_cut_copper_slab.name=Paljas leikattu kupari kaksoislaatta
+tile.oxidized_double_cut_copper_slab.name=Hapetettu leikattu kupari kaksoislaatta
+tile.waxed_double_cut_copper_slab.name=Vahattu leikattu kupari kaksoislaatta
+tile.waxed_exposed_double_cut_copper_slab.name=Vahattu paljasta leikattu kupari kaksoislaatta
+tile.waxed_oxidized_double_cut_copper_slab.name=Vahattu hapetettu leikattu kupari kaksoislaatta
+tile.waxed_weathered_double_cut_copper_slab.name=Vahattu, kulunut leikattu kuparilevy
+tile.weathered_double_cut_copper_slab.name=Weathered Cut Copper Double Slab
+tile.double_stone_slab2.prismarine.rough.name=Prismarine Double Slab
+tile.double_stone_slab2.prismarine.bricks.name=Prismarine Brick Double Slab
+tile.double_stone_slab2.prismarine.dark.name=Tumma Prismarine Double Slab
+tile.double_stone_slab4.smooth_quartz.name=Sileä kvartsi kaksoislaatta
+tile.blackstone_double_slab.name=Blackstone Double Slab
+tile.polished_blackstone_brick_double_slab.name=Kiillotettu Blackstone Brick Double Slab
+tile.polished_blackstone_double_slab.name=Kiillotettu Blackstone Double Slab
+tile.double_stone_slab2.red_nether_brick.name=Red Nether Brick Double Slab
+tile.double_stone_slab3.end_brick.name=End Brick Double Slab
+tile.double_stone_slab2.purpur.name=Purpur Double Slab
+
+
+## Cut Copper Blocks
+tile.cut_copper_block.exposed.name=Paljas leikattu kuparilohko 
+tile.cut_copper_block.exposed.waxed.name=Vahattu paljasleikattu kuparilohko 
+tile.cut_copper_block.name=Leikattu kuparilohko 
+tile.cut_copper_block.oxidized.name=Hapetettu leikattu kuparilohko 
+tile.cut_copper_block.waxed.name=Vahattu leikattu kuparilohko 
+tile.cut_copper_block.weathered.name=Weathered Cut Copper Block 
+tile.cut_copper_block.weathered.waxed.name=Vahattu, kulunut leikattu kuparilohko 
+
+
+## Nature
+tile.bamboo_sapling.name=Bambu taimi
+tile.bamboo_sapling.oak.name=Oak Bamboo Taimi
+tile.bamboo_sapling.spruce.name=Kuusen bambu taimi
+tile.bamboo_sapling.birch.name=Koivun bambu taimi
+tile.bamboo_sapling.jungle.name=Jungle Bamboo Taimi
+tile.bamboo_sapling.acacia.name=Acacia Bamboo Taimi
+tile.bamboo_sapling.big_oak.name=Tumma tammi bambusta taimi
+tile.chorus_plant.name=Kuoron varsi
+tile.melon_stem.name=Melonin varsi
+tile.pitcher_crop.name=Kannu Pod
+tile.torchflower_crop.name=Torchflower
+tile.mangrove_propagule_hanging.name=Riippuva mangrovepropagule 
+tile.kelp.name=Rakkolevä
+
+
+## Liquids
+tile.flowing_lava.name=Virtaava Laava
+tile.flowing_water.name=Virtaava vesi
+tile.lava.name=Staattinen laava
+tile.water.name=Staattinen vesi
+
+
+## Redstone Blocks
+tile.daylight_detector_inverted.name=Käänteinen päivänvaloilmaisin
+tile.lit_redstone_lamp.name=Sytytetty Redstone-lamppu
+tile.lit_redstone_ore.name=Lit Redstone Ore
+tile.lit_deepslate_redstone_ore.name=Lit Deepslate Redstone Ore
+tile.pistonarmcollision.name=Männänvarren törmäys
+tile.piston_arm_collision.name=Männänvarren törmäys
+tile.stickypistonarmcollision.name=Tahmean männänvarren törmäys
+tile.sticky_piston_arm_collision.name=Tahmean männänvarren törmäys
+tile.unpowered_repeater.name=Virtaton toistin
+tile.unpowered_comparator.name=Virtaton vertailija
+tile.powered_repeater.name=Virtakäyttöinen toistin
+tile.powered_comparator.name=Powered Comparator
+
+
+## Light Sources
+tile.lit_furnace.name=Sytytetty uuni
+tile.lit_blast_furnace.name=Sytytetty Masuuni
+tile.lit_smoker.name=Lit Smoker
+
+
+## Decorative Blocks
+tile.flower_pot.name=Kukkaruukku
+tile.frame.name=Kehys
+tile.glow_frame.name=Hehkuva kehys
+tile.wall_banner.name=Seinäbanneri
+tile.stone_slab.wood.name=Kivettynyt tammilaatta
+tile.purpur_block.smooth.name=Smooth Purpur
+tile.deprecated_purpur_block_2.name=Smooth Purpur
+tile.skull.name=Seinäkallo
+
+
+## Functional Blocks
+tile.allow.name=Sallia
+tile.border_block.name=Raja
+tile.bubble_column.name=Kuplapylväs
+tile.deny.name=Kiellä
+tile.end_gateway.name=End Gateway
+tile.end_portal.name=Lopeta portaalin laatta
+tile.end_portal_frame.name=Lopeta portaalikehys
+tile.lava_cauldron.name=Laavakattila
+tile.powder_snow.name=Powder Snow Block
+
+
+## Miscellaneous Blocks
+tile.client_request_placeholder_block.name=Asiakaspyynnön paikkamerkkilohko
+tile.glowingobsidian.name=Hehkuva obsidiaani
+tile.reserved6.name=Varattu 6
+tile.info_update.name=Päivitä esto
+tile.info_update2.name=Päivitä lohko 2
+tile.movingBlock.name=Liikkuva lohko
+tile.moving_block.name=Liikkuva lohko
+
+
+## Education Edition Blocks
+tile.chemical_heat.name=Kemiallinen lämpö 
+tile.colored_torch.blue.name=Sininen taskulamppu 
+tile.colored_torch.green.name=Vihreä taskulamppu 
+tile.colored_torch.purple.name=Purppura taskulamppu 
+tile.colored_torch.red.name=Punainen taskulamppu 
+tile.compoundcreator.name=Yhdisteen luoja 
+tile.element.ac.name=Actinium 
+tile.element.ag.name=Hopeaa 
+tile.element.al.name=Alumiini 
+tile.element.am.name=Americium 
+tile.element.ar.name=Argon 
+tile.element.as.name=Arseeni 
+tile.element.at.name=Astiini 
+tile.element.au.name=Kulta 
+tile.element.b.name=Boori 
+tile.element.ba.name=Barium 
+tile.element.be.name=Beryllium 
+tile.element.bh.name=Bohrium 
+tile.element.bi.name=Vismutti 
+tile.element.bk.name=Berkelium 
+tile.element.br.name=Bromi 
+tile.element.c.name=Hiili 
+tile.element.ca.name=Kalsium 
+tile.element.cd.name=Kadmium 
+tile.element.ce.name=Cerium 
+tile.element.cf.name=Kalifornia 
+tile.element.cl.name=Kloori 
+tile.element.cm.name=Curium 
+tile.element.cn.name=Kopernikium 
+tile.element.co.name=Koboltti 
+tile.element.cr.name=Kromi 
+tile.element.cs.name=Cesium 
+tile.element.cu.name=Kupari 
+tile.element.db.name=Dubnium 
+tile.element.ds.name=Darmstadtium 
+tile.element.dy.name=Dysprosium 
+tile.element.er.name=Erbium 
+tile.element.es.name=Einsteinium 
+tile.element.eu.name=Europium 
+tile.element.f.name=Fluori 
+tile.element.fe.name=Rauta 
+tile.element.fl.name=Flerovium 
+tile.element.fm.name=Fermium 
+tile.element.fr.name=Francium 
+tile.element.ga.name=Gallium 
+tile.element.gd.name=Gadoliini 
+tile.element.ge.name=germanium 
+tile.element.h.name=Vety 
+tile.element.he.name=Helium 
+tile.element.hf.name=Hafnium 
+tile.element.hg.name=Merkurius 
+tile.element.ho.name=Holmium 
+tile.element.hs.name=Hassium 
+tile.element.i.name=Jodi 
+tile.element.in.name=Indium 
+tile.element.ir.name=Iridium 
+tile.element.k.name=kalium 
+tile.element.kr.name=Kryptoni 
+tile.element.la.name=Lantaani 
+tile.element.li.name=Litium 
+tile.element.lr.name=Lawrencium 
+tile.element.lu.name=Lutetium 
+tile.element.lv.name=Livermorium 
+tile.element.mc.name=Moskova 
+tile.element.md.name=Mendelevium 
+tile.element.mg.name=Magnesium 
+tile.element.mn.name=Mangaani 
+tile.element.mo.name=Molybdeeni 
+tile.element.mt.name=Meitnerium 
+tile.element.n.name=Typpi 
+tile.element.na.name=Natrium 
+tile.element.nb.name=Niobium 
+tile.element.nd.name=Neodyymi 
+tile.element.ne.name=Neon 
+tile.element.nh.name=Nihonium 
+tile.element.ni.name=Nikkeli 
+tile.element.no.name=Nobelium 
+tile.element.np.name=Neptunium 
+tile.element.o.name=Happi 
+tile.element.og.name=Oganesson 
+tile.element.os.name=Osmium 
+tile.element.p.name=Fosfori 
+tile.element.pa.name=Protactinium 
+tile.element.pb.name=Lyijy 
+tile.element.pd.name=Palladium 
+tile.element.pm.name=Promethium 
+tile.element.po.name=Polonium 
+tile.element.pr.name=Praseodyymi 
+tile.element.pt.name=Platina 
+tile.element.pu.name=Plutonium 
+tile.element.ra.name=Radium 
+tile.element.rb.name=Rubidium 
+tile.element.re.name=Renium 
+tile.element.rf.name=Rutherfordium 
+tile.element.rg.name=Roentgenium 
+tile.element.rh.name=Rodium 
+tile.element.rn.name=Radon 
+tile.element.ru.name=Ruteeni 
+tile.element.s.name=Rikki 
+tile.element.sb.name=Antimoni 
+tile.element.sc.name=Scandium 
+tile.element.se.name=Seleeni 
+tile.element.sg.name=Seaborgium 
+tile.element.si.name=Pii 
+tile.element.sm.name=Samarium 
+tile.element.sn.name=Tina 
+tile.element.sr.name=Strontium 
+tile.element.ta.name=Tantaali 
+tile.element.tb.name=Terbium 
+tile.element.tc.name=Teknetium 
+tile.element.te.name=Telluuri 
+tile.element.th.name=Torium 
+tile.element.ti.name=Titaani 
+tile.element.tl.name=Tallium 
+tile.element.tm.name=Tuliumia 
+tile.element.ts.name=Tennessine 
+tile.element.u.name=Uraani 
+tile.element.unknown.name=Tuntematon elementti 
+tile.element.v.name=Vanadiini 
+tile.element.w.name=Volframi 
+tile.element.xe.name=Xenon 
+tile.element.y.name=Ittrium 
+tile.element.yb.name=Ytterbium 
+tile.element.zn.name=Sinkki 
+tile.element.zr.name=Zirkonium 
+tile.elementconstructor.name=Elementtikonstruktori 
+tile.hard_glass.name=Karkaistu lasi 
+tile.hard_glass_pane.name=Karkaistu lasi 
+tile.hard_stained_glass.black.name=Karkaistu musta lasimaalaus 
+tile.hard_stained_glass.blue.name=Karkaistu sininen lasimaalaus 
+tile.hard_stained_glass.brown.name=Karkaistu ruskea lasimaalaus 
+tile.hard_stained_glass.cyan.name=Karkaistu syaani lasimaalaus 
+tile.hard_stained_glass.gray.name=Karkaistu harmaa lasimaalaus 
+tile.hard_stained_glass.green.name=Karkaistu vihreä lasimaalaus 
+tile.hard_stained_glass.light_blue.name=Karkaistu vaaleansininen lasimaalaus 
+tile.hard_stained_glass.lime.name=Karkaistu kalkkilasimaalaus 
+tile.hard_stained_glass.magenta.name=Karkaistu magenta lasimaalaus 
+tile.hard_stained_glass.orange.name=Karkaistu oranssi lasimaalaus 
+tile.hard_stained_glass.pink.name=Karkaistu vaaleanpunainen lasimaalaus 
+tile.hard_stained_glass.purple.name=Karkaistu purppuralasimaalaus 
+tile.hard_stained_glass.red.name=Karkaistu punainen lasimaalaus 
+tile.hard_stained_glass.silver.name=Karkaistu vaaleanharmaa lasimaalaus 
+tile.hard_stained_glass.white.name=Karkaistu valkoinen lasimaalaus 
+tile.hard_stained_glass.yellow.name=Karkaistu keltainen lasimaalaus 
+tile.hard_stained_glass_pane.black.name=Karkaistu musta lasimaalaus 
+tile.hard_stained_glass_pane.blue.name=Karkaistu sininen lasimaalaus 
+tile.hard_stained_glass_pane.brown.name=Karkaistu ruskea lasimaalaus 
+tile.hard_stained_glass_pane.cyan.name=Karkaistu syaani lasimaalaus 
+tile.hard_stained_glass_pane.gray.name=Karkaistu harmaa lasimaalaus 
+tile.hard_stained_glass_pane.green.name=Karkaistu vihreä lasimaalaus 
+tile.hard_stained_glass_pane.light_blue.name=Karkaistu vaaleansininen lasimaalaus 
+tile.hard_stained_glass_pane.lime.name=Karkaistu lime lasimaalaus 
+tile.hard_stained_glass_pane.magenta.name=Karkaistu magenta lasimaalaus 
+tile.hard_stained_glass_pane.orange.name=Karkaistu oranssi lasimaalaus 
+tile.hard_stained_glass_pane.pink.name=Karkaistu vaaleanpunainen lasimaalaus 
+tile.hard_stained_glass_pane.purple.name=Karkaistu violetti lasimaalaus 
+tile.hard_stained_glass_pane.red.name=Karkaistu punainen lasimaalaus 
+tile.hard_stained_glass_pane.silver.name=Karkaistu vaaleanharmaa lasimaalaus 
+tile.hard_stained_glass_pane.white.name=Karkaistu valkoinen lasimaalaus 
+tile.hard_stained_glass_pane.yellow.name=Karkaistu keltainen lasimaalaus 
+tile.labtable.name=Laboratoriotaulukko 
+tile.materialreducer.name=Materiaalin supistin 
+tile.underwater_tnt.name=Vedenalainen TNT 
+tile.underwater_torch.name=Vedenalainen taskulamppu 
+
+
+
+
+
+### Miscellaneous
+item..name=Tyhjä
+item.banner.base.black=Musta banneripohja
+item.banner.base.blue=Sininen banneripohja
+item.banner.base.brown=Ruskea banneripohja
+item.banner.base.cyan=Syaani banneripohja
+item.banner.base.gray=Harmaa banneripohja
+item.banner.base.green=Vihreä banneripohja
+item.banner.base.lightBlue=Vaaleansininen banneripohja
+item.banner.base.lime=Lime Banner Base
+item.banner.base.magenta=Magenta banneripohja
+item.banner.base.orange=Oranssi banneripohja
+item.banner.base.pink=Vaaleanpunainen banneripohja
+item.banner.base.purple=Violetti banneripohja
+item.banner.base.red=Punainen banneripohja
+item.banner.base.silver=Vaaleanharmaa banneripohja
+item.banner.base.white=Valkoinen banneripohja
+item.banner.base.yellow=Keltainen banneripohja
+item.minecraft.goat_horn.sound.8=lentää (vanha)
+item.minecraft.goat_horn.sound.9=Unelma (vanha)
+tipped_arrow.effect.empty=Käsittämätön kärkinuoli
+tipped_arrow.effect.awkward=Hankala nuoli
+tipped_arrow.effect.mundane.extended=Laajennettu arkisininen nuoli
+tipped_arrow.effect.mundane=Maallinen kärkinuoli
+tipped_arrow.effect.thick=Paksukärkinen nuoli

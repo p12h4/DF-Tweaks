@@ -1,0 +1,373 @@
+### Items
+## Regular Items
+item.copper_horn.name=Меден рог 
+item.spawn_egg.name=Спаун
+
+
+## Education Edition Items
+item.glow_stick.black.name=Черен светещ стик 
+
+
+
+
+
+### Tiles
+## Doors
+tile.wooden_door.name=Дъбова врата
+tile.spruce_door.name=Смърч Врата
+tile.birch_door.name=Бреза врата
+tile.jungle_door.name=Вратата на джунглата
+tile.acacia_door.name=Врата от акация
+tile.dark_oak_door.name=Врата от тъмен дъб
+tile.mangrove_door.name=Мангрова врата
+
+
+## Signs
+tile.wall_sign.name=Табела за стена от дъб
+tile.spruce_wall_sign.name=Табела за стена смърч
+tile.birch_wall_sign.name=Знак за стена Бреза
+tile.jungle_wall_sign.name=Знак за стена в джунглата
+tile.acacia_wall_sign.name=Стенен знак от акация
+tile.darkoak_wall_sign.name=Табела за стена тъмен дъб
+tile.mangrove_standing_sign.name=Мангрова гора
+tile.mangrove_wall_sign.name=Мангрова стена
+tile.bamboo_standing_sign.name=Бамбуков знак
+tile.bamboo_wall_sign.name=Бамбукова табела за стена
+tile.cherry_standing_sign.name=Черешов знак
+tile.cherry_wall_sign.name=Табелка за черешова стена
+tile.crimson_wall_sign.name=Пурпурен стенен знак
+tile.warped_wall_sign.name=Знак за изкривена стена
+
+
+## Double Slabs
+tile.double_wooden_slab.oak.name=Дъбова двойна плоча
+tile.double_wooden_slab.spruce.name=Двойна плоча от смърч
+tile.double_wooden_slab.birch.name=Бреза двойна плоча
+tile.double_wooden_slab.jungle.name=Двойна плоча Jungle
+tile.double_wooden_slab.acacia.name=Двойна плоча от акация
+tile.double_wooden_slab.big_oak.name=Двойна плоча от тъмен дъб
+tile.mangrove_double_slab.name=Мангрова двойна плоча
+tile.bamboo_double_slab.name=Бамбукова двойна плоча
+tile.bamboo_mosaic_double_slab.name=Мозайка бамбукова двойна плоча
+tile.crimson_double_slab.name=Червена двойна плоча
+tile.warped_double_slab.name=Изкривена двойна плоча
+tile.double_stone_slab.wood.name=Двойна плоча от вкаменен дъб
+tile.double_stone_slab2.mossy_cobblestone.name=Мъхест калдъръм двойна плоча
+tile.double_stone_slab4.stone.name=Каменна двойна плоча
+tile.double_stone_slab3.andesite.name=Андезитна двойна плоча
+tile.double_stone_slab3.andesite.smooth.name=Гладка андезитна двойна плоча
+tile.double_stone_slab3.diorite.name=Диоритна двойна плоча
+tile.double_stone_slab3.diorite.smooth.name=Гладка диоритна двойна плоча
+tile.double_stone_slab3.granite.name=Гранитна двойна плоча
+tile.double_stone_slab3.granite.smooth.name=Гладка гранитогресна двойна плоча
+tile.double_stone_slab4.mossy_stone_brick.name=Двойна плоча от мъхеста каменна тухла
+tile.double_stone_slab4.cut_sandstone.name=Изрязана двойна плоча от пясъчник
+tile.double_stone_slab2.sandstone.smooth.name=Двойна плоча от гладък пясъчник
+tile.double_stone_slab4.cut_red_sandstone.name=Изрязана двойна плоча от червен пясъчник
+tile.double_stone_slab3.red_sandstone.smooth.name=Двойна плоча от гладък червен пясъчник
+tile.mud_brick_double_slab.name=Двойна плоча от глинени тухли
+tile.polished_tuff_double_slab.name=Двойна плоча от полиран туф
+tile.tuff_brick_double_slab.name=Двойна плоча от туф тухла
+tile.tuff_double_slab.name=Туф двойна плоча
+tile.double_cut_copper_slab.name=Изрязана медна двойна плоча
+tile.exposed_double_cut_copper_slab.name=Открита медна двойна плоча
+tile.oxidized_double_cut_copper_slab.name=Оксидирана медна двойна плоча
+tile.waxed_double_cut_copper_slab.name=Восъчна изрязана медна двойна плоча
+tile.waxed_exposed_double_cut_copper_slab.name=Восъчна открита изрязана медна двойна плоча
+tile.waxed_oxidized_double_cut_copper_slab.name=Восъчна оксидирана медна двойна плоча
+tile.waxed_weathered_double_cut_copper_slab.name=Двойна медна плоча с восъчна изветряла нарязана
+tile.weathered_double_cut_copper_slab.name=Двойна медна плоча, нарязана на времето
+tile.double_stone_slab2.prismarine.rough.name=Двойна плоча Prismarine
+tile.double_stone_slab2.prismarine.bricks.name=Тухлена двойна плоча Prismarine
+tile.double_stone_slab2.prismarine.dark.name=Тъмно призмарин двойна плоча
+tile.double_stone_slab4.smooth_quartz.name=Гладка кварцова двойна плоча
+tile.blackstone_double_slab.name=Blackstone двойна плоча
+tile.polished_blackstone_brick_double_slab.name=Двойна плоча от тухла Blackstone
+tile.polished_blackstone_double_slab.name=Полирана двойна плоча Blackstone
+tile.double_stone_slab2.red_nether_brick.name=Червена тухлена двойна плоча
+tile.double_stone_slab3.end_brick.name=Крайна тухлена двойна плоча
+tile.double_stone_slab2.purpur.name=Purpur Double Slab
+
+
+## Cut Copper Blocks
+tile.cut_copper_block.exposed.name=Открит изрязан меден блок 
+tile.cut_copper_block.exposed.waxed.name=Восъчен открит меден блок 
+tile.cut_copper_block.name=Изрязан меден блок 
+tile.cut_copper_block.oxidized.name=Оксидиран меден блок 
+tile.cut_copper_block.waxed.name=Восъчен меден блок 
+tile.cut_copper_block.weathered.name=Изсушен меден блок 
+tile.cut_copper_block.weathered.waxed.name=Восъчен изветрял изрязан меден блок 
+
+
+## Nature
+tile.bamboo_sapling.name=Бамбукова фиданка
+tile.bamboo_sapling.oak.name=Фиданка от бамбук от дъб
+tile.bamboo_sapling.spruce.name=Смърч бамбукова фиданка
+tile.bamboo_sapling.birch.name=Фиданка от бамбук от бреза
+tile.bamboo_sapling.jungle.name=Бамбукова фиданка от джунглата
+tile.bamboo_sapling.acacia.name=Бамбукова фиданка от акация
+tile.bamboo_sapling.big_oak.name=Бамбукова фиданка тъмен дъб
+tile.chorus_plant.name=Припев
+tile.melon_stem.name=Стъбло от пъпеш
+tile.pitcher_crop.name=Кана Под
+tile.torchflower_crop.name=Факелно цвете
+tile.mangrove_propagule_hanging.name=Висящо мангрово растение 
+tile.kelp.name=Келп
+
+
+## Liquids
+tile.flowing_lava.name=Течаща лава
+tile.flowing_water.name=Течаща вода
+tile.lava.name=Статична лава
+tile.water.name=Статична вода
+
+
+## Redstone Blocks
+tile.daylight_detector_inverted.name=Обърнат детектор за дневна светлина
+tile.lit_redstone_lamp.name=Осветена лампа от Редстоун
+tile.lit_redstone_ore.name=Осветена руда Redstone
+tile.lit_deepslate_redstone_ore.name=Осветена руда Deepslate Redstone
+tile.pistonarmcollision.name=Сблъсък с бутално рамо
+tile.piston_arm_collision.name=Сблъсък с бутално рамо
+tile.stickypistonarmcollision.name=Сблъсък със залепващо бутално рамо
+tile.sticky_piston_arm_collision.name=Сблъсък със залепващо бутално рамо
+tile.unpowered_repeater.name=Ретранслатор без захранване
+tile.unpowered_comparator.name=Компаратор без захранване
+tile.powered_repeater.name=Захранван ретранслатор
+tile.powered_comparator.name=Захранван компаратор
+
+
+## Light Sources
+tile.lit_furnace.name=Запалена пещ
+tile.lit_blast_furnace.name=Запалена доменна пещ
+tile.lit_smoker.name=Запален пушач
+
+
+## Decorative Blocks
+tile.flower_pot.name=Саксия
+tile.frame.name=Кадър
+tile.glow_frame.name=Светеща рамка
+tile.wall_banner.name=Банер за стена
+tile.stone_slab.wood.name=Плоча от вкаменен дъб
+tile.purpur_block.smooth.name=Гладък пурпур
+tile.deprecated_purpur_block_2.name=Гладък пурпур
+tile.skull.name=Стенен череп
+
+
+## Functional Blocks
+tile.allow.name=Позволява
+tile.border_block.name=Граница
+tile.bubble_column.name=Мехурчеста колона
+tile.deny.name=Отказвам
+tile.end_gateway.name=Краен шлюз
+tile.end_portal.name=Крайна портална плочка
+tile.end_portal_frame.name=Крайна портална рамка
+tile.lava_cauldron.name=Котел от лава
+tile.powder_snow.name=Прахообразен снежен блок
+
+
+## Miscellaneous Blocks
+tile.client_request_placeholder_block.name=Заместващ блок за клиентска заявка
+tile.glowingobsidian.name=Светещ обсидиан
+tile.reserved6.name=Запазено 6
+tile.info_update.name=Актуализирай блок
+tile.info_update2.name=Актуализирайте блок 2
+tile.movingBlock.name=Подвижен блок
+tile.moving_block.name=Подвижен блок
+
+
+## Education Edition Blocks
+tile.chemical_heat.name=Химическа топлина 
+tile.colored_torch.blue.name=Син факел 
+tile.colored_torch.green.name=Зелен факел 
+tile.colored_torch.purple.name=Лилав факел 
+tile.colored_torch.red.name=Червен факел 
+tile.compoundcreator.name=Създател на съединения 
+tile.element.ac.name=Актиний 
+tile.element.ag.name=Сребро 
+tile.element.al.name=Алуминий 
+tile.element.am.name=Америций 
+tile.element.ar.name=Аргон 
+tile.element.as.name=Арсен 
+tile.element.at.name=Астат 
+tile.element.au.name=Злато 
+tile.element.b.name=Бор 
+tile.element.ba.name=Барий 
+tile.element.be.name=Берилий 
+tile.element.bh.name=Борий 
+tile.element.bi.name=Бисмут 
+tile.element.bk.name=Беркелий 
+tile.element.br.name=Бром 
+tile.element.c.name=Въглерод 
+tile.element.ca.name=Калций 
+tile.element.cd.name=Кадмий 
+tile.element.ce.name=Церий 
+tile.element.cf.name=Калифорния 
+tile.element.cl.name=Хлор 
+tile.element.cm.name=Курий 
+tile.element.cn.name=Копернициум 
+tile.element.co.name=Кобалт 
+tile.element.cr.name=Хром 
+tile.element.cs.name=Цезий 
+tile.element.cu.name=Мед 
+tile.element.db.name=Дубний 
+tile.element.ds.name=Дармщадиум 
+tile.element.dy.name=Диспрозий 
+tile.element.er.name=Ербий 
+tile.element.es.name=Айнщайний 
+tile.element.eu.name=европий 
+tile.element.f.name=Флуор 
+tile.element.fe.name=Желязо 
+tile.element.fl.name=Flerovium 
+tile.element.fm.name=Фермий 
+tile.element.fr.name=Франсиум 
+tile.element.ga.name=Галий 
+tile.element.gd.name=Гадолиний 
+tile.element.ge.name=Германий 
+tile.element.h.name=Водород 
+tile.element.he.name=Хелий 
+tile.element.hf.name=Хафний 
+tile.element.hg.name=Меркурий 
+tile.element.ho.name=Холмий 
+tile.element.hs.name=Хасий 
+tile.element.i.name=Йод 
+tile.element.in.name=Индий 
+tile.element.ir.name=Иридий 
+tile.element.k.name=Калий 
+tile.element.kr.name=Криптон 
+tile.element.la.name=лантан 
+tile.element.li.name=Литий 
+tile.element.lr.name=Лоренсиум 
+tile.element.lu.name=Лутеций 
+tile.element.lv.name=Ливермориум 
+tile.element.mc.name=Московиум 
+tile.element.md.name=Менделевий 
+tile.element.mg.name=Магнезий 
+tile.element.mn.name=Манган 
+tile.element.mo.name=Молибден 
+tile.element.mt.name=Мейтнерий 
+tile.element.n.name=Азот 
+tile.element.na.name=Натрий 
+tile.element.nb.name=Ниобий 
+tile.element.nd.name=Неодимов 
+tile.element.ne.name=Неон 
+tile.element.nh.name=Нихоний 
+tile.element.ni.name=Никел 
+tile.element.no.name=Нобелий 
+tile.element.np.name=Нептуний 
+tile.element.o.name=Кислород 
+tile.element.og.name=Оганесон 
+tile.element.os.name=Осмий 
+tile.element.p.name=Фосфор 
+tile.element.pa.name=Протактиний 
+tile.element.pb.name=Олово 
+tile.element.pd.name=Паладий 
+tile.element.pm.name=Прометий 
+tile.element.po.name=Полоний 
+tile.element.pr.name=Празеодим 
+tile.element.pt.name=Платина 
+tile.element.pu.name=Плутоний 
+tile.element.ra.name=Радий 
+tile.element.rb.name=Рубидий 
+tile.element.re.name=Рений 
+tile.element.rf.name=Ръдърфордиум 
+tile.element.rg.name=Рентгений 
+tile.element.rh.name=Родий 
+tile.element.rn.name=Радон 
+tile.element.ru.name=Рутений 
+tile.element.s.name=Сяра 
+tile.element.sb.name=Антимон 
+tile.element.sc.name=Скандий 
+tile.element.se.name=Селен 
+tile.element.sg.name=Сиборгиум 
+tile.element.si.name=Силикон 
+tile.element.sm.name=Самариум 
+tile.element.sn.name=Калай 
+tile.element.sr.name=Стронций 
+tile.element.ta.name=Тантал 
+tile.element.tb.name=Тербий 
+tile.element.tc.name=Технеций 
+tile.element.te.name=Телур 
+tile.element.th.name=Торий 
+tile.element.ti.name=Титан 
+tile.element.tl.name=Талий 
+tile.element.tm.name=Тулий 
+tile.element.ts.name=Тенесин 
+tile.element.u.name=Уран 
+tile.element.unknown.name=Неизвестен елемент 
+tile.element.v.name=Ванадий 
+tile.element.w.name=Волфрам 
+tile.element.xe.name=Ксенон 
+tile.element.y.name=Итрий 
+tile.element.yb.name=Итербий 
+tile.element.zn.name=Цинк 
+tile.element.zr.name=Цирконий 
+tile.elementconstructor.name=Конструктор на елементи 
+tile.hard_glass.name=Закалено стъкло 
+tile.hard_glass_pane.name=Закалено стъкло 
+tile.hard_stained_glass.black.name=Закалено черно витражи 
+tile.hard_stained_glass.blue.name=Закалено синьо витражи 
+tile.hard_stained_glass.brown.name=Закалено кафяво витражи 
+tile.hard_stained_glass.cyan.name=Закалено циан стъклопис 
+tile.hard_stained_glass.gray.name=Закалено сиво оцветено стъкло 
+tile.hard_stained_glass.green.name=Закалено зелено витражи 
+tile.hard_stained_glass.light_blue.name=Закалено светлосиньо витражи 
+tile.hard_stained_glass.lime.name=Витражи от втвърдена вар 
+tile.hard_stained_glass.magenta.name=Закалено магента стъклопис 
+tile.hard_stained_glass.orange.name=Закалено оранжево витражи 
+tile.hard_stained_glass.pink.name=Закалено розово витражи 
+tile.hard_stained_glass.purple.name=Закалено лилаво витражи 
+tile.hard_stained_glass.red.name=Закален червен витраж 
+tile.hard_stained_glass.silver.name=Закалено светло сиво витражи 
+tile.hard_stained_glass.white.name=Закалено бяло витражи 
+tile.hard_stained_glass.yellow.name=Втвърдени жълти витражи 
+tile.hard_stained_glass_pane.black.name=Закалено черно витражно стъкло 
+tile.hard_stained_glass_pane.blue.name=Закалено синьо витражно стъкло 
+tile.hard_stained_glass_pane.brown.name=Закалено кафяво витражно стъкло 
+tile.hard_stained_glass_pane.cyan.name=Закалено циан стъклопис 
+tile.hard_stained_glass_pane.gray.name=Закалено сиво витражно стъкло 
+tile.hard_stained_glass_pane.green.name=Закалено зелено витражно стъкло 
+tile.hard_stained_glass_pane.light_blue.name=Закалено светлосиньо витражно стъкло 
+tile.hard_stained_glass_pane.lime.name=Витраж от втвърдена вар 
+tile.hard_stained_glass_pane.magenta.name=Закалено пурпурно витражно стъкло 
+tile.hard_stained_glass_pane.orange.name=Закалено оранжево витражно стъкло 
+tile.hard_stained_glass_pane.pink.name=Закалено розово витражно стъкло 
+tile.hard_stained_glass_pane.purple.name=Закалено лилаво витражно стъкло 
+tile.hard_stained_glass_pane.red.name=Закалено червено витражно стъкло 
+tile.hard_stained_glass_pane.silver.name=Закалено светло сиво витражно стъкло 
+tile.hard_stained_glass_pane.white.name=Закалено бяло витражно стъкло 
+tile.hard_stained_glass_pane.yellow.name=Закалено жълто витражно стъкло 
+tile.labtable.name=Лабораторна маса 
+tile.materialreducer.name=Материален редуктор 
+tile.underwater_tnt.name=Подводен TNT 
+tile.underwater_torch.name=Подводен факел 
+
+
+
+
+
+### Miscellaneous
+item..name=Празно
+item.banner.base.black=Основа за черен банер
+item.banner.base.blue=База със синьо знаме
+item.banner.base.brown=Основа за кафяв банер
+item.banner.base.cyan=Основа за циан банер
+item.banner.base.gray=Сива банерна основа
+item.banner.base.green=Основа на зеления банер
+item.banner.base.lightBlue=Светлосиня банерна основа
+item.banner.base.lime=Основа за банер от вар
+item.banner.base.magenta=Магента банерна основа
+item.banner.base.orange=Оранжева банерна основа
+item.banner.base.pink=Основа за розов банер
+item.banner.base.purple=Лилава основа за банер
+item.banner.base.red=База на Червеното знаме
+item.banner.base.silver=Светло сива банерна основа
+item.banner.base.white=Бяла банерна основа
+item.banner.base.yellow=Основа за жълто знаме
+item.minecraft.goat_horn.sound.8=летя (стар)
+item.minecraft.goat_horn.sound.9=мечта (стара)
+tipped_arrow.effect.empty=Неизработваема стрела с връх
+tipped_arrow.effect.awkward=Стрела с неудобен връх
+tipped_arrow.effect.mundane.extended=Дълга светска стрела с връх
+tipped_arrow.effect.mundane=Светска стрела с връх
+tipped_arrow.effect.thick=Стрела с дебел връх

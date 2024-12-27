@@ -1,0 +1,47 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.pufferfish.small": {
+      "arrays": {
+        "textures": {
+          "Array.variants": ["Texture.default", "Texture.skeleton"]
+        }
+      },
+      "geometry": "geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": ["Array.variants[q.max_health == 6 ? 1 : 0 ]"]
+    },
+    "controller.render.pufferfish.medium": {
+      "arrays": {
+        "textures": {
+          "Array.variants": ["Texture.default", "Texture.skeleton"]
+        }
+      },
+      "geometry": "geometry.mid",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": ["Array.variants[q.max_health == 6 ? 1 : 0 ]"]
+    },
+    "controller.render.pufferfish.large": {
+      "arrays": {
+        "textures": {
+          "Array.variants": ["Texture.default", "Texture.skeleton"]
+        }
+      },
+      "geometry": "geometry.large",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": ["Array.variants[q.max_health == 6 ? 1 : 0 ]"]
+    }
+  }
+}

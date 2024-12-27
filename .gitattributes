@@ -1,0 +1,5 @@
+* text eol=lf
+
+*.mcworld binary
+*.png binary
+*.tga binary

@@ -1,0 +1,23 @@
+{
+  "format_version": "1.10.0",
+  "render_controllers": {
+    "controller.render.block_worn.disabled": {
+      "geometry": "geometry.default",
+      "materials": [
+        {
+          "*": "v.is_enchanted ? Material.enchanted : Material.default"
+        }
+      ],
+      "textures": ["Texture.default", "Texture.enchanted"]
+    },
+    "controller.render.block_worn.enabled": {
+      "geometry": "geometry.default",
+      "materials": [
+        {
+          "*": "v.is_enchanted ? Material.enchanted : Material.default"
+        }
+      ],
+      "textures": ["Texture.default", "Texture.enchanted"]
+    }
+  }
+}
