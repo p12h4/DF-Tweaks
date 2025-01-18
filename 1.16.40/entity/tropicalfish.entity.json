@@ -23,7 +23,7 @@
         "bPattern4": "textures/entity/fish/tropical_b_pattern_4",
         "bPattern5": "textures/entity/fish/tropical_b_pattern_5",
         "bPattern6": "textures/entity/fish/tropical_b_pattern_6",
-        "SkeletonPattern": "textures/misc/invisible_top"
+        "patternSkeleton": "textures/misc/empty"
       },
       "scripts": {
         "pre_animation": [

@@ -12,7 +12,7 @@ A discontinued feature is something that was obtainable in an older version of M
 
 
 ## Mobs
-- **Distinguishable Mobs with Discontinued Attributes**: Mobs with discontinued attributes now have unique textures to differentiate them from normal mobs
+- **Mobs with Discontinued Attributes**: Mobs with discontinued attributes now have unique textures to differentiate them from normal mobs
 - **Visible Blocks on Mobs**: Certain blocks, such as Glowstone or Pumpkins, are now shown on mobs and the player when worn on their heads
 - **Visible Armor on Foxes**: Armor pieces are now shown when equipped on a fox
 

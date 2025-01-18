@@ -1,3 +1,11 @@
+4.5.2:
+- 1.18.10:
+  - fixed "[Geometry][error]-minecraft:tadpole | minecraft:tadpole | geometry not found?" content log errors
+- bubble column items with "drag_down:1b" now have a downward animation in the inventory
+- re-added petrified oak slab textures
+- white banners are now visible when held by evokers and vindicators
+
+
 4.5.1:
 - 1.21+:
   - all types of mob heads can now be seen on foxes

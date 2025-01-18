@@ -30,7 +30,7 @@
         "animate": [
           "setup",
           {
-            "baby_transform": "query.is_baby"
+            "baby_transform": "q.is_baby"
           },
           "move"
         ]

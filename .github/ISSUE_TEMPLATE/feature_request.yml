@@ -1,0 +1,17 @@
+name: Feature Request
+description: Suggest new features or improvements for the resource pack.
+title: "[Feature]: "
+labels: ["enhancement"]
+
+body:
+  - type: textarea
+    attributes:
+      label: Feature Description
+      description: Provide a detailed description of the feature or improvement you are suggesting. Include why it would be useful.
+    validations:
+      required: true
+  
+  - type: textarea
+    attributes:
+      label: Screenshots or Examples
+      description: If applicable, add screenshots or mockups to help explain your idea.

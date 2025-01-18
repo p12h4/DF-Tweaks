@@ -24,7 +24,7 @@
             "Texture.bPattern4",
             "Texture.bPattern5",
             "Texture.bPattern6",
-            "Texture.SkeletonPattern"
+            "Texture.patternSkeleton"
           ]
         }
       },

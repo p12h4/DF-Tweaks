@@ -6,16 +6,16 @@
   },
   "header": {
     "description": "§l§3Made by p3sw.§r§l This pack modifies the visual appearance of several discontinued mobs, items, and blocks, making them more distinguishable. §7(Translations may not be fully accurate.)§r",
-    "name": "§l§7(4.5.1)§r§l Discontinued Feature Tweaks§r",
+    "name": "§l§7(4.5.2)§r§l Discontinued Feature Tweaks§r",
     "uuid": "0e0f0028-4dfd-48eb-a333-43a7973b570a",
-    "version": [4, 5, 1],
+    "version": [4, 5, 2],
     "min_engine_version": [1, 18, 10]
   },
   "modules": [
     {
       "type": "resources",
       "uuid": "257592ed-7c01-44da-b859-e3c7e7d6fd00",
-      "version": [4, 5, 1]
+      "version": [4, 5, 2]
     }
   ]
 }

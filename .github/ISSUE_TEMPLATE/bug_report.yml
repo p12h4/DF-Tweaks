@@ -1,0 +1,31 @@
+name: Bug Report
+description: Provide details about any issues encountered while using the resource pack.
+title: "[Bug]: "
+labels: ["bug"]
+
+body:
+  - type: textarea
+    attributes:
+      label: Bug Description
+      description: Provide a clear summary of the bug, including any actions or conditions that trigger it.
+    validations:
+      required: true
+  
+  - type: textarea
+    attributes:
+      label: Screenshots
+      description: If applicable, add screenshots to help explain your problem.
+  
+  - type: input
+    attributes:
+      label: Minecraft Version
+      description: The minecraft version you are playing on (e.g. 1.18.30).
+    validations:
+      required: true
+  
+  - type: input
+    attributes:
+      label: Pack Version
+      description: The version of the resource pack you are using (e.g. 4.5.0).
+    validations:
+      required: true

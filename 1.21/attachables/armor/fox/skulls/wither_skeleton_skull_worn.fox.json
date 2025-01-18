@@ -1,0 +1,33 @@
+{
+  "format_version": "1.16.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "dftweaks:wither_skeleton_skull_worn.fox",
+      "item": {
+        "minecraft:wither_skeleton_skull": "query.is_owner_identifier_any('minecraft:fox') == 1.0"
+      },
+      "materials": {
+        "default": "armor",
+        "enchanted": "armor_enchanted"
+      },
+      "textures": {
+        "default": "textures/entity/skulls/wither_skeleton",
+        "enchanted": "textures/misc/enchanted_item_glint"
+      },
+      "geometry": {
+        "default": "geometry.skull_fox"
+      },
+      "scripts": {
+        "parent_setup": "variable.helmet_layer_visible = 0.0;"
+      },
+      "render_controllers": [
+        {
+          "controller.render.block_worn.disabled": "c.is_first_person || !query.is_item_name_any('slot.armor.head', 'minecraft:wither_skeleton_skull')"
+        },
+        {
+          "controller.render.block_worn.enabled": "!c.is_first_person && query.is_item_name_any('slot.armor.head', 'minecraft:wither_skeleton_skull')"
+        }
+      ]
+    }
+  }
+}

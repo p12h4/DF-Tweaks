@@ -2,7 +2,7 @@
   "format_version": "1.10.0",
   "render_controllers": {
     "controller.render.block_worn.disabled": {
-      "geometry": "geometry.default",
+      "geometry": "Geometry.default",
       "materials": [
         {
           "*": "v.is_enchanted ? Material.enchanted : Material.default"
@@ -19,7 +19,7 @@
       ]
     },
     "controller.render.block_worn.enabled": {
-      "geometry": "geometry.default",
+      "geometry": "Geometry.default",
       "materials": [
         {
           "*": "v.is_enchanted ? Material.enchanted : Material.default"

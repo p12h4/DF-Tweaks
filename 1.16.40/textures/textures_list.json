@@ -215,6 +215,7 @@
   "textures/blocks/observer_side_lit",
   "textures/blocks/observer_top",
   "textures/blocks/observer_top_lit",
+  "textures/blocks/petrified_oak_slab",
   "textures/blocks/purpur_chiseled",
   "textures/blocks/purpur_smooth",
   "textures/blocks/reactor_core_stage_0",
@@ -242,8 +243,5 @@
   "textures/entity/tadpole/tadpole_pale",
   "textures/entity/vindicator/vindicator_captain",
   "textures/items/tipped_arrow",
-  "textures/misc/invisible_top",
-  "textures/models/armor/block/carved_pumpkin",
-  "textures/models/armor/block/pumpkin",
-  "textures/models/armor/fox/elytra"
+  "textures/misc/empty"
 ]

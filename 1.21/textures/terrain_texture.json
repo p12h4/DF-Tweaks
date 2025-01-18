@@ -4,6 +4,48 @@
   "num_mip_levels": 4,
   "padding": 8,
   "texture_data": {
+    "bubble_column": {
+      "textures": ["textures/blocks/bubble_column_outer_a", "textures/blocks/bubble_column_outer_b"]
+    },
+    "petrified_oak_slab": {
+      "textures": "textures/blocks/petrified_oak_slab"
+    },
+    "stone_slab_top": {
+      "textures": [
+        "textures/blocks/stone_slab_top",
+        "textures/blocks/sandstone_top",
+        "textures/blocks/petrified_oak_slab",
+        "textures/blocks/cobblestone",
+        "textures/blocks/brick",
+        "textures/blocks/stonebrick",
+        "textures/blocks/quartz_block_top",
+        "textures/blocks/nether_brick"
+      ]
+    },
+    "stone_slab_bottom": {
+      "textures": [
+        "textures/blocks/stone_slab_top",
+        "textures/blocks/sandstone_bottom",
+        "textures/blocks/petrified_oak_slab",
+        "textures/blocks/cobblestone",
+        "textures/blocks/brick",
+        "textures/blocks/stonebrick",
+        "textures/blocks/quartz_block_bottom",
+        "textures/blocks/nether_brick"
+      ]
+    },
+    "stone_slab_side": {
+      "textures": [
+        "textures/blocks/stone_slab_side",
+        "textures/blocks/sandstone_normal",
+        "textures/blocks/petrified_oak_slab",
+        "textures/blocks/cobblestone",
+        "textures/blocks/brick",
+        "textures/blocks/stonebrick",
+        "textures/blocks/quartz_block_side",
+        "textures/blocks/nether_brick"
+      ]
+    },
     "anvil_top_damaged_x": {
       "textures": [
         "textures/blocks/anvil_top_damaged_0",
@@ -564,8 +606,8 @@
     "info_update2": {
       "textures": "textures/blocks/info_update2"
     },
-    "invisible_top": {
-      "textures": "textures/misc/invisible_top"
+    "empty": {
+      "textures": "textures/misc/empty"
     },
     "invisible_bedrock": {
       "textures": "textures/blocks/invisible_bedrock"

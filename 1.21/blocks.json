@@ -1,5 +1,11 @@
 {
   "format_version": [1, 16, 0],
+  "bubble_column": {
+    "carried_textures" : "bubble_column"
+  },
+  "petrified_oak_slab": {
+    "textures": "petrified_oak_slab"
+  },
   "candle_cake": {
     "carried_textures": "candle_cake_carried"
   },
@@ -453,14 +459,30 @@
   "fire": {
     "blockshape": "block",
     "textures": {
-      "down": "invisible_top",
+      "down": "empty",
       "side": "fire_0",
-      "up": "invisible_top"
+      "up": "empty"
     }
   },
   "hard_glass": {
     "sound": "glass",
     "textures": "hard_glass"
+  },
+  "mysterious_frame": {
+    "sound": "netherite",
+    "textures": {
+      "down": "mysterious_frame_bottom",
+      "side": "mysterious_frame_side",
+      "up": "mysterious_frame_top"
+    }
+  },
+  "mysterious_frame_slot": {
+    "sound": "netherite",
+    "textures": {
+      "down": "mysterious_frame_bottom",
+      "side": "mysterious_frame_side",
+      "up": "mysterious_frame_top"
+    }
   },
   "hard_glass_pane": {
     "sound": "glass",
@@ -533,11 +555,11 @@
   "soul_fire": {
     "blockshape": "block",
     "textures": {
-      "down": "invisible_top",
+      "down": "empty",
       "east": "soul_fire_0",
       "north": "soul_fire_0",
       "south": "soul_fire_0",
-      "up": "invisible_top",
+      "up": "empty",
       "west": "soul_fire_0"
     }
   },
