@@ -12,6 +12,10 @@
     "*.webp": "luna.editor",
     "*.svg": "luna.editor"
   },
+  "[bat]": {
+    "files.eol": "\r\n",
+    "editor.tabSize": 3
+  },
   "[jsonc]": {
     "editor.tabSize": 2,
     "editor.insertSpaces": true
