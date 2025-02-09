@@ -1,0 +1,42 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Deploy Resource Pack",
+      "type": "shell",
+      "command": ".vscode\\deploy.bat",
+      "args": [
+        "${input:version}",
+        "${input:target}"
+      ],
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ],
+  "inputs": [
+    {
+      "id": "version",
+      "type": "pickString",
+      "description": "Select the Minecraft version:",
+      "options": [
+        "1.21",
+        "1.18.10",
+        "1.16.40"
+      ],
+      "default": "1.21"
+    },
+    {
+      "id": "target",
+      "type": "pickString",
+      "description": "Select Deployment Target:",
+      "options": [
+        "Release",
+        "Preview"
+      ],
+      "default": "Release"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "files.eol": "\n",
+  "files.associations": {
+    "*.json": "jsonc"
+  },
+  "workbench.editorAssociations": {
+    "*.png": "luna.editor",
+    "*.jpg": "luna.editor",
+    "*.jpeg": "luna.editor",
+    "*.gif": "luna.editor",
+    "*.bmp": "luna.editor",
+    "*.webp": "luna.editor",
+    "*.svg": "luna.editor"
+  },
+  "[jsonc]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  }
+}
