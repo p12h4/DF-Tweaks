@@ -1,14 +1,7 @@
 {
   "format_version": [1, 16, 0],
-  "bubble_column": {
-    "carried_textures" : "bubble_column"
-  },
-  "petrified_oak_slab": {
-    "textures": "petrified_oak_slab"
-  },
-  "candle_cake": {
-    "carried_textures": "candle_cake_carried"
-  },
+  // Candle Cakes
+  ////////////////////////////////////////////
   "black_candle_cake": {
     "carried_textures": "black_candle_cake_carried"
   },
@@ -57,6 +50,13 @@
   "white_candle_cake": {
     "carried_textures": "white_candle_cake_carried"
   },
+  ////////////////////////////////////////////
+  "bubble_column": {
+    "carried_textures": "bubble_column"
+  },
+  "candle_cake": {
+    "carried_textures": "candle_cake_carried"
+  },
   "chemical_heat": {
     "textures": "chemical_heat"
   },
@@ -80,24 +80,6 @@
   "colored_torch_rg": {
     "sound": "wood",
     "textures": "colored_torch"
-  },
-  "deprecated_anvil": {
-    "sound": "anvil",
-    "textures": {
-      "up": "deprecated_anvil_top",
-      "down": "deprecated_anvil_base",
-      "side": "deprecated_anvil_base"
-    }
-  },
-  "deprecated_purpur_block_1": {
-    "textures": {
-      "up": "deprecated_purpur_block_1_top",
-      "down": "deprecated_purpur_block_1_top",
-      "side": "deprecated_purpur_block_1_side"
-    }
-  },
-  "deprecated_purpur_block_2": {
-    "textures": "deprecated_purpur_block_2"
   },
   "element_0": {
     "textures": "element_label_0"
@@ -468,22 +450,6 @@
     "sound": "glass",
     "textures": "hard_glass"
   },
-  "mysterious_frame": {
-    "sound": "netherite",
-    "textures": {
-      "down": "mysterious_frame_bottom",
-      "side": "mysterious_frame_side",
-      "up": "mysterious_frame_top"
-    }
-  },
-  "mysterious_frame_slot": {
-    "sound": "netherite",
-    "textures": {
-      "down": "mysterious_frame_bottom",
-      "side": "mysterious_frame_side",
-      "up": "mysterious_frame_top"
-    }
-  },
   "hard_glass_pane": {
     "sound": "glass",
     "textures": {
@@ -511,7 +477,6 @@
     }
   },
   "infested_deepslate": {
-    "sound": "deepslate",
     "carried_textures": {
       "down": "infested_deepslate_top",
       "side": "infested_deepslate",
@@ -520,7 +485,8 @@
     "isotropic": {
       "down": true,
       "up": true
-    }
+    },
+    "sound": "deepslate"
   },
   "info_update": {
     "sound": "gravel",
@@ -541,9 +507,12 @@
     "textures": "moving_block"
   },
   "nether_sprouts": {
-    "sound": "nether_sprouts",
     "carried_textures": "nether_sprouts_carried",
+    "sound": "nether_sprouts",
     "textures": "nether_sprouts"
+  },
+  "petrified_oak_slab": {
+    "textures": "petrified_oak_slab"
   },
   "reserved6": {
     "textures": {
@@ -573,5 +542,24 @@
   },
   "unknown": {
     "textures": "unknown"
+  },
+  // 1.18.10
+  ////////////////////////////////////////////
+  "mysterious_frame": {
+    "sound": "netherite",
+    "textures": {
+      "down": "mysterious_frame_bottom",
+      "side": "mysterious_frame_side",
+      "up": "mysterious_frame_top"
+    }
+  },
+  "mysterious_frame_slot": {
+    "sound": "netherite",
+    "textures": {
+      "down": "mysterious_frame_bottom",
+      "side": "mysterious_frame_side",
+      "up": "mysterious_frame_top"
+    }
   }
+  ////////////////////////////////////////////
 }

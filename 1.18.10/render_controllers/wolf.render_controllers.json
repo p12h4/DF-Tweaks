@@ -8,7 +8,7 @@
           "*": "Material.default"
         }
       ],
-      "textures": ["query.is_angry ? Texture.angry : (query.has_owner && query.is_tamed ? Texture.tame : Texture.default)"]
+      "textures": ["q.is_angry ? Texture.angry : (q.has_owner && q.is_tamed ? Texture.tame : Texture.default)"]
     }
   }
 }

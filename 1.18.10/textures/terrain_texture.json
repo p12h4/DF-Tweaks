@@ -4,48 +4,6 @@
   "num_mip_levels": 4,
   "padding": 8,
   "texture_data": {
-    "bubble_column": {
-      "textures": ["textures/blocks/bubble_column_outer_a", "textures/blocks/bubble_column_outer_b"]
-    },
-    "petrified_oak_slab": {
-      "textures": "textures/blocks/petrified_oak_slab"
-    },
-    "stone_slab_top": {
-      "textures": [
-        "textures/blocks/stone_slab_top",
-        "textures/blocks/sandstone_top",
-        "textures/blocks/petrified_oak_slab",
-        "textures/blocks/cobblestone",
-        "textures/blocks/brick",
-        "textures/blocks/stonebrick",
-        "textures/blocks/quartz_block_top",
-        "textures/blocks/nether_brick"
-      ]
-    },
-    "stone_slab_bottom": {
-      "textures": [
-        "textures/blocks/stone_slab_top",
-        "textures/blocks/sandstone_bottom",
-        "textures/blocks/petrified_oak_slab",
-        "textures/blocks/cobblestone",
-        "textures/blocks/brick",
-        "textures/blocks/stonebrick",
-        "textures/blocks/quartz_block_bottom",
-        "textures/blocks/nether_brick"
-      ]
-    },
-    "stone_slab_side": {
-      "textures": [
-        "textures/blocks/stone_slab_side",
-        "textures/blocks/sandstone_normal",
-        "textures/blocks/petrified_oak_slab",
-        "textures/blocks/cobblestone",
-        "textures/blocks/brick",
-        "textures/blocks/stonebrick",
-        "textures/blocks/quartz_block_side",
-        "textures/blocks/nether_brick"
-      ]
-    },
     "anvil_top_damaged_x": {
       "textures": [
         "textures/blocks/anvil_top_damaged_0",
@@ -54,9 +12,8 @@
         "textures/blocks/anvil_top_damaged_3"
       ]
     },
-    "candle_cake_carried": {
-      "textures": "textures/blocks/carried/candle_cake/candle_cake"
-    },
+    // Candle Cakes
+    ////////////////////////////////////////////
     "black_candle_cake_carried": {
       "textures": "textures/blocks/carried/candle_cake/black_candle_cake"
     },
@@ -104,6 +61,13 @@
     },
     "white_candle_cake_carried": {
       "textures": "textures/blocks/carried/candle_cake/white_candle_cake"
+    },
+    ////////////////////////////////////////////
+    "bubble_column": {
+      "textures": ["textures/blocks/bubble_column_outer_a", "textures/blocks/bubble_column_outer_b"]
+    },
+    "candle_cake_carried": {
+      "textures": "textures/blocks/carried/candle_cake/candle_cake"
     },
     "chemical_heat": {
       "textures": "textures/blocks/chemical_heat"
@@ -166,21 +130,6 @@
         "textures/blocks/torch_blue",
         "textures/blocks/torch_purple"
       ]
-    },
-    "deprecated_anvil_base": {
-      "textures": "textures/blocks/anvil_base"
-    },
-    "deprecated_anvil_top": {
-      "textures": "textures/blocks/anvil_top_damaged_3"
-    },
-    "deprecated_purpur_block_1_side": {
-      "textures": "textures/blocks/purpur_chiseled"
-    },
-    "deprecated_purpur_block_1_top": {
-      "textures": "textures/blocks/purpur_smooth"
-    },
-    "deprecated_purpur_block_2": {
-      "textures": "textures/blocks/purpur_smooth"
     },
     "element_label_0": {
       "textures": "textures/blocks/elements/element_000_unknown"
@@ -539,18 +488,19 @@
     "element_label_118": {
       "textures": "textures/blocks/elements/element_118_og"
     },
+    "empty": {
+      "textures": "textures/misc/empty"
+    },
     "glow_stick": {
       "textures": [
-        "textures/blocks/glow_stick_red",
-        // black
+        "textures/blocks/glow_stick_red", // black
         "textures/blocks/glow_stick_red",
         "textures/blocks/glow_stick_green",
         "textures/blocks/glow_stick_brown",
         "textures/blocks/glow_stick_blue",
         "textures/blocks/glow_stick_purple",
         "textures/blocks/glow_stick_cyan",
-        "textures/blocks/glow_stick_red",
-        // silver/light gray
+        "textures/blocks/glow_stick_red", // light gray
         "textures/blocks/glow_stick_gray",
         "textures/blocks/glow_stick_pink",
         "textures/blocks/glow_stick_lime",
@@ -606,23 +556,11 @@
     "info_update2": {
       "textures": "textures/blocks/info_update2"
     },
-    "empty": {
-      "textures": "textures/misc/empty"
-    },
     "invisible_bedrock": {
       "textures": "textures/blocks/invisible_bedrock"
     },
     "moving_block": {
       "textures": "textures/blocks/moving_block"
-    },
-    "mysterious_frame_bottom": {
-      "textures": "textures/blocks/mysterious_frame_bottom"
-    },
-    "mysterious_frame_side": {
-      "textures": "textures/blocks/mysterious_frame_side"
-    },
-    "mysterious_frame_top": {
-      "textures": "textures/blocks/mysterious_frame_top"
     },
     "nether_sprouts_carried": {
       "textures": "textures/blocks/carried/nether_sprouts_tile"
@@ -644,6 +582,9 @@
     },
     "observer_west": {
       "textures": ["textures/blocks/observer_side", "textures/blocks/observer_side_lit"]
+    },
+    "petrified_oak_slab": {
+      "textures": "textures/blocks/petrified_oak_slab"
     },
     "purpur_block_bottom": {
       "textures": [
@@ -674,6 +615,42 @@
     },
     "reserved6_top_bottom": {
       "textures": "textures/blocks/reserved6_top_bottom"
+    },
+    "stone_slab_bottom": {
+      "textures": [
+        "textures/blocks/stone_slab_top",
+        "textures/blocks/sandstone_bottom",
+        "textures/blocks/petrified_oak_slab",
+        "textures/blocks/cobblestone",
+        "textures/blocks/brick",
+        "textures/blocks/stonebrick",
+        "textures/blocks/quartz_block_bottom",
+        "textures/blocks/nether_brick"
+      ]
+    },
+    "stone_slab_side": {
+      "textures": [
+        "textures/blocks/stone_slab_side",
+        "textures/blocks/sandstone_normal",
+        "textures/blocks/petrified_oak_slab",
+        "textures/blocks/cobblestone",
+        "textures/blocks/brick",
+        "textures/blocks/stonebrick",
+        "textures/blocks/quartz_block_side",
+        "textures/blocks/nether_brick"
+      ]
+    },
+    "stone_slab_top": {
+      "textures": [
+        "textures/blocks/stone_slab_top",
+        "textures/blocks/sandstone_top",
+        "textures/blocks/petrified_oak_slab",
+        "textures/blocks/cobblestone",
+        "textures/blocks/brick",
+        "textures/blocks/stonebrick",
+        "textures/blocks/quartz_block_top",
+        "textures/blocks/nether_brick"
+      ]
     },
     "stonebrick": {
       "textures": [
@@ -712,6 +689,18 @@
     },
     "unknown": {
       "textures": "textures/blocks/unknown"
+    },
+    // 1.18.10
+    ////////////////////////////////////////////
+    "mysterious_frame_bottom": {
+      "textures": "textures/blocks/mysterious_frame_bottom"
+    },
+    "mysterious_frame_side": {
+      "textures": "textures/blocks/mysterious_frame_side"
+    },
+    "mysterious_frame_top": {
+      "textures": "textures/blocks/mysterious_frame_top"
     }
+    ////////////////////////////////////////////
   }
 }
