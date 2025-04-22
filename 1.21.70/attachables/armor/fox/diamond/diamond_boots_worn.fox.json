@@ -1,0 +1,26 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "dftweaks:diamond_boots_worn.fox",
+      "item": {
+        "minecraft:diamond_boots": "q.is_owner_identifier_any('minecraft:fox') == 1.0"
+      },
+      "materials": {
+        "default": "armor",
+        "enchanted": "armor_enchanted"
+      },
+      "textures": {
+        "default": "textures/models/armor/diamond_1",
+        "enchanted": "textures/misc/enchanted_item_glint"
+      },
+      "geometry": {
+        "default": "geometry.boots_fox"
+      },
+      "scripts": {
+        "parent_setup": "v.boot_layer_visible = 0.0;"
+      },
+      "render_controllers": ["controller.render.fox_armor"]
+    }
+  }
+}

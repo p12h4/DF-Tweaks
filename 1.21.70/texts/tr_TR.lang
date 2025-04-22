@@ -1,0 +1,373 @@
+### Items
+## Regular Items
+item.copper_horn.name=Bakır Boynuz 
+item.spawn_egg.name=Doğma
+
+
+## Education Edition Items
+item.glow_stick.black.name=Siyah Parıltılı Çubuk 
+
+
+
+
+
+### Tiles
+## Doors
+tile.wooden_door.name=Meşe Kapı
+tile.spruce_door.name=Ladin Kapı
+tile.birch_door.name=Huş Kapısı
+tile.jungle_door.name=Orman Kapısı
+tile.acacia_door.name=Akasya Kapı
+tile.dark_oak_door.name=Koyu Meşe Kapı
+tile.mangrove_door.name=Mangrov Kapısı
+
+
+## Signs
+tile.wall_sign.name=Meşe Duvar Tabelası
+tile.spruce_wall_sign.name=Ladin Duvar Tabelası
+tile.birch_wall_sign.name=Huş Ağacı Duvar Tabelası
+tile.jungle_wall_sign.name=Orman Duvar Tabelası
+tile.acacia_wall_sign.name=Akasya Duvar Tabelası
+tile.darkoak_wall_sign.name=Koyu Meşe Duvar Tabelası
+tile.mangrove_standing_sign.name=Mangrov işareti
+tile.mangrove_wall_sign.name=Mangrov Duvar Tabelası
+tile.bamboo_standing_sign.name=Bambu Burcu
+tile.bamboo_wall_sign.name=Bambu Duvar Tabelası
+tile.cherry_standing_sign.name=Kiraz Burcu
+tile.cherry_wall_sign.name=Kiraz Duvar Tabelası
+tile.crimson_wall_sign.name=Kızıl Duvar Tabelası
+tile.warped_wall_sign.name=Çarpık Duvar Tabelası
+
+
+## Double Slabs
+tile.double_wooden_slab.oak.name=Meşe Çift Döşeme
+tile.double_wooden_slab.spruce.name=Ladin Çift Plaka
+tile.double_wooden_slab.birch.name=Huş Çift Döşeme
+tile.double_wooden_slab.jungle.name=Orman Çift Döşeme
+tile.double_wooden_slab.acacia.name=Akasya Çift Döşeme
+tile.double_wooden_slab.big_oak.name=Koyu Meşe Çift Döşeme
+tile.mangrove_double_slab.name=Mangrov Çift Döşeme
+tile.bamboo_double_slab.name=Bambu Çift Döşeme
+tile.bamboo_mosaic_double_slab.name=Mozaik Bambu Çift Döşeme
+tile.crimson_double_slab.name=Kızıl Çift Döşeme
+tile.warped_double_slab.name=Çarpık Çift Döşeme
+tile.double_stone_slab.wood.name=Taşlaşmış Meşe Çift Döşeme
+tile.double_stone_slab2.mossy_cobblestone.name=Yosunlu Arnavut Kaldırımı Çift Döşeme
+tile.double_stone_slab4.stone.name=Taş Çift Döşeme
+tile.double_stone_slab3.andesite.name=Andezit Çift Döşeme
+tile.double_stone_slab3.andesite.smooth.name=Pürüzsüz Andezit Çift Döşeme
+tile.double_stone_slab3.diorite.name=Diyorit Çift Döşeme
+tile.double_stone_slab3.diorite.smooth.name=Pürüzsüz Diyorit Çift Döşeme
+tile.double_stone_slab3.granite.name=Granit Çift Döşeme
+tile.double_stone_slab3.granite.smooth.name=Pürüzsüz Granit Çift Döşeme
+tile.double_stone_slab4.mossy_stone_brick.name=Yosunlu Taş Tuğla Çift Döşeme
+tile.double_stone_slab4.cut_sandstone.name=Kesilmiş Kumtaşı Çift Döşeme
+tile.double_stone_slab2.sandstone.smooth.name=Pürüzsüz Kumtaşı Çift Döşeme
+tile.double_stone_slab4.cut_red_sandstone.name=Kırmızı Kumtaşı Çift Döşeme Kes
+tile.double_stone_slab3.red_sandstone.smooth.name=Pürüzsüz Kırmızı Kumtaşı Çift Döşeme
+tile.mud_brick_double_slab.name=Çamur Tuğla Çift Döşeme
+tile.polished_tuff_double_slab.name=Cilalı Tüf Çift Döşeme
+tile.tuff_brick_double_slab.name=Tüf Tuğla Çift Döşeme
+tile.tuff_double_slab.name=Tüf Çift Döşeme
+tile.double_cut_copper_slab.name=Bakır Çift Plakayı Kes
+tile.exposed_double_cut_copper_slab.name=Açıkta Kesilmiş Bakır Çift Döşeme
+tile.oxidized_double_cut_copper_slab.name=Oksitlenmiş Bakır Çift Döşeme
+tile.waxed_double_cut_copper_slab.name=Mumlu Kesim Bakır Çift Döşeme
+tile.waxed_exposed_double_cut_copper_slab.name=Mumlu Açık Kesim Bakır Çift Döşeme
+tile.waxed_oxidized_double_cut_copper_slab.name=Mumlu Oksitlenmiş Kesim Bakır Çift Plaka
+tile.waxed_weathered_double_cut_copper_slab.name=Mumlu Yıpranmış Kesim Bakır Çift Döşeme
+tile.weathered_double_cut_copper_slab.name=Yıpranmış Kesim Bakır Çift Döşeme
+tile.double_stone_slab2.prismarine.rough.name=Prizmarin Çift Döşeme
+tile.double_stone_slab2.prismarine.bricks.name=Prismarine Tuğla Çift Döşeme
+tile.double_stone_slab2.prismarine.dark.name=Koyu Prizmarin Çift Döşeme
+tile.double_stone_slab4.smooth_quartz.name=Pürüzsüz Kuvars Çift Döşeme
+tile.blackstone_double_slab.name=Blackstone Çift Döşeme
+tile.polished_blackstone_brick_double_slab.name=Cilalı Blackstone Tuğla Çift Döşeme
+tile.polished_blackstone_double_slab.name=Cilalı Blackstone Çift Döşeme
+tile.double_stone_slab2.red_nether_brick.name=Kırmızı Nether Tuğla Çift Döşeme
+tile.double_stone_slab3.end_brick.name=Uç Tuğla Çift Döşeme
+tile.double_stone_slab2.purpur.name=Purpur Çift Döşeme
+
+
+## Cut Copper Blocks
+tile.cut_copper_block.exposed.name=Görünürde Kesilmiş Bakır Blok 
+tile.cut_copper_block.exposed.waxed.name=Mumlu Görünür Kesim Bakır Blok 
+tile.cut_copper_block.name=Bakır Blok Kesme 
+tile.cut_copper_block.oxidized.name=Oksitlenmiş Bakır Blok 
+tile.cut_copper_block.waxed.name=Mumlu Kesim Bakır Blok 
+tile.cut_copper_block.weathered.name=Yıpranmış Kesme Bakır Blok 
+tile.cut_copper_block.weathered.waxed.name=Mumlu Yıpranmış Kesim Bakır Blok 
+
+
+## Nature
+tile.bamboo_sapling.name=Bambu Fidanı
+tile.bamboo_sapling.oak.name=Meşe Bambu Fidanı
+tile.bamboo_sapling.spruce.name=Ladin Bambu Fidanı
+tile.bamboo_sapling.birch.name=Huş Bambu Fidanı
+tile.bamboo_sapling.jungle.name=Orman Bambu Fidanı
+tile.bamboo_sapling.acacia.name=Akasya Bambu Fidanı
+tile.bamboo_sapling.big_oak.name=Koyu Meşe Bambu Fidanı
+tile.chorus_plant.name=Koro Kökü
+tile.melon_stem.name=kavun sapı
+tile.pitcher_crop.name=Sürahi Pod
+tile.torchflower_crop.name=Meşale Çiçeği
+tile.mangrove_propagule_hanging.name=Asılı Mangrov Propagulü 
+tile.kelp.name=Yosun
+
+
+## Liquids
+tile.flowing_lava.name=Akan Lav
+tile.flowing_water.name=Akan Su
+tile.lava.name=Statik Lav
+tile.water.name=Statik Su
+
+
+## Redstone Blocks
+tile.daylight_detector_inverted.name=Ters Gün Işığı Dedektörü
+tile.lit_redstone_lamp.name=Yanan Redstone Lambası
+tile.lit_redstone_ore.name=Yakılmış Redstone Cevheri
+tile.lit_deepslate_redstone_ore.name=Yakılmış Deepslate Redstone Cevheri
+tile.pistonarmcollision.name=Piston Kolu Çarpışması
+tile.piston_arm_collision.name=Piston Kolu Çarpışması
+tile.stickypistonarmcollision.name=Yapışkan Piston Kolu Çarpışması
+tile.sticky_piston_arm_collision.name=Yapışkan Piston Kolu Çarpışması
+tile.unpowered_repeater.name=Güçsüz Tekrarlayıcı
+tile.unpowered_comparator.name=Güçsüz Karşılaştırıcı
+tile.powered_repeater.name=Elektrikli Tekrarlayıcı
+tile.powered_comparator.name=Güçlendirilmiş Karşılaştırıcı
+
+
+## Light Sources
+tile.lit_furnace.name=Yakma Fırını
+tile.lit_blast_furnace.name=Yakmalı Yüksek Fırın
+tile.lit_smoker.name=Sigara içen
+
+
+## Decorative Blocks
+tile.flower_pot.name=Saksı
+tile.frame.name=Çerçeve
+tile.glow_frame.name=Kızdırma Çerçevesi
+tile.wall_banner.name=Duvar Afiş
+tile.stone_slab.wood.name=Taşlaşmış Meşe Döşeme
+tile.purpur_block.smooth.name=Pürüzsüz Purpur
+tile.deprecated_purpur_block_2.name=Pürüzsüz Purpur
+tile.skull.name=Duvar Kafatası
+
+
+## Functional Blocks
+tile.allow.name=İzin vermek
+tile.border_block.name=Sınır
+tile.bubble_column.name=Kabarcık Sütunu
+tile.deny.name=Reddetmek
+tile.end_gateway.name=Ağ Geçidini Sonlandır
+tile.end_portal.name=Portal Kutucuğu Sonu
+tile.end_portal_frame.name=Son Portal Çerçevesi
+tile.lava_cauldron.name=Lav Kazanı
+tile.powder_snow.name=Toz Kar Bloğu
+
+
+## Miscellaneous Blocks
+tile.client_request_placeholder_block.name=İstemci İsteği Yer Tutucu Bloğu
+tile.glowingobsidian.name=Parlayan Obsidyen
+tile.reserved6.name=6 adet rezerve edildi
+tile.info_update.name=Bloğu Güncelle
+tile.info_update2.name=Blok 2'yi Güncelle
+tile.movingBlock.name=Hareketli Blok
+tile.moving_block.name=Hareketli Blok
+
+
+## Education Edition Blocks
+tile.chemical_heat.name=Kimyasal Isı 
+tile.colored_torch.blue.name=Mavi Meşale 
+tile.colored_torch.green.name=Yeşil Meşale 
+tile.colored_torch.purple.name=Mor Meşale 
+tile.colored_torch.red.name=Kırmızı Meşale 
+tile.compoundcreator.name=Bileşik Oluşturucu 
+tile.element.ac.name=Aktinyum 
+tile.element.ag.name=Gümüş 
+tile.element.al.name=Alüminyum 
+tile.element.am.name=Amerikayum 
+tile.element.ar.name=Argon 
+tile.element.as.name=Arsenik 
+tile.element.at.name=Astatin 
+tile.element.au.name=Altın 
+tile.element.b.name=Bor 
+tile.element.ba.name=Baryum 
+tile.element.be.name=Berilyum 
+tile.element.bh.name=Bohriyum 
+tile.element.bi.name=Bizmut 
+tile.element.bk.name=Berkelyum 
+tile.element.br.name=Brom 
+tile.element.c.name=Karbon 
+tile.element.ca.name=Kalsiyum 
+tile.element.cd.name=Kadmiyum 
+tile.element.ce.name=Seryum 
+tile.element.cf.name=Kaliforniyum 
+tile.element.cl.name=Klor 
+tile.element.cm.name=Curium 
+tile.element.cn.name=Kopernikyum 
+tile.element.co.name=Kobalt 
+tile.element.cr.name=Krom 
+tile.element.cs.name=Sezyum 
+tile.element.cu.name=Bakır 
+tile.element.db.name=Dubniyum 
+tile.element.ds.name=Darmstadtium 
+tile.element.dy.name=Disprosyum 
+tile.element.er.name=Erbiyum 
+tile.element.es.name=Einsteinyum 
+tile.element.eu.name=Evropiyum 
+tile.element.f.name=Flor 
+tile.element.fe.name=Ütü 
+tile.element.fl.name=Flerovyum 
+tile.element.fm.name=Fermiyum 
+tile.element.fr.name=Fransiyum 
+tile.element.ga.name=Galyum 
+tile.element.gd.name=Gadolinyum 
+tile.element.ge.name=Almanya 
+tile.element.h.name=Hidrojen 
+tile.element.he.name=Helyum 
+tile.element.hf.name=Hafniyum 
+tile.element.hg.name=Merkür 
+tile.element.ho.name=Holmiyum 
+tile.element.hs.name=Hassiyum 
+tile.element.i.name=İyot 
+tile.element.in.name=İndiyum 
+tile.element.ir.name=İridyum 
+tile.element.k.name=Potasyum 
+tile.element.kr.name=Kripton 
+tile.element.la.name=Lantan 
+tile.element.li.name=Lityum 
+tile.element.lr.name=Lavrensiyum 
+tile.element.lu.name=Lutesyum 
+tile.element.lv.name=Livermoryum 
+tile.element.mc.name=Moskoviyum 
+tile.element.md.name=Mendelevyum 
+tile.element.mg.name=Magnezyum 
+tile.element.mn.name=Manganez 
+tile.element.mo.name=Molibden 
+tile.element.mt.name=Meitneryum 
+tile.element.n.name=Azot 
+tile.element.na.name=Sodyum 
+tile.element.nb.name=Niyobyum 
+tile.element.nd.name=Neodimyum 
+tile.element.ne.name=Neon 
+tile.element.nh.name=Nihonyum 
+tile.element.ni.name=Nikel 
+tile.element.no.name=Nobelyum 
+tile.element.np.name=Neptünyum 
+tile.element.o.name=Oksijen 
+tile.element.og.name=Oganesson 
+tile.element.os.name=Osmiyum 
+tile.element.p.name=Fosfor 
+tile.element.pa.name=Protaktinyum 
+tile.element.pb.name=Kurşun 
+tile.element.pd.name=Paladyum 
+tile.element.pm.name=Prometyum 
+tile.element.po.name=Polonyum 
+tile.element.pr.name=Praseodimyum 
+tile.element.pt.name=Platin 
+tile.element.pu.name=Plütonyum 
+tile.element.ra.name=Radyum 
+tile.element.rb.name=Rubidyum 
+tile.element.re.name=Renyum 
+tile.element.rf.name=Rutherfordiyum 
+tile.element.rg.name=Röntgenyum 
+tile.element.rh.name=Rodyum 
+tile.element.rn.name=Radon 
+tile.element.ru.name=Rutenyum 
+tile.element.s.name=Kükürt 
+tile.element.sb.name=Antimon 
+tile.element.sc.name=Skandiyum 
+tile.element.se.name=Selenyum 
+tile.element.sg.name=Seaborgiyum 
+tile.element.si.name=Silikon 
+tile.element.sm.name=Samaryum 
+tile.element.sn.name=Kalay 
+tile.element.sr.name=Stronsiyum 
+tile.element.ta.name=Tantal 
+tile.element.tb.name=Terbiyum 
+tile.element.tc.name=Teknesyum 
+tile.element.te.name=Tellür 
+tile.element.th.name=Toryum 
+tile.element.ti.name=Titanyum 
+tile.element.tl.name=Talyum 
+tile.element.tm.name=Tülyum 
+tile.element.ts.name=Tennessine 
+tile.element.u.name=Uranyum 
+tile.element.unknown.name=Bilinmeyen Öğe 
+tile.element.v.name=Vanadyum 
+tile.element.w.name=Volfram 
+tile.element.xe.name=Ksenon 
+tile.element.y.name=İtriyum 
+tile.element.yb.name=İterbiyum 
+tile.element.zn.name=Çinko 
+tile.element.zr.name=Zirkonyum 
+tile.elementconstructor.name=Öğe Oluşturucu 
+tile.hard_glass.name=Sertleştirilmiş Cam 
+tile.hard_glass_pane.name=Sertleştirilmiş Cam Panel 
+tile.hard_stained_glass.black.name=Sertleştirilmiş Siyah Vitray 
+tile.hard_stained_glass.blue.name=Sertleştirilmiş Mavi Vitray 
+tile.hard_stained_glass.brown.name=Sertleştirilmiş Kahverengi Vitray 
+tile.hard_stained_glass.cyan.name=Sertleştirilmiş Camgöbeği Vitray 
+tile.hard_stained_glass.gray.name=Sertleştirilmiş Gri Vitray 
+tile.hard_stained_glass.green.name=Sertleştirilmiş Yeşil Vitray 
+tile.hard_stained_glass.light_blue.name=Sertleştirilmiş Açık Mavi Vitray 
+tile.hard_stained_glass.lime.name=Sertleştirilmiş Kireç Vitray 
+tile.hard_stained_glass.magenta.name=Sertleştirilmiş Macenta Vitray 
+tile.hard_stained_glass.orange.name=Sertleştirilmiş Turuncu Vitray 
+tile.hard_stained_glass.pink.name=Sertleştirilmiş Pembe Vitray 
+tile.hard_stained_glass.purple.name=Sertleştirilmiş Mor Vitray 
+tile.hard_stained_glass.red.name=Sertleştirilmiş Kırmızı Vitray 
+tile.hard_stained_glass.silver.name=Sertleştirilmiş Açık Gri Vitray 
+tile.hard_stained_glass.white.name=Sertleştirilmiş Beyaz Vitray 
+tile.hard_stained_glass.yellow.name=Sertleştirilmiş Sarı Vitray 
+tile.hard_stained_glass_pane.black.name=Sertleştirilmiş Siyah Vitray Panel 
+tile.hard_stained_glass_pane.blue.name=Sertleştirilmiş Mavi Vitray Panel 
+tile.hard_stained_glass_pane.brown.name=Sertleştirilmiş Kahverengi Vitray Panel 
+tile.hard_stained_glass_pane.cyan.name=Sertleştirilmiş Camgöbeği Vitray Paneli 
+tile.hard_stained_glass_pane.gray.name=Sertleştirilmiş Gri Vitray Paneli 
+tile.hard_stained_glass_pane.green.name=Sertleştirilmiş Yeşil Vitray Panel 
+tile.hard_stained_glass_pane.light_blue.name=Sertleştirilmiş Açık Mavi Vitray Panel 
+tile.hard_stained_glass_pane.lime.name=Sertleştirilmiş Kireç Vitray Paneli 
+tile.hard_stained_glass_pane.magenta.name=Sertleştirilmiş Macenta Vitray Paneli 
+tile.hard_stained_glass_pane.orange.name=Sertleştirilmiş Turuncu Vitray Paneli 
+tile.hard_stained_glass_pane.pink.name=Sertleştirilmiş Pembe Vitray Paneli 
+tile.hard_stained_glass_pane.purple.name=Sertleştirilmiş Mor Vitray Panel 
+tile.hard_stained_glass_pane.red.name=Sertleştirilmiş Kırmızı Vitray Paneli 
+tile.hard_stained_glass_pane.silver.name=Sertleştirilmiş Açık Gri Vitray Panel 
+tile.hard_stained_glass_pane.white.name=Sertleştirilmiş Beyaz Vitray Paneli 
+tile.hard_stained_glass_pane.yellow.name=Sertleştirilmiş Sarı Vitray Paneli 
+tile.labtable.name=Laboratuvar Masası 
+tile.materialreducer.name=Malzeme Redüktörü 
+tile.underwater_tnt.name=Sualtı TNT 
+tile.underwater_torch.name=Sualtı Meşalesi 
+
+
+
+
+
+### Miscellaneous
+item..name=Boşluk
+item.banner.base.black=Siyah Banner Tabanı
+item.banner.base.blue=Mavi Bayrak Tabanı
+item.banner.base.brown=Kahverengi Banner Tabanı
+item.banner.base.cyan=Camgöbeği Banner Tabanı
+item.banner.base.gray=Gri Banner Tabanı
+item.banner.base.green=Yeşil Bayrak Tabanı
+item.banner.base.lightBlue=Açık Mavi Banner Tabanı
+item.banner.base.lime=Kireç Banner Tabanı
+item.banner.base.magenta=Macenta Banner Tabanı
+item.banner.base.orange=Turuncu Banner Tabanı
+item.banner.base.pink=Pembe Banner Tabanı
+item.banner.base.purple=Mor Banner Tabanı
+item.banner.base.red=Kızıl Bayrak Tabanı
+item.banner.base.silver=Açık Gri Banner Tabanı
+item.banner.base.white=Beyaz Bayrak Tabanı
+item.banner.base.yellow=Sarı Bayrak Tabanı
+item.minecraft.goat_horn.sound.8=Uçmak (eski)
+item.minecraft.goat_horn.sound.9=Rüya (eski)
+tipped_arrow.effect.empty=İşlenemeyen Uçlu Ok
+tipped_arrow.effect.awkward=Garip Uçlu Ok
+tipped_arrow.effect.mundane.extended=Genişletilmiş Sıradan Uçlu Ok
+tipped_arrow.effect.mundane=Sıradan Uçlu Ok
+tipped_arrow.effect.thick=Kalın Uçlu Ok

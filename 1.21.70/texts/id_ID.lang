@@ -1,0 +1,373 @@
+### Items
+## Regular Items
+item.copper_horn.name=Tanduk Tembaga 
+item.spawn_egg.name=Muncul
+
+
+## Education Edition Items
+item.glow_stick.black.name=Tongkat Cahaya Hitam 
+
+
+
+
+
+### Tiles
+## Doors
+tile.wooden_door.name=Pintu Kayu ek
+tile.spruce_door.name=Pintu Cemara
+tile.birch_door.name=Pintu Birch
+tile.jungle_door.name=Pintu Hutan
+tile.acacia_door.name=Pintu Akasia
+tile.dark_oak_door.name=Pintu Kayu Ek Gelap
+tile.mangrove_door.name=Pintu Mangrove
+
+
+## Signs
+tile.wall_sign.name=Tanda Dinding Ek
+tile.spruce_wall_sign.name=Tanda Dinding Cemara
+tile.birch_wall_sign.name=Tanda Dinding Birch
+tile.jungle_wall_sign.name=Tanda Dinding Hutan
+tile.acacia_wall_sign.name=Tanda Dinding Akasia
+tile.darkoak_wall_sign.name=Tanda Dinding Ek Gelap
+tile.mangrove_standing_sign.name=Tanda Mangrove
+tile.mangrove_wall_sign.name=Tanda Dinding Mangrove
+tile.bamboo_standing_sign.name=Tanda Bambu
+tile.bamboo_wall_sign.name=Tanda Dinding Bambu
+tile.cherry_standing_sign.name=Tanda Ceri
+tile.cherry_wall_sign.name=Tanda Dinding Ceri
+tile.crimson_wall_sign.name=Tanda Dinding Merah
+tile.warped_wall_sign.name=Tanda Dinding Melengkung
+
+
+## Double Slabs
+tile.double_wooden_slab.oak.name=Lempengan Ganda Ek
+tile.double_wooden_slab.spruce.name=Lempengan Ganda Cemara
+tile.double_wooden_slab.birch.name=Lempengan Ganda Birch
+tile.double_wooden_slab.jungle.name=Lempengan Ganda Hutan
+tile.double_wooden_slab.acacia.name=Lempengan Ganda Akasia
+tile.double_wooden_slab.big_oak.name=Lempengan Ganda Ek Gelap
+tile.mangrove_double_slab.name=Lempengan Ganda Mangrove
+tile.bamboo_double_slab.name=Lempengan Ganda Bambu
+tile.bamboo_mosaic_double_slab.name=Lempengan Ganda Bambu Mosaik
+tile.crimson_double_slab.name=Lempengan Ganda Merah
+tile.warped_double_slab.name=Lempengan Ganda Melengkung
+tile.double_stone_slab.wood.name=Lempengan Ganda Kayu Ek yang Membatu
+tile.double_stone_slab2.mossy_cobblestone.name=Lempengan Ganda Batu Bulat Berlumut
+tile.double_stone_slab4.stone.name=Lempengan Batu Ganda
+tile.double_stone_slab3.andesite.name=Lempengan Ganda Andesit
+tile.double_stone_slab3.andesite.smooth.name=Lempengan Ganda Andesit Halus
+tile.double_stone_slab3.diorite.name=Lempengan Ganda Diorit
+tile.double_stone_slab3.diorite.smooth.name=Lempengan Ganda Diorit Halus
+tile.double_stone_slab3.granite.name=Lempengan Ganda Granit
+tile.double_stone_slab3.granite.smooth.name=Lempengan Ganda Granit Halus
+tile.double_stone_slab4.mossy_stone_brick.name=Lempengan Ganda Bata Batu Berlumut
+tile.double_stone_slab4.cut_sandstone.name=Potong Lempengan Ganda Batu Pasir
+tile.double_stone_slab2.sandstone.smooth.name=Lempengan Ganda Batu Pasir Halus
+tile.double_stone_slab4.cut_red_sandstone.name=Potong Lempengan Ganda Batu Pasir Merah
+tile.double_stone_slab3.red_sandstone.smooth.name=Lempengan Ganda Batu Pasir Merah Halus
+tile.mud_brick_double_slab.name=Lempengan Ganda Bata Lumpur
+tile.polished_tuff_double_slab.name=Lempengan Ganda Tuff yang Dipoles
+tile.tuff_brick_double_slab.name=Lempengan Ganda Bata Tuff
+tile.tuff_double_slab.name=Lempengan Ganda Tuff
+tile.double_cut_copper_slab.name=Potong Lempengan Ganda Tembaga
+tile.exposed_double_cut_copper_slab.name=Lempengan Ganda Tembaga Potong Terbuka
+tile.oxidized_double_cut_copper_slab.name=Lempengan Ganda Tembaga Potong Teroksidasi
+tile.waxed_double_cut_copper_slab.name=Lempengan Ganda Tembaga Potong Lilin
+tile.waxed_exposed_double_cut_copper_slab.name=Lempengan Ganda Tembaga Potong Terkena Lilin
+tile.waxed_oxidized_double_cut_copper_slab.name=Lempengan Ganda Tembaga Potong Teroksidasi Lilin
+tile.waxed_weathered_double_cut_copper_slab.name=Lempengan Ganda Tembaga Potong Lapuk Lilin
+tile.weathered_double_cut_copper_slab.name=Lempengan Ganda Tembaga Potong Lapuk
+tile.double_stone_slab2.prismarine.rough.name=Lempengan Ganda Prismarine
+tile.double_stone_slab2.prismarine.bricks.name=Lempengan Ganda Bata Prismarine
+tile.double_stone_slab2.prismarine.dark.name=Lempengan Ganda Prismarine Gelap
+tile.double_stone_slab4.smooth_quartz.name=Lempengan Ganda Kuarsa Halus
+tile.blackstone_double_slab.name=Lempengan Ganda Batu Hitam
+tile.polished_blackstone_brick_double_slab.name=Lempengan Ganda Bata Blackstone yang Dipoles
+tile.polished_blackstone_double_slab.name=Lempengan Ganda Blackstone yang Dipoles
+tile.double_stone_slab2.red_nether_brick.name=Lempengan Ganda Bata Merah Nether
+tile.double_stone_slab3.end_brick.name=Pelat Ganda Bata Akhir
+tile.double_stone_slab2.purpur.name=Lempengan Ganda Purpur
+
+
+## Cut Copper Blocks
+tile.cut_copper_block.exposed.name=Blok Tembaga Potong Terbuka 
+tile.cut_copper_block.exposed.waxed.name=Blok Tembaga Potong Terkena Lilin 
+tile.cut_copper_block.name=Potong Blok Tembaga 
+tile.cut_copper_block.oxidized.name=Blok Tembaga Potong Teroksidasi 
+tile.cut_copper_block.waxed.name=Blok Tembaga Potong Lilin 
+tile.cut_copper_block.weathered.name=Blok Tembaga Potong Lapuk 
+tile.cut_copper_block.weathered.waxed.name=Blok Tembaga Potong Lapuk Lilin 
+
+
+## Nature
+tile.bamboo_sapling.name=Anak Pohon Bambu
+tile.bamboo_sapling.oak.name=Anakan Bambu Ek
+tile.bamboo_sapling.spruce.name=Anakan Bambu Cemara
+tile.bamboo_sapling.birch.name=Anakan Bambu Birch
+tile.bamboo_sapling.jungle.name=Anakan Bambu Hutan
+tile.bamboo_sapling.acacia.name=Anakan Bambu Akasia
+tile.bamboo_sapling.big_oak.name=Anakan Bambu Ek Gelap
+tile.chorus_plant.name=Batang Paduan Suara
+tile.melon_stem.name=Batang Melon
+tile.pitcher_crop.name=Pod Pelempar
+tile.torchflower_crop.name=Bunga obor
+tile.mangrove_propagule_hanging.name=Propagul Mangrove Gantung 
+tile.kelp.name=Kelp
+
+
+## Liquids
+tile.flowing_lava.name=Lava yang mengalir
+tile.flowing_water.name=Air mengalir
+tile.lava.name=Lava Statis
+tile.water.name=Air Statis
+
+
+## Redstone Blocks
+tile.daylight_detector_inverted.name=Detektor Siang Hari Terbalik
+tile.lit_redstone_lamp.name=Lampu Redstone Menyala
+tile.lit_redstone_ore.name=Bijih Redstone Menyala
+tile.lit_deepslate_redstone_ore.name=Menyalakan Bijih Batu Merah Deepslate
+tile.pistonarmcollision.name=Tabrakan Lengan Piston
+tile.piston_arm_collision.name=Tabrakan Lengan Piston
+tile.stickypistonarmcollision.name=Tabrakan Lengan Piston Lengket
+tile.sticky_piston_arm_collision.name=Tabrakan Lengan Piston Lengket
+tile.unpowered_repeater.name=Repeater Tidak Bertenaga
+tile.unpowered_comparator.name=Komparator Tidak Bertenaga
+tile.powered_repeater.name=Pengulang Bertenaga
+tile.powered_comparator.name=Komparator Bertenaga
+
+
+## Light Sources
+tile.lit_furnace.name=Tungku Menyala
+tile.lit_blast_furnace.name=Tungku Ledakan Menyala
+tile.lit_smoker.name=Menyalakan Perokok
+
+
+## Decorative Blocks
+tile.flower_pot.name=Pot bunga
+tile.frame.name=Bingkai
+tile.glow_frame.name=Bingkai Cahaya
+tile.wall_banner.name=Spanduk Dinding
+tile.stone_slab.wood.name=Lempengan Kayu Ek yang Membatu
+tile.purpur_block.smooth.name=Purpur Halus
+tile.deprecated_purpur_block_2.name=Purpur Halus
+tile.skull.name=Tengkorak Dinding
+
+
+## Functional Blocks
+tile.allow.name=Mengizinkan
+tile.border_block.name=Berbatasan
+tile.bubble_column.name=Kolom Gelembung
+tile.deny.name=Membantah
+tile.end_gateway.name=Gerbang Akhir
+tile.end_portal.name=Akhiri Ubin Portal
+tile.end_portal_frame.name=Bingkai Portal Akhir
+tile.lava_cauldron.name=Kuali Lava
+tile.powder_snow.name=Blok Salju Bubuk
+
+
+## Miscellaneous Blocks
+tile.client_request_placeholder_block.name=Blok Placeholder Permintaan Klien
+tile.glowingobsidian.name=Obsidian bersinar
+tile.reserved6.name=Dicadangkan 6
+tile.info_update.name=Perbarui Blok
+tile.info_update2.name=Perbarui Blok 2
+tile.movingBlock.name=Blok Bergerak
+tile.moving_block.name=Blok Bergerak
+
+
+## Education Edition Blocks
+tile.chemical_heat.name=Panas Kimia 
+tile.colored_torch.blue.name=Obor Biru 
+tile.colored_torch.green.name=Obor Hijau 
+tile.colored_torch.purple.name=Obor Ungu 
+tile.colored_torch.red.name=Obor Merah 
+tile.compoundcreator.name=Pencipta Senyawa 
+tile.element.ac.name=Aktinium 
+tile.element.ag.name=Perak 
+tile.element.al.name=Aluminium 
+tile.element.am.name=Amerika 
+tile.element.ar.name=Argon 
+tile.element.as.name=Arsenik 
+tile.element.at.name=Astatin 
+tile.element.au.name=Emas 
+tile.element.b.name=Boron 
+tile.element.ba.name=Barium 
+tile.element.be.name=Berilium 
+tile.element.bh.name=Bohrium 
+tile.element.bi.name=Bismut 
+tile.element.bk.name=Berkelium 
+tile.element.br.name=Brom 
+tile.element.c.name=Karbon 
+tile.element.ca.name=Kalsium 
+tile.element.cd.name=Kadmium 
+tile.element.ce.name=Cerium 
+tile.element.cf.name=California 
+tile.element.cl.name=Klorin 
+tile.element.cm.name=Kurium 
+tile.element.cn.name=Copernicium 
+tile.element.co.name=Kobalt 
+tile.element.cr.name=Kromium 
+tile.element.cs.name=sesium 
+tile.element.cu.name=Tembaga 
+tile.element.db.name=Dubnium 
+tile.element.ds.name=Darmstadtium 
+tile.element.dy.name=Disprosium 
+tile.element.er.name=Erbium 
+tile.element.es.name=Einsteinium 
+tile.element.eu.name=Europium 
+tile.element.f.name=Fluor 
+tile.element.fe.name=Setrika 
+tile.element.fl.name=Flerovium 
+tile.element.fm.name=Fermium 
+tile.element.fr.name=Fransium 
+tile.element.ga.name=Galium 
+tile.element.gd.name=Gadolinium 
+tile.element.ge.name=Germanium 
+tile.element.h.name=Hidrogen 
+tile.element.he.name=Helium 
+tile.element.hf.name=Hafnium 
+tile.element.hg.name=Merkuri 
+tile.element.ho.name=Holmium 
+tile.element.hs.name=Hasium 
+tile.element.i.name=Yodium 
+tile.element.in.name=India 
+tile.element.ir.name=Iridium 
+tile.element.k.name=Kalium 
+tile.element.kr.name=Krypton 
+tile.element.la.name=Lantanum 
+tile.element.li.name=Litium 
+tile.element.lr.name=Lawrensium 
+tile.element.lu.name=Lutetium 
+tile.element.lv.name=Livermorium 
+tile.element.mc.name=Moskow 
+tile.element.md.name=Mendelevium 
+tile.element.mg.name=Magnesium 
+tile.element.mn.name=Mangan 
+tile.element.mo.name=Molibdenum 
+tile.element.mt.name=Meitnerium 
+tile.element.n.name=Nitrogen 
+tile.element.na.name=Natrium 
+tile.element.nb.name=Niobium 
+tile.element.nd.name=Neodimium 
+tile.element.ne.name=Neon 
+tile.element.nh.name=Nihonium 
+tile.element.ni.name=Nikel 
+tile.element.no.name=Nobelium 
+tile.element.np.name=Neptunium 
+tile.element.o.name=Oksigen 
+tile.element.og.name=Oganesson 
+tile.element.os.name=Osmium 
+tile.element.p.name=Fosfor 
+tile.element.pa.name=Protaktinium 
+tile.element.pb.name=Pimpin 
+tile.element.pd.name=Paladium 
+tile.element.pm.name=Prometium 
+tile.element.po.name=Polonium 
+tile.element.pr.name=Praseodymium 
+tile.element.pt.name=Platina 
+tile.element.pu.name=Plutonium 
+tile.element.ra.name=Radium 
+tile.element.rb.name=Rubidium 
+tile.element.re.name=Renium 
+tile.element.rf.name=Rutherfordium 
+tile.element.rg.name=Roentgenium 
+tile.element.rh.name=Rhodium 
+tile.element.rn.name=Radon 
+tile.element.ru.name=Rutenium 
+tile.element.s.name=Belerang 
+tile.element.sb.name=Antimon 
+tile.element.sc.name=Skandium 
+tile.element.se.name=Selenium 
+tile.element.sg.name=Seaborgium 
+tile.element.si.name=Silikon 
+tile.element.sm.name=Samarium 
+tile.element.sn.name=Timah 
+tile.element.sr.name=Strontium 
+tile.element.ta.name=Tantalum 
+tile.element.tb.name=Terbium 
+tile.element.tc.name=Teknesium 
+tile.element.te.name=Telurium 
+tile.element.th.name=Torium 
+tile.element.ti.name=Titanium 
+tile.element.tl.name=Talium 
+tile.element.tm.name=Thulium 
+tile.element.ts.name=Tennessin 
+tile.element.u.name=Uranium 
+tile.element.unknown.name=Elemen Tak Dikenal 
+tile.element.v.name=Vanadium 
+tile.element.w.name=Tungsten 
+tile.element.xe.name=Xenon 
+tile.element.y.name=Itrium 
+tile.element.yb.name=Ytterbium 
+tile.element.zn.name=Seng 
+tile.element.zr.name=Zirkonium 
+tile.elementconstructor.name=Pembuat Elemen 
+tile.hard_glass.name=Kaca yang Dikeraskan 
+tile.hard_glass_pane.name=Panel Kaca Keras 
+tile.hard_stained_glass.black.name=Kaca Patri Hitam yang Dikeraskan 
+tile.hard_stained_glass.blue.name=Kaca Patri Biru yang Dikeraskan 
+tile.hard_stained_glass.brown.name=Kaca Patri Coklat Keras 
+tile.hard_stained_glass.cyan.name=Kaca Patri Cyan yang Dikeraskan 
+tile.hard_stained_glass.gray.name=Kaca Patri Abu-Abu yang Dikeraskan 
+tile.hard_stained_glass.green.name=Kaca Patri Hijau yang Dikeraskan 
+tile.hard_stained_glass.light_blue.name=Kaca Patri Biru Muda yang Dikeraskan 
+tile.hard_stained_glass.lime.name=Kaca Patri Kapur yang Dikeraskan 
+tile.hard_stained_glass.magenta.name=Kaca Patri Magenta yang Dikeraskan 
+tile.hard_stained_glass.orange.name=Kaca Patri Oranye yang Dikeraskan 
+tile.hard_stained_glass.pink.name=Kaca Patri Merah Muda yang Dikeraskan 
+tile.hard_stained_glass.purple.name=Kaca Patri Ungu yang Dikeraskan 
+tile.hard_stained_glass.red.name=Kaca Patri Merah yang Dikeraskan 
+tile.hard_stained_glass.silver.name=Kaca Patri Abu-Abu Muda yang Dikeraskan 
+tile.hard_stained_glass.white.name=Kaca Patri Putih yang Dikeraskan 
+tile.hard_stained_glass.yellow.name=Kaca Patri Kuning yang Dikeraskan 
+tile.hard_stained_glass_pane.black.name=Panel Kaca Patri Hitam yang Dikeraskan 
+tile.hard_stained_glass_pane.blue.name=Panel Kaca Patri Biru yang Dikeraskan 
+tile.hard_stained_glass_pane.brown.name=Panel Kaca Patri Coklat Keras 
+tile.hard_stained_glass_pane.cyan.name=Panel Kaca Patri Cyan yang Dikeraskan 
+tile.hard_stained_glass_pane.gray.name=Panel Kaca Patri Abu-abu Mengeras 
+tile.hard_stained_glass_pane.green.name=Panel Kaca Patri Hijau yang Dikeraskan 
+tile.hard_stained_glass_pane.light_blue.name=Panel Kaca Patri Biru Muda yang Dikeraskan 
+tile.hard_stained_glass_pane.lime.name=Panel Kaca Patri Kapur Keras 
+tile.hard_stained_glass_pane.magenta.name=Panel Kaca Patri Magenta yang Dikeraskan 
+tile.hard_stained_glass_pane.orange.name=Panel Kaca Patri Oranye yang Dikeraskan 
+tile.hard_stained_glass_pane.pink.name=Panel Kaca Patri Merah Muda Mengeras 
+tile.hard_stained_glass_pane.purple.name=Panel Kaca Patri Ungu Mengeras 
+tile.hard_stained_glass_pane.red.name=Panel Kaca Patri Merah yang Dikeraskan 
+tile.hard_stained_glass_pane.silver.name=Panel Kaca Patri Abu-abu Muda yang Dikeraskan 
+tile.hard_stained_glass_pane.white.name=Panel Kaca Patri Putih Mengeras 
+tile.hard_stained_glass_pane.yellow.name=Panel Kaca Patri Kuning Mengeras 
+tile.labtable.name=Meja Lab 
+tile.materialreducer.name=Peredam Bahan 
+tile.underwater_tnt.name=TNT Bawah Air 
+tile.underwater_torch.name=Obor Bawah Air 
+
+
+
+
+
+### Miscellaneous
+item..name=Kosong
+item.banner.base.black=Pangkalan Spanduk Hitam
+item.banner.base.blue=Pangkalan Spanduk Biru
+item.banner.base.brown=Basis Spanduk Coklat
+item.banner.base.cyan=Pangkalan Spanduk Cyan
+item.banner.base.gray=Basis Spanduk Abu-abu
+item.banner.base.green=Pangkalan Spanduk Hijau
+item.banner.base.lightBlue=Basis Spanduk Biru Muda
+item.banner.base.lime=Pangkalan Spanduk Kapur
+item.banner.base.magenta=Pangkalan Spanduk Magenta
+item.banner.base.orange=Pangkalan Spanduk Oranye
+item.banner.base.pink=Basis Spanduk Merah Muda
+item.banner.base.purple=Basis Spanduk Ungu
+item.banner.base.red=Pangkalan Spanduk Merah
+item.banner.base.silver=Basis Spanduk Abu-abu Muda
+item.banner.base.white=Pangkalan Spanduk Putih
+item.banner.base.yellow=Pangkalan Spanduk Kuning
+item.minecraft.goat_horn.sound.8=Terbang (lama)
+item.minecraft.goat_horn.sound.9=Mimpi (lama)
+tipped_arrow.effect.empty=Panah Berujung yang Tidak Dapat Dibuat
+tipped_arrow.effect.awkward=Panah Berujung Canggung
+tipped_arrow.effect.mundane.extended=Panah Berujung Duniawi yang Diperluas
+tipped_arrow.effect.mundane=Panah Berujung Biasa
+tipped_arrow.effect.thick=Panah Berujung Tebal

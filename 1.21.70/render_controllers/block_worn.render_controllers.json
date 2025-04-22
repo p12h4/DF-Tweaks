@@ -1,0 +1,39 @@
+{
+  "format_version": "1.10.0",
+  "render_controllers": {
+    "controller.render.block_worn.disabled": {
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "v.is_enchanted ? Material.enchanted : Material.default"
+        }
+      ],
+      "textures": [
+        "Texture.default",
+        "Texture.enchanted"
+      ],
+      "part_visibility": [
+        {
+          "*head*": false
+        }
+      ]
+    },
+    "controller.render.block_worn.enabled": {
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "v.is_enchanted ? Material.enchanted : Material.default"
+        }
+      ],
+      "textures": [
+        "Texture.default",
+        "Texture.enchanted"
+      ],
+      "part_visibility": [
+        {
+          "*head*": true
+        }
+      ]
+    }
+  }
+}

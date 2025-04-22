@@ -1,0 +1,37 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:cod",
+      "materials": {
+        "default": "cod"
+      },
+      "textures": {
+        "default": "textures/entity/fish/cod",
+        "skeleton": "textures/entity/fish/cod_skeleton"
+      },
+      "geometry": {
+        "default": "geometry.cod"
+      },
+      "scripts": {
+        "pre_animation": [
+          "v.ZRot = !q.is_in_water ? Math.cos((q.time_stamp + q.frame_alpha) * 14.32) * 90 : 0.0;",
+          "v.AnimationAmountBlend = Math.lerp(v.AnimationAmountPrev, v.AnimationAmount, q.frame_alpha);"
+        ]
+      },
+      "animations": {
+        "flop": "animation.cod.flop",
+        "swim": "animation.cod.swim"
+      },
+      "animation_controllers": [
+        {
+          "general": "controller.animation.fish.general"
+        }
+      ],
+      "render_controllers": ["controller.render.cod"],
+      "spawn_egg": {
+        "texture": "spawn_egg_cod"
+      }
+    }
+  }
+}

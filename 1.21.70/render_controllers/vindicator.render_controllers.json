@@ -1,0 +1,33 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.vindicator": {
+      "arrays": {
+        "textures": {
+          "Array.variants": ["Texture.default", "Texture.captain"]
+        }
+      },
+      "geometry": "Geometry.default",
+      "part_visibility": [
+        {
+          "rightArm": "q.is_angry || q.is_celebrating"
+        },
+        {
+          "leftArm": "q.is_angry || q.is_celebrating"
+        },
+        {
+          "rightItem": "q.is_angry"
+        },
+        {
+          "arms": "!(q.is_angry || q.is_celebrating)"
+        }
+      ],
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": ["Array.variants[q.is_illager_captain ? 1 : 0 ]"]
+    }
+  }
+}

@@ -1,0 +1,373 @@
+### Items
+## Regular Items
+item.copper_horn.name=Kobberhorn 
+item.spawn_egg.name=Spawn
+
+
+## Education Edition Items
+item.glow_stick.black.name=Black Glow Stick 
+
+
+
+
+
+### Tiles
+## Doors
+tile.wooden_door.name=Eik dør
+tile.spruce_door.name=Dør av gran
+tile.birch_door.name=Bjørkedør
+tile.jungle_door.name=Jungeldør
+tile.acacia_door.name=Akasiedør
+tile.dark_oak_door.name=Mørk eik dør
+tile.mangrove_door.name=Mangrove dør
+
+
+## Signs
+tile.wall_sign.name=Eik veggskilt
+tile.spruce_wall_sign.name=Veggskilt av gran
+tile.birch_wall_sign.name=Bjørkeveggskilt
+tile.jungle_wall_sign.name=Jungelveggskilt
+tile.acacia_wall_sign.name=Akasieveggskilt
+tile.darkoak_wall_sign.name=Mørk eik veggskilt
+tile.mangrove_standing_sign.name=Mangrove-skilt
+tile.mangrove_wall_sign.name=Mangrove veggskilt
+tile.bamboo_standing_sign.name=Bambusskilt
+tile.bamboo_wall_sign.name=Bambus veggskilt
+tile.cherry_standing_sign.name=Kirsebærskilt
+tile.cherry_wall_sign.name=Kirsebærveggskilt
+tile.crimson_wall_sign.name=Crimson veggskilt
+tile.warped_wall_sign.name=Skeiv veggskilt
+
+
+## Double Slabs
+tile.double_wooden_slab.oak.name=Eik dobbel plate
+tile.double_wooden_slab.spruce.name=Gran Dobbeltplate
+tile.double_wooden_slab.birch.name=Bjørk dobbel plate
+tile.double_wooden_slab.jungle.name=Jungle Double Slab
+tile.double_wooden_slab.acacia.name=Acacia dobbel plate
+tile.double_wooden_slab.big_oak.name=Mørk eik dobbel plate
+tile.mangrove_double_slab.name=Mangrove dobbel plate
+tile.bamboo_double_slab.name=Bambus dobbel plate
+tile.bamboo_mosaic_double_slab.name=Mosaikk bambus dobbel plate
+tile.crimson_double_slab.name=Crimson Double Slab
+tile.warped_double_slab.name=Skeiv dobbel plate
+tile.double_stone_slab.wood.name=Forstenet eik dobbelplate
+tile.double_stone_slab2.mossy_cobblestone.name=Mossete brostein dobbeltplate
+tile.double_stone_slab4.stone.name=Dobbel steinplate
+tile.double_stone_slab3.andesite.name=Andesitt dobbelplate
+tile.double_stone_slab3.andesite.smooth.name=Glatt Andesitt dobbelplate
+tile.double_stone_slab3.diorite.name=Diorite dobbeltplate
+tile.double_stone_slab3.diorite.smooth.name=Glatt Diorite dobbelplate
+tile.double_stone_slab3.granite.name=Granitt dobbel plate
+tile.double_stone_slab3.granite.smooth.name=Glatt granitt dobbel plate
+tile.double_stone_slab4.mossy_stone_brick.name=Mossete stein murstein dobbel plate
+tile.double_stone_slab4.cut_sandstone.name=Kutt sandstein dobbel plate
+tile.double_stone_slab2.sandstone.smooth.name=Glatt sandstein dobbel plate
+tile.double_stone_slab4.cut_red_sandstone.name=Skjær rød sandstein dobbel plate
+tile.double_stone_slab3.red_sandstone.smooth.name=Glatt rød sandstein dobbel plate
+tile.mud_brick_double_slab.name=Mud Brick Double Slab
+tile.polished_tuff_double_slab.name=Polert tuff dobbelplate
+tile.tuff_brick_double_slab.name=Tuff murstein dobbel plate
+tile.tuff_double_slab.name=Tuff dobbel plate
+tile.double_cut_copper_slab.name=Kutt kobber dobbel plate
+tile.exposed_double_cut_copper_slab.name=Eksponert kuttet kobber dobbel plate
+tile.oxidized_double_cut_copper_slab.name=Oksidert kuttet kobber dobbel plate
+tile.waxed_double_cut_copper_slab.name=Dobbelplate av vokskuttet kobber
+tile.waxed_exposed_double_cut_copper_slab.name=Vokset eksponert kuttet kobber dobbel plate
+tile.waxed_oxidized_double_cut_copper_slab.name=Vokset oksidert kuttet kobber dobbel plate
+tile.waxed_weathered_double_cut_copper_slab.name=Voksbehandlet forvitret kuttet kobber dobbelplate
+tile.weathered_double_cut_copper_slab.name=Forvitret kuttet kobber dobbel plate
+tile.double_stone_slab2.prismarine.rough.name=Prismarine Double Slab
+tile.double_stone_slab2.prismarine.bricks.name=Prismarine Brick Double Slab
+tile.double_stone_slab2.prismarine.dark.name=Dark Prismarine Double Slab
+tile.double_stone_slab4.smooth_quartz.name=Glatt kvarts dobbel plate
+tile.blackstone_double_slab.name=Blackstone Double Slab
+tile.polished_blackstone_brick_double_slab.name=Polert svartstein murstein dobbel plate
+tile.polished_blackstone_double_slab.name=Polert Blackstone Double Slab
+tile.double_stone_slab2.red_nether_brick.name=Red Nether Brick Double Slab
+tile.double_stone_slab3.end_brick.name=Ende murstein dobbel plate
+tile.double_stone_slab2.purpur.name=Purpur dobbel plate
+
+
+## Cut Copper Blocks
+tile.cut_copper_block.exposed.name=Eksponert kuttet kobberblokk 
+tile.cut_copper_block.exposed.waxed.name=Voksbehandlet eksponert kuttet kobberblokk 
+tile.cut_copper_block.name=Kutt kobberblokk 
+tile.cut_copper_block.oxidized.name=Oksidert kuttet kobberblokk 
+tile.cut_copper_block.waxed.name=Kobberblokk med voksskåret 
+tile.cut_copper_block.weathered.name=Forvitret kobberblokk 
+tile.cut_copper_block.weathered.waxed.name=Voksbehandlet værskåren kobberblokk 
+
+
+## Nature
+tile.bamboo_sapling.name=Bambusplante
+tile.bamboo_sapling.oak.name=Eik Bambus Sapling
+tile.bamboo_sapling.spruce.name=Sapling av gran bambus
+tile.bamboo_sapling.birch.name=Bjørk bambus ungplante
+tile.bamboo_sapling.jungle.name=Jungle Bamboo Sapling
+tile.bamboo_sapling.acacia.name=Akasiebambusplante
+tile.bamboo_sapling.big_oak.name=Mørk Eik Bambus Sapling
+tile.chorus_plant.name=Korstamme
+tile.melon_stem.name=Melonstilk
+tile.pitcher_crop.name=Pitcher Pod
+tile.torchflower_crop.name=Fakkelblomst
+tile.mangrove_propagule_hanging.name=Hengende mangrovepropagule 
+tile.kelp.name=Tare
+
+
+## Liquids
+tile.flowing_lava.name=Rennende lava
+tile.flowing_water.name=Rennende vann
+tile.lava.name=Statisk lava
+tile.water.name=Statisk vann
+
+
+## Redstone Blocks
+tile.daylight_detector_inverted.name=Invertert dagslysdetektor
+tile.lit_redstone_lamp.name=Tent Redstone-lampe
+tile.lit_redstone_ore.name=Tent Redstone Ore
+tile.lit_deepslate_redstone_ore.name=Tent Deepslate Redstone Ore
+tile.pistonarmcollision.name=Stempelarmkollisjon
+tile.piston_arm_collision.name=Stempelarmkollisjon
+tile.stickypistonarmcollision.name=Klebrig stempelarmkollisjon
+tile.sticky_piston_arm_collision.name=Klebrig stempelarmkollisjon
+tile.unpowered_repeater.name=Repeater uten strøm
+tile.unpowered_comparator.name=Komparator uten strøm
+tile.powered_repeater.name=drevet Repeater
+tile.powered_comparator.name=drevet komparator
+
+
+## Light Sources
+tile.lit_furnace.name=Tent ovn
+tile.lit_blast_furnace.name=Tent masovn
+tile.lit_smoker.name=Tent røyker
+
+
+## Decorative Blocks
+tile.flower_pot.name=Blomsterpotte
+tile.frame.name=Ramme
+tile.glow_frame.name=Glødende ramme
+tile.wall_banner.name=Veggbanner
+tile.stone_slab.wood.name=Forstenet eikeplate
+tile.purpur_block.smooth.name=Glatt purpur
+tile.deprecated_purpur_block_2.name=Glatt purpur
+tile.skull.name=Vegghodeskalle
+
+
+## Functional Blocks
+tile.allow.name=Tillate
+tile.border_block.name=Grense
+tile.bubble_column.name=Boblesøyle
+tile.deny.name=Benekte
+tile.end_gateway.name=Avslutt gateway
+tile.end_portal.name=Sluttportalflis
+tile.end_portal_frame.name=Sluttportalramme
+tile.lava_cauldron.name=Lavagryte
+tile.powder_snow.name=Pulver snøblokk
+
+
+## Miscellaneous Blocks
+tile.client_request_placeholder_block.name=Plassholderblokk for klientforespørsel
+tile.glowingobsidian.name=Glødende Obsidian
+tile.reserved6.name=Reservert 6
+tile.info_update.name=Oppdater blokk
+tile.info_update2.name=Oppdater blokk 2
+tile.movingBlock.name=Flytteblokk
+tile.moving_block.name=Flytteblokk
+
+
+## Education Edition Blocks
+tile.chemical_heat.name=Kjemisk varme 
+tile.colored_torch.blue.name=Blå fakkel 
+tile.colored_torch.green.name=Grønn fakkel 
+tile.colored_torch.purple.name=Purple Torch 
+tile.colored_torch.red.name=Rød fakkel 
+tile.compoundcreator.name=Compound Creator 
+tile.element.ac.name=Aktinium 
+tile.element.ag.name=Sølv 
+tile.element.al.name=Aluminium 
+tile.element.am.name=Americium 
+tile.element.ar.name=Argon 
+tile.element.as.name=Arsenikk 
+tile.element.at.name=Astatin 
+tile.element.au.name=Gull 
+tile.element.b.name=Bor 
+tile.element.ba.name=Barium 
+tile.element.be.name=Beryllium 
+tile.element.bh.name=Bohrium 
+tile.element.bi.name=Vismut 
+tile.element.bk.name=Berkelium 
+tile.element.br.name=Brom 
+tile.element.c.name=Karbon 
+tile.element.ca.name=Kalsium 
+tile.element.cd.name=Kadmium 
+tile.element.ce.name=Cerium 
+tile.element.cf.name=California 
+tile.element.cl.name=Klor 
+tile.element.cm.name=Curium 
+tile.element.cn.name=Copernicium 
+tile.element.co.name=Kobolt 
+tile.element.cr.name=Krom 
+tile.element.cs.name=Cesium 
+tile.element.cu.name=Kobber 
+tile.element.db.name=Dubnium 
+tile.element.ds.name=Darmstadtium 
+tile.element.dy.name=Dysprosium 
+tile.element.er.name=Erbium 
+tile.element.es.name=Einsteinium 
+tile.element.eu.name=Europium 
+tile.element.f.name=Fluor 
+tile.element.fe.name=Jern 
+tile.element.fl.name=Flerovium 
+tile.element.fm.name=Fermium 
+tile.element.fr.name=Francium 
+tile.element.ga.name=Gallium 
+tile.element.gd.name=Gadolinium 
+tile.element.ge.name=Germanium 
+tile.element.h.name=Hydrogen 
+tile.element.he.name=Helium 
+tile.element.hf.name=Hafnium 
+tile.element.hg.name=Kvikksølv 
+tile.element.ho.name=Holmium 
+tile.element.hs.name=Hassium 
+tile.element.i.name=Jod 
+tile.element.in.name=Indium 
+tile.element.ir.name=Iridium 
+tile.element.k.name=Kalium 
+tile.element.kr.name=Krypton 
+tile.element.la.name=Lantan 
+tile.element.li.name=Litium 
+tile.element.lr.name=Lawrencium 
+tile.element.lu.name=Lutetium 
+tile.element.lv.name=Livermorium 
+tile.element.mc.name=Moscovium 
+tile.element.md.name=Mendelevium 
+tile.element.mg.name=Magnesium 
+tile.element.mn.name=Mangan 
+tile.element.mo.name=Molybden 
+tile.element.mt.name=Meitnerium 
+tile.element.n.name=Nitrogen 
+tile.element.na.name=Natrium 
+tile.element.nb.name=Niob 
+tile.element.nd.name=Neodym 
+tile.element.ne.name=Neon 
+tile.element.nh.name=Nihonium 
+tile.element.ni.name=Nikkel 
+tile.element.no.name=Nobelium 
+tile.element.np.name=Neptunium 
+tile.element.o.name=Oksygen 
+tile.element.og.name=Oganesson 
+tile.element.os.name=Osmium 
+tile.element.p.name=Fosfor 
+tile.element.pa.name=Protactinium 
+tile.element.pb.name=Bly 
+tile.element.pd.name=Palladium 
+tile.element.pm.name=Promethium 
+tile.element.po.name=Polonium 
+tile.element.pr.name=Praseodymium 
+tile.element.pt.name=Platina 
+tile.element.pu.name=Plutonium 
+tile.element.ra.name=Radium 
+tile.element.rb.name=Rubidium 
+tile.element.re.name=Rhenium 
+tile.element.rf.name=Rutherfordium 
+tile.element.rg.name=Roentgenium 
+tile.element.rh.name=Rhodium 
+tile.element.rn.name=Radon 
+tile.element.ru.name=Ruthenium 
+tile.element.s.name=Svovel 
+tile.element.sb.name=Antimon 
+tile.element.sc.name=Scandium 
+tile.element.se.name=Selen 
+tile.element.sg.name=Seaborgium 
+tile.element.si.name=Silisium 
+tile.element.sm.name=Samarium 
+tile.element.sn.name=Tinn 
+tile.element.sr.name=Strontium 
+tile.element.ta.name=Tantal 
+tile.element.tb.name=Terbium 
+tile.element.tc.name=Technetium 
+tile.element.te.name=Tellur 
+tile.element.th.name=Thorium 
+tile.element.ti.name=Titan 
+tile.element.tl.name=Tallium 
+tile.element.tm.name=Thulium 
+tile.element.ts.name=Tennessine 
+tile.element.u.name=Uran 
+tile.element.unknown.name=Ukjent element 
+tile.element.v.name=Vanadium 
+tile.element.w.name=Tungsten 
+tile.element.xe.name=Xenon 
+tile.element.y.name=Yttrium 
+tile.element.yb.name=Ytterbium 
+tile.element.zn.name=Sink 
+tile.element.zr.name=Zirkonium 
+tile.elementconstructor.name=Element Constructor 
+tile.hard_glass.name=Herdet glass 
+tile.hard_glass_pane.name=Herdet glassrute 
+tile.hard_stained_glass.black.name=Herdet svart farget glass 
+tile.hard_stained_glass.blue.name=Herdet blåfarget glass 
+tile.hard_stained_glass.brown.name=Herdet brunfarget glass 
+tile.hard_stained_glass.cyan.name=Herdet cyan farget glass 
+tile.hard_stained_glass.gray.name=Herdet gråmalt glass 
+tile.hard_stained_glass.green.name=Herdet grønt farget glass 
+tile.hard_stained_glass.light_blue.name=Herdet lyseblått glassmalerier 
+tile.hard_stained_glass.lime.name=Herdet kalkmalt glass 
+tile.hard_stained_glass.magenta.name=Herdet magenta farget glass 
+tile.hard_stained_glass.orange.name=Herdet oransje farget glass 
+tile.hard_stained_glass.pink.name=Herdet rosa farget glass 
+tile.hard_stained_glass.purple.name=Herdet lilla farget glass 
+tile.hard_stained_glass.red.name=Herdet rødfarget glass 
+tile.hard_stained_glass.silver.name=Herdet lysegrå farget glass 
+tile.hard_stained_glass.white.name=Herdet hvitmalt glass 
+tile.hard_stained_glass.yellow.name=Herdet gulfarget glass 
+tile.hard_stained_glass_pane.black.name=Herdet svart glassmaleri 
+tile.hard_stained_glass_pane.blue.name=Herdet blå farget glassrute 
+tile.hard_stained_glass_pane.brown.name=Herdet brunfarget glassrute 
+tile.hard_stained_glass_pane.cyan.name=Herdet cyan farget glassrute 
+tile.hard_stained_glass_pane.gray.name=Herdet grå farget glassrute 
+tile.hard_stained_glass_pane.green.name=Herdet grønn farget glassrute 
+tile.hard_stained_glass_pane.light_blue.name=Herdet lyseblå farget glassrute 
+tile.hard_stained_glass_pane.lime.name=Herdet kalkfarget glassrute 
+tile.hard_stained_glass_pane.magenta.name=Herdet magenta farget glass 
+tile.hard_stained_glass_pane.orange.name=Herdet oransje farget glassrute 
+tile.hard_stained_glass_pane.pink.name=Herdet rosa farget glassrute 
+tile.hard_stained_glass_pane.purple.name=Herdet lilla farget glassrute 
+tile.hard_stained_glass_pane.red.name=Herdet rød farget glassrute 
+tile.hard_stained_glass_pane.silver.name=Herdet lysegrå farget glassrute 
+tile.hard_stained_glass_pane.white.name=Herdet hvitmalt glassrute 
+tile.hard_stained_glass_pane.yellow.name=Herdet gul farget glassrute 
+tile.labtable.name=Lab-tabell 
+tile.materialreducer.name=Materialreduksjon 
+tile.underwater_tnt.name=Undervanns TNT 
+tile.underwater_torch.name=Undervannsfakkel 
+
+
+
+
+
+### Miscellaneous
+item..name=Blank
+item.banner.base.black=Svart bannerbase
+item.banner.base.blue=Blå bannerbase
+item.banner.base.brown=Brun bannerbase
+item.banner.base.cyan=Cyan bannerbase
+item.banner.base.gray=Grå bannerbase
+item.banner.base.green=Grønn bannerbase
+item.banner.base.lightBlue=Lyseblå bannerbase
+item.banner.base.lime=Lime Banner Base
+item.banner.base.magenta=Magenta bannerbase
+item.banner.base.orange=Oransje bannerbase
+item.banner.base.pink=Rosa bannerbase
+item.banner.base.purple=Lilla bannerbase
+item.banner.base.red=Rød bannerbase
+item.banner.base.silver=Lys grå bannerbase
+item.banner.base.white=Hvit bannerbase
+item.banner.base.yellow=Gul bannerbase
+item.minecraft.goat_horn.sound.8=Fly (gammel)
+item.minecraft.goat_horn.sound.9=Drøm (gammel)
+tipped_arrow.effect.empty=Ulagbar Tipped Arrow
+tipped_arrow.effect.awkward=Pinlig tippet pil
+tipped_arrow.effect.mundane.extended=Extended Mundane Tipped Arrow
+tipped_arrow.effect.mundane=Mundane Tipped Arrow
+tipped_arrow.effect.thick=Tykktippet pil

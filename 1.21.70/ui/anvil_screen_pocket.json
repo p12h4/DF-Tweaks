@@ -1,0 +1,6 @@
+{
+  "namespace": "anvil_pocket",
+  "text_edit_control": {
+    "max_length": 2147483647
+  }
+}

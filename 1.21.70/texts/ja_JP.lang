@@ -1,0 +1,373 @@
+### Items
+## Regular Items
+item.copper_horn.name=コッパーホーン 
+item.spawn_egg.name=スポーン
+
+
+## Education Edition Items
+item.glow_stick.black.name=ブラックグロースティック 
+
+
+
+
+
+### Tiles
+## Doors
+tile.wooden_door.name=オークドア
+tile.spruce_door.name=トウヒのドア
+tile.birch_door.name=白樺のドア
+tile.jungle_door.name=ジャングルドア
+tile.acacia_door.name=アカシアドア
+tile.dark_oak_door.name=ダークオークのドア
+tile.mangrove_door.name=マングローブドア
+
+
+## Signs
+tile.wall_sign.name=オーク材のウォールサイン
+tile.spruce_wall_sign.name=トウヒのウォールサイン
+tile.birch_wall_sign.name=樺のウォールサイン
+tile.jungle_wall_sign.name=ジャングルの壁のサイン
+tile.acacia_wall_sign.name=アカシアのウォールサイン
+tile.darkoak_wall_sign.name=ダークオークのウォールサイン
+tile.mangrove_standing_sign.name=マングローブの標識
+tile.mangrove_wall_sign.name=マングローブのウォールサイン
+tile.bamboo_standing_sign.name=竹の看板
+tile.bamboo_wall_sign.name=竹製ウォールサイン
+tile.cherry_standing_sign.name=チェリーサイン
+tile.cherry_wall_sign.name=チェリーウォールサイン
+tile.crimson_wall_sign.name=深紅のウォールサイン
+tile.warped_wall_sign.name=歪んだ壁の看板
+
+
+## Double Slabs
+tile.double_wooden_slab.oak.name=オーク材ダブルスラブ
+tile.double_wooden_slab.spruce.name=スプルースダブルスラブ
+tile.double_wooden_slab.birch.name=カバノキ二重板
+tile.double_wooden_slab.jungle.name=ジャングルダブルスラブ
+tile.double_wooden_slab.acacia.name=アカシアダブルスラブ
+tile.double_wooden_slab.big_oak.name=ダークオークのダブルスラブ
+tile.mangrove_double_slab.name=マングローブダブルスラブ
+tile.bamboo_double_slab.name=竹二重板
+tile.bamboo_mosaic_double_slab.name=モザイク竹二重板
+tile.crimson_double_slab.name=クリムゾンダブルスラブ
+tile.warped_double_slab.name=歪んだ二重スラブ
+tile.double_stone_slab.wood.name=化石オークのダブルスラブ
+tile.double_stone_slab2.mossy_cobblestone.name=苔むした丸石の二重スラブ
+tile.double_stone_slab4.stone.name=石の二重板
+tile.double_stone_slab3.andesite.name=安山岩二重スラブ
+tile.double_stone_slab3.andesite.smooth.name=滑らかな安山岩の二重スラブ
+tile.double_stone_slab3.diorite.name=閃緑岩ダブルスラブ
+tile.double_stone_slab3.diorite.smooth.name=滑らかな閃緑岩の二重スラブ
+tile.double_stone_slab3.granite.name=花崗岩の二重スラブ
+tile.double_stone_slab3.granite.smooth.name=滑らかな花崗岩の二重スラブ
+tile.double_stone_slab4.mossy_stone_brick.name=苔むした石レンガの二重スラブ
+tile.double_stone_slab4.cut_sandstone.name=カット砂岩二重スラブ
+tile.double_stone_slab2.sandstone.smooth.name=滑らかな砂岩の二重スラブ
+tile.double_stone_slab4.cut_red_sandstone.name=カット赤砂岩二重スラブ
+tile.double_stone_slab3.red_sandstone.smooth.name=滑らかな赤砂岩の二重スラブ
+tile.mud_brick_double_slab.name=日干しレンガ二重スラブ
+tile.polished_tuff_double_slab.name=磨かれた凝灰岩二重スラブ
+tile.tuff_brick_double_slab.name=凝灰岩レンガ二重スラブ
+tile.tuff_double_slab.name=凝灰岩二重スラブ
+tile.double_cut_copper_slab.name=切断銅二重スラブ
+tile.exposed_double_cut_copper_slab.name=露出切断銅二重スラブ
+tile.oxidized_double_cut_copper_slab.name=酸化切断銅二重スラブ
+tile.waxed_double_cut_copper_slab.name=ワックスカット銅二重スラブ
+tile.waxed_exposed_double_cut_copper_slab.name=ワックス露出カット銅二重スラブ
+tile.waxed_oxidized_double_cut_copper_slab.name=ワックス酸化カット銅二重スラブ
+tile.waxed_weathered_double_cut_copper_slab.name=ワックス風化カット銅二重スラブ
+tile.weathered_double_cut_copper_slab.name=風化カット銅二重スラブ
+tile.double_stone_slab2.prismarine.rough.name=プリズマリンダブルスラブ
+tile.double_stone_slab2.prismarine.bricks.name=プリズマリンレンガダブルスラブ
+tile.double_stone_slab2.prismarine.dark.name=ダークプリズマリンのダブルスラブ
+tile.double_stone_slab4.smooth_quartz.name=スムースクォーツダブルスラブ
+tile.blackstone_double_slab.name=ブラックストーンダブルスラブ
+tile.polished_blackstone_brick_double_slab.name=磨かれたブラックストーンレンガの二重スラブ
+tile.polished_blackstone_double_slab.name=ポリッシュブラックストーンダブルスラブ
+tile.double_stone_slab2.red_nether_brick.name=赤いネザーレンガの二重スラブ
+tile.double_stone_slab3.end_brick.name=エンドレンガ二重スラブ
+tile.double_stone_slab2.purpur.name=プルプールダブルスラブ
+
+
+## Cut Copper Blocks
+tile.cut_copper_block.exposed.name=露出切断銅ブロック 
+tile.cut_copper_block.exposed.waxed.name=ワックス露出カット銅ブロック 
+tile.cut_copper_block.name=銅ブロックの切断 
+tile.cut_copper_block.oxidized.name=酸化カット銅ブロック 
+tile.cut_copper_block.waxed.name=ワックスカット銅ブロック 
+tile.cut_copper_block.weathered.name=風化カット銅ブロック 
+tile.cut_copper_block.weathered.waxed.name=ワックス風化カット銅ブロック 
+
+
+## Nature
+tile.bamboo_sapling.name=竹の苗木
+tile.bamboo_sapling.oak.name=オーク竹苗木
+tile.bamboo_sapling.spruce.name=トウヒ竹苗木
+tile.bamboo_sapling.birch.name=白樺の竹の苗木
+tile.bamboo_sapling.jungle.name=ジャングルの竹の苗木
+tile.bamboo_sapling.acacia.name=アカシア竹苗木
+tile.bamboo_sapling.big_oak.name=ダークオークの竹の苗木
+tile.chorus_plant.name=コーラスステム
+tile.melon_stem.name=メロンの茎
+tile.pitcher_crop.name=ピッチャーポッド
+tile.torchflower_crop.name=トーチフラワー
+tile.mangrove_propagule_hanging.name=ぶら下がっているマングローブの繁殖体 
+tile.kelp.name=昆布
+
+
+## Liquids
+tile.flowing_lava.name=流れる溶岩
+tile.flowing_water.name=流れる水
+tile.lava.name=静的溶岩
+tile.water.name=静的な水
+
+
+## Redstone Blocks
+tile.daylight_detector_inverted.name=逆昼光検出器
+tile.lit_redstone_lamp.name=レッドストーンランプの点灯
+tile.lit_redstone_ore.name=点灯したレッドストーン鉱石
+tile.lit_deepslate_redstone_ore.name=点灯したディープスレート レッドストーン鉱石
+tile.pistonarmcollision.name=ピストンアーム衝突
+tile.piston_arm_collision.name=ピストンアーム衝突
+tile.stickypistonarmcollision.name=粘着ピストンアーム衝突
+tile.sticky_piston_arm_collision.name=粘着ピストンアーム衝突
+tile.unpowered_repeater.name=電力が供給されていないリピーター
+tile.unpowered_comparator.name=電力が供給されていないコンパレータ
+tile.powered_repeater.name=パワードリピーター
+tile.powered_comparator.name=パワードコンパレータ
+
+
+## Light Sources
+tile.lit_furnace.name=点火炉
+tile.lit_blast_furnace.name=点火された高炉
+tile.lit_smoker.name=リットスモーカー
+
+
+## Decorative Blocks
+tile.flower_pot.name=植木鉢
+tile.frame.name=フレーム
+tile.glow_frame.name=グローフレーム
+tile.wall_banner.name=ウォールバナー
+tile.stone_slab.wood.name=化石化したオークの板
+tile.purpur_block.smooth.name=スムーズプルプル
+tile.deprecated_purpur_block_2.name=スムーズプルプル
+tile.skull.name=ウォールスカル
+
+
+## Functional Blocks
+tile.allow.name=許可する
+tile.border_block.name=国境
+tile.bubble_column.name=バブルコラム
+tile.deny.name=拒否
+tile.end_gateway.name=エンドゲートウェイ
+tile.end_portal.name=エンドポータルタイル
+tile.end_portal_frame.name=エンドポータルフレーム
+tile.lava_cauldron.name=溶岩の大釜
+tile.powder_snow.name=パウダースノーブロック
+
+
+## Miscellaneous Blocks
+tile.client_request_placeholder_block.name=クライアントリクエストプレースホルダーブロック
+tile.glowingobsidian.name=輝く黒曜石
+tile.reserved6.name=予約済み 6
+tile.info_update.name=アップデートブロック
+tile.info_update2.name=ブロック 2 を更新
+tile.movingBlock.name=移動ブロック
+tile.moving_block.name=移動ブロック
+
+
+## Education Edition Blocks
+tile.chemical_heat.name=化学熱 
+tile.colored_torch.blue.name=ブルートーチ 
+tile.colored_torch.green.name=グリーントーチ 
+tile.colored_torch.purple.name=パープルトーチ 
+tile.colored_torch.red.name=レッドトーチ 
+tile.compoundcreator.name=複合クリエーター 
+tile.element.ac.name=アクチニウム 
+tile.element.ag.name=シルバー 
+tile.element.al.name=アルミニウム
+tile.element.am.name=アメリシウム 
+tile.element.ar.name=アルゴン 
+tile.element.as.name=ヒ素 
+tile.element.at.name=アスタチン 
+tile.element.au.name=ゴールド
+tile.element.b.name=ホウ素 
+tile.element.ba.name=バリウム 
+tile.element.be.name=ベリリウム 
+tile.element.bh.name=ボーリウム 
+tile.element.bi.name=ビスマス 
+tile.element.bk.name=バーケリウム 
+tile.element.br.name=臭素 
+tile.element.c.name=カーボン
+tile.element.ca.name=カルシウム
+tile.element.cd.name=カドミウム
+tile.element.ce.name=セリウム 
+tile.element.cf.name=カリフォルニウム 
+tile.element.cl.name=塩素 
+tile.element.cm.name=キュリウム 
+tile.element.cn.name=コペルニシウム 
+tile.element.co.name=コバルト 
+tile.element.cr.name=クロム 
+tile.element.cs.name=セシウム
+tile.element.cu.name=銅 
+tile.element.db.name=ドブニウム 
+tile.element.ds.name=ダルムシュタディウム 
+tile.element.dy.name=ジスプロシウム 
+tile.element.er.name=エルビウム 
+tile.element.es.name=アインスタイニウム 
+tile.element.eu.name=ユウロピウム 
+tile.element.f.name=フッ素 
+tile.element.fe.name=アイロン 
+tile.element.fl.name=フレロビウム 
+tile.element.fm.name=フェルミウム 
+tile.element.fr.name=フランシウム 
+tile.element.ga.name=ガリウム 
+tile.element.gd.name=ガドリニウム 
+tile.element.ge.name=ゲルマニウム 
+tile.element.h.name=水素 
+tile.element.he.name=ヘリウム 
+tile.element.hf.name=ハフニウム 
+tile.element.hg.name=マーキュリー 
+tile.element.ho.name=ホルミウム 
+tile.element.hs.name=ハシウム 
+tile.element.i.name=ヨウ素
+tile.element.in.name=インジウム
+tile.element.ir.name=イリジウム 
+tile.element.k.name=カリウム 
+tile.element.kr.name=クリプトン星
+tile.element.la.name=ランタン
+tile.element.li.name=リチウム 
+tile.element.lr.name=ローレンシウム 
+tile.element.lu.name=ルテチウム 
+tile.element.lv.name=リバモリウム 
+tile.element.mc.name=モスコビウム 
+tile.element.md.name=メンデレビウム 
+tile.element.mg.name=マグネシウム 
+tile.element.mn.name=マンガン 
+tile.element.mo.name=モリブデン
+tile.element.mt.name=マイトネリウム 
+tile.element.n.name=窒素 
+tile.element.na.name=ナトリウム
+tile.element.nb.name=ニオブ 
+tile.element.nd.name=ネオジム
+tile.element.ne.name=ネオン 
+tile.element.nh.name=ニホニウム 
+tile.element.ni.name=ニッケル 
+tile.element.no.name=ノーベリウム 
+tile.element.np.name=ネプツニウム 
+tile.element.o.name=酸素 
+tile.element.og.name=オガネソン 
+tile.element.os.name=オスミウム 
+tile.element.p.name=リン 
+tile.element.pa.name=プロタクチニウム 
+tile.element.pb.name=リード 
+tile.element.pd.name=パラジウム
+tile.element.pm.name=プロメチウム 
+tile.element.po.name=ポロニウム 
+tile.element.pr.name=プラセオジム 
+tile.element.pt.name=プラチナ 
+tile.element.pu.name=プルトニウム 
+tile.element.ra.name=ラジウム 
+tile.element.rb.name=ルビジウム 
+tile.element.re.name=レニウム 
+tile.element.rf.name=ラザフォージウム 
+tile.element.rg.name=レントゲニウム 
+tile.element.rh.name=ロジウム
+tile.element.rn.name=ラドン 
+tile.element.ru.name=ルテニウム 
+tile.element.s.name=硫黄
+tile.element.sb.name=アンチモン 
+tile.element.sc.name=スカンジウム 
+tile.element.se.name=セレン 
+tile.element.sg.name=シーボーギウム 
+tile.element.si.name=シリコン 
+tile.element.sm.name=サマリウム 
+tile.element.sn.name=錫 
+tile.element.sr.name=ストロンチウム 
+tile.element.ta.name=タンタル 
+tile.element.tb.name=テルビウム 
+tile.element.tc.name=テクネチウム 
+tile.element.te.name=テルル 
+tile.element.th.name=トリウム 
+tile.element.ti.name=チタン 
+tile.element.tl.name=タリウム
+tile.element.tm.name=ツリウム 
+tile.element.ts.name=テネシン州
+tile.element.u.name=ウラン 
+tile.element.unknown.name=未知の要素 
+tile.element.v.name=バナジウム
+tile.element.w.name=タングステン 
+tile.element.xe.name=キセノン 
+tile.element.y.name=イットリウム 
+tile.element.yb.name=イッテルビウム 
+tile.element.zn.name=亜鉛
+tile.element.zr.name=ジルコニウム 
+tile.elementconstructor.name=要素コンストラクター 
+tile.hard_glass.name=強化ガラス 
+tile.hard_glass_pane.name=硬化ガラス板 
+tile.hard_stained_glass.black.name=硬化した黒いステンド グラス 
+tile.hard_stained_glass.blue.name=硬化ブルーステンドグラス 
+tile.hard_stained_glass.brown.name=硬化した茶色のステンド グラス 
+tile.hard_stained_glass.cyan.name=硬化シアンステンドグラス 
+tile.hard_stained_glass.gray.name=硬化グレーステンドグラス 
+tile.hard_stained_glass.green.name=硬化した緑色のステンド グラス 
+tile.hard_stained_glass.light_blue.name=硬化ライトブルーステンドグラス 
+tile.hard_stained_glass.lime.name=硬化石灰ステンド グラス 
+tile.hard_stained_glass.magenta.name=硬化したマゼンタのステンド グラス 
+tile.hard_stained_glass.orange.name=硬化したオレンジ色のステンド グラス 
+tile.hard_stained_glass.pink.name=硬化ピンクのステンド グラス 
+tile.hard_stained_glass.purple.name=硬化した紫色のステンド グラス 
+tile.hard_stained_glass.red.name=硬化した赤いステンド グラス 
+tile.hard_stained_glass.silver.name=硬化ライトグレーステンドグラス 
+tile.hard_stained_glass.white.name=硬化した白いステンド グラス 
+tile.hard_stained_glass.yellow.name=硬化した黄色のステンド グラス 
+tile.hard_stained_glass_pane.black.name=硬化黒色ステンド ガラス板 
+tile.hard_stained_glass_pane.blue.name=硬化された青色のステンド グラス 
+tile.hard_stained_glass_pane.brown.name=硬化した茶色のステンド グラス 
+tile.hard_stained_glass_pane.cyan.name=硬化したシアンのステンド グラス 
+tile.hard_stained_glass_pane.gray.name=硬化グレーステンドグラス 
+tile.hard_stained_glass_pane.green.name=硬化した緑色のステンド グラス 
+tile.hard_stained_glass_pane.light_blue.name=硬化されたライトブルーのステンド グラス 
+tile.hard_stained_glass_pane.lime.name=硬化石灰ステンド ガラス 
+tile.hard_stained_glass_pane.magenta.name=硬化したマゼンタのステンド グラス 
+tile.hard_stained_glass_pane.orange.name=硬化したオレンジ色のステンド グラス 
+tile.hard_stained_glass_pane.pink.name=硬化ピンクのステンド グラス 
+tile.hard_stained_glass_pane.purple.name=硬化紫色のステンド グラス 
+tile.hard_stained_glass_pane.red.name=硬化した赤いステンド グラス 
+tile.hard_stained_glass_pane.silver.name=硬化ライトグレーステンドグラス 
+tile.hard_stained_glass_pane.white.name=硬化した白いステンド グラス 
+tile.hard_stained_glass_pane.yellow.name=硬化した黄色のステンド グラス 
+tile.labtable.name=実験台 
+tile.materialreducer.name=マテリアルレデューサー 
+tile.underwater_tnt.name=水中TNT 
+tile.underwater_torch.name=水中トーチ 
+
+
+
+
+
+### Miscellaneous
+item..name=空白
+item.banner.base.black=ブラックバナーベース
+item.banner.base.blue=ブルーバナーベース
+item.banner.base.brown=ブラウンバナーベース
+item.banner.base.cyan=シアンバナーベース
+item.banner.base.gray=グレーのバナーベース
+item.banner.base.green=グリーンバナーベース
+item.banner.base.lightBlue=ライトブルーのバナーベース
+item.banner.base.lime=ライムバナーベース
+item.banner.base.magenta=マゼンタのバナーベース
+item.banner.base.orange=オレンジバナーベース
+item.banner.base.pink=ピンクのバナーベース
+item.banner.base.purple=パープルバナーベース
+item.banner.base.red=レッドバナーベース
+item.banner.base.silver=ライトグレーのバナーベース
+item.banner.base.white=ホワイトバナーベース
+item.banner.base.yellow=イエローバナーベース
+item.minecraft.goat_horn.sound.8=フライ（旧）
+item.minecraft.goat_horn.sound.9=夢（旧）
+tipped_arrow.effect.empty=作成不可能な先付きの矢
+tipped_arrow.effect.awkward=ぎこちない先端の矢印
+tipped_arrow.effect.mundane.extended=拡張されたありふれた先端矢印
+tipped_arrow.effect.mundane=ありふれた先付き矢印
+tipped_arrow.effect.thick=先端が太い矢印

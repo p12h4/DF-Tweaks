@@ -22,11 +22,12 @@
       "type": "pickString",
       "description": "Select the Minecraft version:",
       "options": [
+        "1.21.70",
         "1.21",
         "1.18.10",
         "1.16.40"
       ],
-      "default": "1.21"
+      "default": "1.21.70"
     },
     {
       "id": "target",

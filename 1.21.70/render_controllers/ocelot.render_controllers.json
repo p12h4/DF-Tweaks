@@ -1,0 +1,19 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.ocelot": {
+      "arrays": {
+        "textures": {
+          "Array.skins": ["Texture.wild", "Texture.black", "Texture.red", "Texture.siamese", "Texture.tamed"]
+        }
+      },
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": ["Array.skins[q.is_tamed ? 4 : q.variant]"]
+    }
+  }
+}

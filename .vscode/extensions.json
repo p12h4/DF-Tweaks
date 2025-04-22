@@ -2,7 +2,6 @@
   "recommendations": [
     "kconway.vscode-undo-buttons",
     "bierner.markdown-preview-github-styles",
-    "tyriar.luna-paint",
-    "superant.mc-dp-icons"
+    "tyriar.luna-paint"
   ]
 }

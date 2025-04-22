@@ -1,0 +1,19 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.vindicator.base": {
+      "loop": true,
+      "bones": {
+        "arms": {
+          "position": [0, "-3 - this", "-1 - this"],
+          "rotation": ["-42.97 - this", 0, 0]
+        },
+        "rightItem": {
+          "position": ["q.is_angry ? (q.is_item_name_any('slot.weapon.mainhand', 'minecraft:banner') ? -2.5 : 0) : 4", "q.is_angry ? 0 : 3", "q.is_angry ? 0 : -2"],
+          "rotation": ["q.is_angry ? 0 : -32.5", 0, 0],
+          "scale": "q.is_angry ? 1 : (q.is_item_name_any('slot.weapon.mainhand', 'minecraft:banner') ? 1 : 0)"
+        }
+      }
+    }
+  }
+}

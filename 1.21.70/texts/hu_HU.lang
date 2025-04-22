@@ -1,0 +1,373 @@
+### Items
+## Regular Items
+item.copper_horn.name=Rézkürt 
+item.spawn_egg.name=Ívik
+
+
+## Education Edition Items
+item.glow_stick.black.name=Fekete Glow Stick 
+
+
+
+
+
+### Tiles
+## Doors
+tile.wooden_door.name=Tölgy ajtó
+tile.spruce_door.name=Lucfenyő ajtó
+tile.birch_door.name=Nyírfa ajtó
+tile.jungle_door.name=Dzsungel ajtó
+tile.acacia_door.name=Akác ajtó
+tile.dark_oak_door.name=Sötét tölgy ajtó
+tile.mangrove_door.name=Mangrove ajtó
+
+
+## Signs
+tile.wall_sign.name=tölgy fal jele
+tile.spruce_wall_sign.name=Lucfenyő fal jele
+tile.birch_wall_sign.name=Nyírfal jele
+tile.jungle_wall_sign.name=Dzsungel fal jele
+tile.acacia_wall_sign.name=Akác faltábla
+tile.darkoak_wall_sign.name=Sötét tölgy fal jele
+tile.mangrove_standing_sign.name=Mangrove jel
+tile.mangrove_wall_sign.name=Mangrove fal jele
+tile.bamboo_standing_sign.name=Bambusz jel
+tile.bamboo_wall_sign.name=Bambusz fal jele
+tile.cherry_standing_sign.name=Cseresznye jel
+tile.cherry_wall_sign.name=Cseresznyefal jele
+tile.crimson_wall_sign.name=Bíbor Fal jele
+tile.warped_wall_sign.name=Elvetemült faltábla
+
+
+## Double Slabs
+tile.double_wooden_slab.oak.name=Dupla tölgy födém
+tile.double_wooden_slab.spruce.name=Luc dupla födém
+tile.double_wooden_slab.birch.name=Nyír kettős födém
+tile.double_wooden_slab.jungle.name=Jungle Double Slab
+tile.double_wooden_slab.acacia.name=Akác dupla födém
+tile.double_wooden_slab.big_oak.name=Sötét tölgy dupla födém
+tile.mangrove_double_slab.name=Mangrove kettős födém
+tile.bamboo_double_slab.name=Bambusz kettős födém
+tile.bamboo_mosaic_double_slab.name=Mosaic Bamboo Double Slab
+tile.crimson_double_slab.name=Bíbor kettős födém
+tile.warped_double_slab.name=Elvetemült kettős födém
+tile.double_stone_slab.wood.name=Megkövesedett tölgy kettős födém
+tile.double_stone_slab2.mossy_cobblestone.name=Mohos Cobblestone Double Slab
+tile.double_stone_slab4.stone.name=Kő kettős födém
+tile.double_stone_slab3.andesite.name=Andezit kettős födém
+tile.double_stone_slab3.andesite.smooth.name=Sima andezit kettős födém
+tile.double_stone_slab3.diorite.name=Diorit kettős födém
+tile.double_stone_slab3.diorite.smooth.name=Sima diorit kettős födém
+tile.double_stone_slab3.granite.name=Gránit kettős födém
+tile.double_stone_slab3.granite.smooth.name=Sima gránit kettős födém
+tile.double_stone_slab4.mossy_stone_brick.name=Mohos kőtégla kettős födém
+tile.double_stone_slab4.cut_sandstone.name=Vágott homokkő dupla födém
+tile.double_stone_slab2.sandstone.smooth.name=Sima homokkő dupla födém
+tile.double_stone_slab4.cut_red_sandstone.name=Vágott vörös homokkő dupla födém
+tile.double_stone_slab3.red_sandstone.smooth.name=Sima vörös homokkő dupla födém
+tile.mud_brick_double_slab.name=Sártégla kettős födém
+tile.polished_tuff_double_slab.name=Polírozott tufa kettős födém
+tile.tuff_brick_double_slab.name=Tufa tégla kettős födém
+tile.tuff_double_slab.name=Tufa kettős födém
+tile.double_cut_copper_slab.name=Vágott réz kettős lemez
+tile.exposed_double_cut_copper_slab.name=Látható vágott réz kettős födém
+tile.oxidized_double_cut_copper_slab.name=Oxidált vágott réz kettős födém
+tile.waxed_double_cut_copper_slab.name=Viaszított vágott réz kettős födém
+tile.waxed_exposed_double_cut_copper_slab.name=Viaszolt, szabadon vágott réz kettős födém
+tile.waxed_oxidized_double_cut_copper_slab.name=Viaszított oxidált vágott réz kettős lemez
+tile.waxed_weathered_double_cut_copper_slab.name=Viaszos, viharvert vágott réz kettős födém
+tile.weathered_double_cut_copper_slab.name=Viharozott vágott réz kettős födém
+tile.double_stone_slab2.prismarine.rough.name=Prismarine dupla födém
+tile.double_stone_slab2.prismarine.bricks.name=Prismarine Brick Double Slab
+tile.double_stone_slab2.prismarine.dark.name=Sötét Prismarine dupla födém
+tile.double_stone_slab4.smooth_quartz.name=Sima kvarc kettős lemez
+tile.blackstone_double_slab.name=Blackstone Double Slab
+tile.polished_blackstone_brick_double_slab.name=Polírozott Blackstone Brick Dupla födém
+tile.polished_blackstone_double_slab.name=Polírozott Blackstone dupla födém
+tile.double_stone_slab2.red_nether_brick.name=Red Nether Brick Double Slab
+tile.double_stone_slab3.end_brick.name=Végtégla kettős födém
+tile.double_stone_slab2.purpur.name=Purpur kettős födém
+
+
+## Cut Copper Blocks
+tile.cut_copper_block.exposed.name=Szabadon vágott rézblokk 
+tile.cut_copper_block.exposed.waxed.name=Viaszított, szabadon vágott rézblokk 
+tile.cut_copper_block.name=Vágott réztömb 
+tile.cut_copper_block.oxidized.name=Oxidált vágott rézblokk 
+tile.cut_copper_block.waxed.name=Waxed Cut Copper Block 
+tile.cut_copper_block.weathered.name=Viharvert vágott rézblokk 
+tile.cut_copper_block.weathered.waxed.name=Viaszos, viharvert vágott rézblokk 
+
+
+## Nature
+tile.bamboo_sapling.name=Bambuszcsemete
+tile.bamboo_sapling.oak.name=Tölgy bambusz csemete
+tile.bamboo_sapling.spruce.name=Luc bambusz csemete
+tile.bamboo_sapling.birch.name=Nyír bambusz csemete
+tile.bamboo_sapling.jungle.name=Dzsungel bambuszcsemete
+tile.bamboo_sapling.acacia.name=Akác bambusz csemete
+tile.bamboo_sapling.big_oak.name=Sötét tölgy bambusz csemete
+tile.chorus_plant.name=Kórus Sztem
+tile.melon_stem.name=Dinnye szár
+tile.pitcher_crop.name=Kancsó Pod
+tile.torchflower_crop.name=Fáklyavirág
+tile.mangrove_propagule_hanging.name=Függő Mangrove Propagule 
+tile.kelp.name=Hínár
+
+
+## Liquids
+tile.flowing_lava.name=Áramló láva
+tile.flowing_water.name=Folyó víz
+tile.lava.name=Statikus láva
+tile.water.name=Statikus víz
+
+
+## Redstone Blocks
+tile.daylight_detector_inverted.name=Fordított nappali fényérzékelő
+tile.lit_redstone_lamp.name=Meggyújtott Redstone lámpa
+tile.lit_redstone_ore.name=Lit Redstone Ore
+tile.lit_deepslate_redstone_ore.name=Lit Deepslate Redstone Ore
+tile.pistonarmcollision.name=Dugattyús kar ütközése
+tile.piston_arm_collision.name=Dugattyús kar ütközése
+tile.stickypistonarmcollision.name=Ragadós dugattyús kar ütközés
+tile.sticky_piston_arm_collision.name=Ragadós dugattyús kar ütközés
+tile.unpowered_repeater.name=Tápellátás nélküli átjátszó
+tile.unpowered_comparator.name=Unpowered Comparator
+tile.powered_repeater.name=Powered Repeater
+tile.powered_comparator.name=Powered Comparator
+
+
+## Light Sources
+tile.lit_furnace.name=Meggyújtott kemence
+tile.lit_blast_furnace.name=Meggyújtott nagyolvasztó
+tile.lit_smoker.name=Lit Smoker
+
+
+## Decorative Blocks
+tile.flower_pot.name=Virágcserép
+tile.frame.name=Keret
+tile.glow_frame.name=Glow Frame
+tile.wall_banner.name=Fali Banner
+tile.stone_slab.wood.name=Megkövesedett tölgyfödém
+tile.purpur_block.smooth.name=Sima Purpur
+tile.deprecated_purpur_block_2.name=Sima Purpur
+tile.skull.name=Falkoponya
+
+
+## Functional Blocks
+tile.allow.name=Lehetővé teszi
+tile.border_block.name=Határ
+tile.bubble_column.name=Buborék oszlop
+tile.deny.name=Tagadni
+tile.end_gateway.name=Vége az átjárónak
+tile.end_portal.name=Portál csempe vége
+tile.end_portal_frame.name=Portál keret vége
+tile.lava_cauldron.name=Láva üst
+tile.powder_snow.name=Porhó blokk
+
+
+## Miscellaneous Blocks
+tile.client_request_placeholder_block.name=Client Request Placeholder Blokk
+tile.glowingobsidian.name=Izzó Obszidián
+tile.reserved6.name=Fenntartva 6
+tile.info_update.name=Blokk frissítése
+tile.info_update2.name=Frissítse a 2. blokkot
+tile.movingBlock.name=Mozgó blokk
+tile.moving_block.name=Mozgó blokk
+
+
+## Education Edition Blocks
+tile.chemical_heat.name=Kémiai hő 
+tile.colored_torch.blue.name=Kék fáklya 
+tile.colored_torch.green.name=Zöld fáklya 
+tile.colored_torch.purple.name=Lila fáklya 
+tile.colored_torch.red.name=Piros fáklya 
+tile.compoundcreator.name=Összetett alkotó 
+tile.element.ac.name=Actinium 
+tile.element.ag.name=Ezüst 
+tile.element.al.name=Alumínium 
+tile.element.am.name=Americium 
+tile.element.ar.name=Argon 
+tile.element.as.name=Arzén 
+tile.element.at.name=Asztatin 
+tile.element.au.name=Arany 
+tile.element.b.name=Bór 
+tile.element.ba.name=Bárium 
+tile.element.be.name=Berillium 
+tile.element.bh.name=Bohrium 
+tile.element.bi.name=Bizmut 
+tile.element.bk.name=Berkelium 
+tile.element.br.name=Bróm 
+tile.element.c.name=Szén 
+tile.element.ca.name=Kalcium 
+tile.element.cd.name=Kadmium 
+tile.element.ce.name=Cérium 
+tile.element.cf.name=Kalifornia 
+tile.element.cl.name=Klór 
+tile.element.cm.name=Kúrium 
+tile.element.cn.name=Kopernicium 
+tile.element.co.name=Kobalt 
+tile.element.cr.name=Króm 
+tile.element.cs.name=Cézium 
+tile.element.cu.name=Réz 
+tile.element.db.name=Dubnium 
+tile.element.ds.name=Darmstadtium 
+tile.element.dy.name=Dysprosium 
+tile.element.er.name=Erbium 
+tile.element.es.name=Einsteinium 
+tile.element.eu.name=Európa 
+tile.element.f.name=Fluor 
+tile.element.fe.name=Vas 
+tile.element.fl.name=Flerovium 
+tile.element.fm.name=Fermium 
+tile.element.fr.name=Francium 
+tile.element.ga.name=Gallium 
+tile.element.gd.name=Gadolínium 
+tile.element.ge.name=Germánium 
+tile.element.h.name=Hidrogén 
+tile.element.he.name=Hélium 
+tile.element.hf.name=Hafnium 
+tile.element.hg.name=Merkúr 
+tile.element.ho.name=Holmium 
+tile.element.hs.name=Hassium 
+tile.element.i.name=Jód 
+tile.element.in.name=Indium 
+tile.element.ir.name=Irídium 
+tile.element.k.name=Kálium 
+tile.element.kr.name=Kripton 
+tile.element.la.name=Lantán 
+tile.element.li.name=Lítium 
+tile.element.lr.name=Lawrencium 
+tile.element.lu.name=Lutécium 
+tile.element.lv.name=Livermorium 
+tile.element.mc.name=Moscovium 
+tile.element.md.name=Mendelevium 
+tile.element.mg.name=Magnézium 
+tile.element.mn.name=Mangán 
+tile.element.mo.name=Molibdén 
+tile.element.mt.name=Meitnerium 
+tile.element.n.name=Nitrogén 
+tile.element.na.name=Nátrium 
+tile.element.nb.name=Nióbium 
+tile.element.nd.name=Neodímium 
+tile.element.ne.name=Neon 
+tile.element.nh.name=Nihonium 
+tile.element.ni.name=Nikkel 
+tile.element.no.name=Nobélium 
+tile.element.np.name=Neptúnium 
+tile.element.o.name=Oxigén 
+tile.element.og.name=Oganesson 
+tile.element.os.name=ozmium 
+tile.element.p.name=Foszfor 
+tile.element.pa.name=Protactinium 
+tile.element.pb.name=Ólom 
+tile.element.pd.name=Palládium 
+tile.element.pm.name=Promethium 
+tile.element.po.name=Polónium 
+tile.element.pr.name=Prazeodímium 
+tile.element.pt.name=Platina 
+tile.element.pu.name=Plutónium 
+tile.element.ra.name=Rádium 
+tile.element.rb.name=Rubídium 
+tile.element.re.name=Rénium 
+tile.element.rf.name=Rutherfordium 
+tile.element.rg.name=Röntgén 
+tile.element.rh.name=Ródium 
+tile.element.rn.name=Radon 
+tile.element.ru.name=Ruténium 
+tile.element.s.name=Kén 
+tile.element.sb.name=Antimon 
+tile.element.sc.name=Scandium 
+tile.element.se.name=Szelén 
+tile.element.sg.name=Seaborgium 
+tile.element.si.name=Szilícium 
+tile.element.sm.name=Szamárium 
+tile.element.sn.name=Ón 
+tile.element.sr.name=Stroncium 
+tile.element.ta.name=Tantál 
+tile.element.tb.name=Terbium 
+tile.element.tc.name=Technécium 
+tile.element.te.name=Tellúr 
+tile.element.th.name=Tórium 
+tile.element.ti.name=Titán 
+tile.element.tl.name=Tallium 
+tile.element.tm.name=Thulium 
+tile.element.ts.name=Tennessine 
+tile.element.u.name=Urán 
+tile.element.unknown.name=Ismeretlen elem 
+tile.element.v.name=Vanádium 
+tile.element.w.name=Volfrám 
+tile.element.xe.name=Xenon 
+tile.element.y.name=Ittrium 
+tile.element.yb.name=Ytterbium 
+tile.element.zn.name=Cink 
+tile.element.zr.name=Cirkónium 
+tile.elementconstructor.name=Elem konstruktor 
+tile.hard_glass.name=Edzett üveg 
+tile.hard_glass_pane.name=Edzett üvegtábla 
+tile.hard_stained_glass.black.name=Edzett fekete ólomüveg 
+tile.hard_stained_glass.blue.name=Edzett kék ólomüveg 
+tile.hard_stained_glass.brown.name=Edzett barna ólomüveg 
+tile.hard_stained_glass.cyan.name=Edzett cián ólomüveg 
+tile.hard_stained_glass.gray.name=Edzett szürke ólomüveg 
+tile.hard_stained_glass.green.name=Edzett zöld ólomüveg 
+tile.hard_stained_glass.light_blue.name=Edzett világoskék ólomüveg 
+tile.hard_stained_glass.lime.name=Edzett mész ólomüveg 
+tile.hard_stained_glass.magenta.name=Edzett bíbor ólomüveg 
+tile.hard_stained_glass.orange.name=Edzett narancssárga ólomüveg 
+tile.hard_stained_glass.pink.name=Edzett rózsaszín ólomüveg 
+tile.hard_stained_glass.purple.name=Edzett lila ólomüveg 
+tile.hard_stained_glass.red.name=Edzett vörös ólomüveg 
+tile.hard_stained_glass.silver.name=Edzett világosszürke ólomüveg 
+tile.hard_stained_glass.white.name=Edzett fehér ólomüveg 
+tile.hard_stained_glass.yellow.name=Edzett sárga ólomüveg 
+tile.hard_stained_glass_pane.black.name=Edzett fekete ólomüveg 
+tile.hard_stained_glass_pane.blue.name=Edzett kék ólomüveg 
+tile.hard_stained_glass_pane.brown.name=Edzett barna ólomüveg 
+tile.hard_stained_glass_pane.cyan.name=Edzett cián ólomüveg 
+tile.hard_stained_glass_pane.gray.name=Edzett szürke ólomüveg 
+tile.hard_stained_glass_pane.green.name=Edzett zöld ólomüveg 
+tile.hard_stained_glass_pane.light_blue.name=Edzett világoskék ólomüveg 
+tile.hard_stained_glass_pane.lime.name=Edzett mész ólomüveg 
+tile.hard_stained_glass_pane.magenta.name=Edzett bíbor festett üvegtábla 
+tile.hard_stained_glass_pane.orange.name=Edzett narancssárga ólomüveg 
+tile.hard_stained_glass_pane.pink.name=Edzett rózsaszín ólomüveg 
+tile.hard_stained_glass_pane.purple.name=Edzett lila ólomüveg 
+tile.hard_stained_glass_pane.red.name=Edzett vörös ólomüveg 
+tile.hard_stained_glass_pane.silver.name=Edzett világosszürke ólomüveg 
+tile.hard_stained_glass_pane.white.name=Edzett fehér ólomüveg 
+tile.hard_stained_glass_pane.yellow.name=Edzett sárga ólomüveg 
+tile.labtable.name=Labor táblázat 
+tile.materialreducer.name=Anyagcsökkentő 
+tile.underwater_tnt.name=Víz alatti TNT 
+tile.underwater_torch.name=Víz alatti fáklya 
+
+
+
+
+
+### Miscellaneous
+item..name=Üres
+item.banner.base.black=Fekete Banner alap
+item.banner.base.blue=Kék Banner alap
+item.banner.base.brown=Barna Banner alap
+item.banner.base.cyan=Cián Banner alap
+item.banner.base.gray=Szürke Banner alap
+item.banner.base.green=Zöld Banner alap
+item.banner.base.lightBlue=Világoskék zászlóalap
+item.banner.base.lime=Lime Banner alap
+item.banner.base.magenta=Magenta Banner alap
+item.banner.base.orange=Narancssárga zászlóalap
+item.banner.base.pink=Rózsaszín Banner alap
+item.banner.base.purple=Lila Banner alap
+item.banner.base.red=Red Banner Base
+item.banner.base.silver=Világosszürke Banner Alap
+item.banner.base.white=Fehér Banner alap
+item.banner.base.yellow=Sárga zászlóalap
+item.minecraft.goat_horn.sound.8=Repül (régi)
+item.minecraft.goat_horn.sound.9=álom (régi)
+tipped_arrow.effect.empty=Kidolgozhatatlan hegyes nyíl
+tipped_arrow.effect.awkward=Kínos hegyű nyíl
+tipped_arrow.effect.mundane.extended=Kiterjesztett Mundane Tipped Arrow
+tipped_arrow.effect.mundane=Mundane hegyes nyíl
+tipped_arrow.effect.thick=Vastag hegyű nyíl

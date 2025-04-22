@@ -4,14 +4,13 @@ SETLOCAL
 SET "VERSION=%1"
 SET "TARGET=%2"
 
-SET "RELEASE_PATH=%LocalAppData%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\development_resource_packs\DFTweaks"
-SET "PREVIEW_PATH=%LocalAppData%\Packages\Microsoft.MinecraftWindowsBeta_8wekyb3d8bbwe\LocalState\games\com.mojang\development_resource_packs\DFTweaks"
+SET "BASE_PATH=%LocalAppData%\Packages"
+SET "COMMON_PATH=LocalState\games\com.mojang\development_resource_packs\DFTweaks"
 
-
-IF "%TARGET%"=="Release" (
-   SET "DESTINATION=%RELEASE_PATH%"
+IF /I "%TARGET%"=="Release" (
+   SET "DESTINATION=%BASE_PATH%\Microsoft.MinecraftUWP_8wekyb3d8bbwe\%COMMON_PATH%"
 ) ELSE (
-   SET "DESTINATION=%PREVIEW_PATH%"
+   SET "DESTINATION=%BASE_PATH%\Microsoft.MinecraftWindowsBeta_8wekyb3d8bbwe\%COMMON_PATH%"
 )
 
 
