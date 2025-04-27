@@ -16,29 +16,20 @@
         "mid": "geometry.pufferfish.mid.v1.8",
         "large": "geometry.pufferfish.large.v1.8"
       },
+      "animations": {
+        "flop": "animation.pufferfish.flop",
+        "swim": "animation.pufferfish.swim",
+        "general": "controller.animation.fish.general"
+      },
       "scripts": {
+        "initialize": ["v.is_special_health_case = q.max_health == 6;"],
         "pre_animation": [
           "v.ZRot = !q.is_in_water ? Math.cos(q.time_stamp * 14.32) * 90 : 0.0;",
           "v.AnimationAmountBlend = Math.lerp(v.AnimationAmountPrev, v.AnimationAmount, q.frame_alpha);"
         ],
         "animate": ["general"]
       },
-      "animations": {
-        "flop": "animation.pufferfish.flop",
-        "swim": "animation.pufferfish.swim",
-        "general": "controller.animation.fish.general"
-      },
-      "render_controllers": [
-        {
-          "controller.render.pufferfish.small": "q.variant == 0"
-        },
-        {
-          "controller.render.pufferfish.medium": "q.variant == 1"
-        },
-        {
-          "controller.render.pufferfish.large": "q.variant == 2"
-        }
-      ],
+      "render_controllers": ["controller.render.pufferfish"],
       "spawn_egg": {
         "texture": "spawn_egg_pufferfish"
       }

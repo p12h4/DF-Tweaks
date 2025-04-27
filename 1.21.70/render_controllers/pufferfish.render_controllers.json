@@ -1,47 +1,22 @@
 {
   "format_version": "1.8.0",
   "render_controllers": {
-    "controller.render.pufferfish.small": {
+    "controller.render.pufferfish": {
       "arrays": {
         "textures": {
           "Array.variants": ["Texture.default", "Texture.skeleton"]
+        },
+        "geometries": {
+          "Array.geometries": ["Geometry.default", "Geometry.mid", "Geometry.large"]
         }
       },
-      "geometry": "geometry.default",
+      "geometry": "Array.geometries[q.variant]",
       "materials": [
         {
           "*": "Material.default"
         }
       ],
-      "textures": ["Array.variants[q.max_health == 6 ? 1 : 0 ]"]
-    },
-    "controller.render.pufferfish.medium": {
-      "arrays": {
-        "textures": {
-          "Array.variants": ["Texture.default", "Texture.skeleton"]
-        }
-      },
-      "geometry": "geometry.mid",
-      "materials": [
-        {
-          "*": "Material.default"
-        }
-      ],
-      "textures": ["Array.variants[q.max_health == 6 ? 1 : 0 ]"]
-    },
-    "controller.render.pufferfish.large": {
-      "arrays": {
-        "textures": {
-          "Array.variants": ["Texture.default", "Texture.skeleton"]
-        }
-      },
-      "geometry": "geometry.large",
-      "materials": [
-        {
-          "*": "Material.default"
-        }
-      ],
-      "textures": ["Array.variants[q.max_health == 6 ? 1 : 0 ]"]
+      "textures": ["Array.variants[v.is_special_health_case ? 1 : 0]"]
     }
   }
 }

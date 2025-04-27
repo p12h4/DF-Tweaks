@@ -1,5 +1,5 @@
 {
-  "format_version": "1.8.0",
+  "format_version": "1.10.0",
   "minecraft:client_entity": {
     "description": {
       "identifier": "minecraft:ocelot",
@@ -23,19 +23,21 @@
         "sprint": "animation.ocelot.sprint",
         "sit": "animation.ocelot.sit",
         "look_at_target": "animation.common.look_at_target",
-        "baby_transform": "animation.ocelot.baby_transform"
+        "baby_transform": "animation.ocelot.baby_transform",
+        "controller_move": "controller.animation.ocelot.move",
+        "controller_baby": "controller.animation.ocelot.baby",
+        "controller_look_at_target": "controller.animation.ocelot.look_at_target"
       },
-      "animation_controllers": [
-        {
-          "move": "controller.animation.ocelot.move"
-        },
-        {
-          "baby": "controller.animation.ocelot.baby"
-        },
-        {
-          "look_at_target": "controller.animation.ocelot.look_at_target"
-        }
-      ],
+      "scripts": {
+        "initialize": [
+          "v.is_tamed = q.is_tamed;"
+        ],
+        "animate": [
+          "controller_move",
+          "controller_baby",
+          "controller_look_at_target"
+        ]
+      },
       "render_controllers": ["controller.render.ocelot"],
       "spawn_egg": {
         "texture": "spawn_egg_ocelot"

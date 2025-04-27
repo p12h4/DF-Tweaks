@@ -1,5 +1,5 @@
 {
-  "format_version": "1.8.0",
+  "format_version": "1.10.0",
   "minecraft:client_entity": {
     "description": {
       "identifier": "minecraft:phantom",
@@ -14,24 +14,25 @@
       "geometry": {
         "default": "geometry.phantom"
       },
+      "animations": {
+        "phantom_base_pose": "animation.phantom.base_pose",
+        "move": "animation.phantom.move",
+        "controller_phantom_base_pose": "controller.animation.phantom.base_pose",
+        "controller_move": "controller.animation.phantom.move"
+      },
       "scripts": {
+        "initialize": [
+          "v.is_special_health_case = q.max_health == 10;"
+        ],
         "pre_animation": [
           "v.wingRotZ = 16.0 * Math.sin((v.RuntimeID * 3 + q.life_time * 20.0) * 7.448454);",
           "v.tailRotX = -5.0 * Math.sin((v.RuntimeID * 3 + q.life_time * 20.0) * 14.896908) - 5.0;"
+        ],
+        "animate": [
+          "controller_phantom_base_pose",
+          "controller_move"
         ]
       },
-      "animations": {
-        "phantom_base_pose": "animation.phantom.base_pose",
-        "move": "animation.phantom.move"
-      },
-      "animation_controllers": [
-        {
-          "phantom_base_pose": "controller.animation.phantom.base_pose"
-        },
-        {
-          "move": "controller.animation.phantom.move"
-        }
-      ],
       "particle_effects": {
         "wing_dust": "minecraft:phantom_trail_particle"
       },

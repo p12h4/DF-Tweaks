@@ -13,13 +13,6 @@
       "geometry": {
         "default": "geometry.evoker.v1.8"
       },
-      "scripts": {
-        "scale": "0.9375",
-        "animate": [
-          "controller_general",
-          "controller_move"
-        ]
-      },
       "animations": {
         "general": "animation.evoker.general",
         "casting": "animation.evoker.casting",
@@ -30,6 +23,13 @@
         "controller_general": "controller.animation.evoker.general",
         "controller_move": "controller.animation.villager.move",
         "controller_riding": "controller.animation.humanoid.riding_legs_only"
+      },
+      "scripts": {
+        "scale": "0.9375",
+        "animate": [
+          "controller_general",
+          "controller_move"
+        ]
       },
       "particle_effects": {
         "spell": "minecraft:evoker_spell"

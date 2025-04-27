@@ -1,5 +1,5 @@
 {
-  "format_version": "1.8.0",
+  "format_version": "1.10.0",
   "minecraft:client_entity": {
     "description": {
       "identifier": "minecraft:tropicalfish",
@@ -25,25 +25,27 @@
         "bPattern6": "textures/entity/fish/tropical_b_pattern_6",
         "patternSkeleton": "textures/misc/empty"
       },
-      "scripts": {
-        "pre_animation": [
-          "v.ZRot = !q.is_in_water ? Math.cos((q.time_stamp + q.frame_alpha) * 0.25) * 90 : 0.0;",
-          "v.AnimationAmountBlend = Math.lerp(v.AnimationAmountPrev, v.AnimationAmount, q.frame_alpha);"
-        ]
-      },
       "geometry": {
         "typeA": "geometry.tropicalfish_a",
         "typeB": "geometry.tropicalfish_b"
       },
       "animations": {
         "flop": "animation.tropicalfish.flop",
-        "swim": "animation.tropicalfish.swim"
+        "swim": "animation.tropicalfish.swim",
+        "controller_general": "controller.animation.fish.general"
       },
-      "animation_controllers": [
-        {
-          "general": "controller.animation.fish.general"
-        }
-      ],
+      "scripts": {
+        "initialize": [
+          "v.is_special_health_case = q.max_health == 6;"
+        ],
+        "pre_animation": [
+          "v.ZRot = !q.is_in_water ? Math.cos((q.time_stamp + q.frame_alpha) * 0.25) * 90 : 0.0;",
+          "v.AnimationAmountBlend = Math.lerp(v.AnimationAmountPrev, v.AnimationAmount, q.frame_alpha);"
+        ],
+        "animate": [
+          "controller_general"
+        ]
+      },
       "render_controllers": [
         "controller.render.tropicalfish"
       ],

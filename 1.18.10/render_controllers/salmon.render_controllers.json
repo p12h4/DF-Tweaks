@@ -13,7 +13,7 @@
           "*": "Material.default"
         }
       ],
-      "textures": ["Array.variants[q.max_health == 6 ? 1 : 0 ]"]
+      "textures": ["Array.variants[v.is_special_health_case ? 1 : 0 ]"]
     }
   }
 }

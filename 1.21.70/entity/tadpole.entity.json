@@ -1,5 +1,5 @@
 {
-  "format_version": "1.8.0",
+  "format_version": "1.10.0",
   "minecraft:client_entity": {
     "description": {
       "identifier": "minecraft:tadpole",
@@ -17,13 +17,17 @@
         "texture": "spawn_egg_tadpole"
       },
       "animations": {
-        "swim": "animation.tadpole.swim"
+        "swim": "animation.tadpole.swim",
+        "controller_general": "controller.animation.tadpole.general"
       },
-      "animation_controllers": [
-        {
-          "general": "controller.animation.tadpole.general"
-        }
-      ],
+      "scripts": {
+        "initialize": [
+          "v.is_special_health_case = q.max_health == 4;"
+        ],
+        "animate": [
+          "controller_general"
+        ]
+      },
       "render_controllers": ["controller.render.tadpole_variant"]
     }
   }

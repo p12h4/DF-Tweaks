@@ -13,7 +13,7 @@
           "*": "Material.default"
         }
       ],
-      "textures": ["Array.skins[q.is_tamed ? 4 : q.variant]"]
+      "textures": ["Array.skins[v.is_tamed ? 4 : q.variant]"]
     }
   }
 }

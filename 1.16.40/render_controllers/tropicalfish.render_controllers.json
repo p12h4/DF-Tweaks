@@ -28,15 +28,15 @@
           ]
         }
       },
-      "geometry": "Array.models[q.max_health == 6 ? 0 : v.TropicalFish.Base]",
+      "geometry": "Array.models[v.is_special_health_case ? 0 : v.TropicalFish.Base]",
       "materials": [
         {
-          "*": "Array.materials[q.max_health == 6 ? 1 : 0]"
+          "*": "Array.materials[v.is_special_health_case ? 1 : 0]"
         }
       ],
       "textures": [
-        "Array.types[q.max_health == 6 ? 2 : v.TropicalFish.Base]",
-        "Array.patterns[q.max_health == 6 ? 12 : v.TropicalFish.Pattern]"
+        "Array.types[v.is_special_health_case ? 2 : v.TropicalFish.Base]",
+        "Array.patterns[v.is_special_health_case ? 12 : v.TropicalFish.Pattern]"
       ]
     }
   }
